@@ -24,19 +24,6 @@
 	<link href="//static.warofgalaxyz.com/media/css/login.css" rel="stylesheet" type="text/css">      
     <link rel="image_src" href="//forum.warofgalaxyz.com/public/style_images/master/meta_image.png">
 	
-	{*<link href="https://warofgalaxyz.com/scripts/smarbannerV2/dist/smartbanner.css" rel="stylesheet" type="text/css">     
-	<script src="https://warofgalaxyz.com/scripts/smarbannerV2/dist/smartbanner.js" type="text/javascript"></script>    
-    <!-- Start SmartBanner configuration -->
-	<meta name="smartbanner:title" content="War Of Galaxyz: The Game">
-	<meta name="smartbanner:author" content="War Of Galaxyz Inc">
-	<meta name="smartbanner:price" content="FREE">
-	<meta name="smartbanner:price-suffix-google" content=" - In Google Play">
-	<meta name="smartbanner:icon-google" content="https://warofgalaxyz.com/scripts/smarbannerV2/drawable-hdpi-icon.png">
-	<meta name="smartbanner:button" content="VIEW">
-	<meta name="smartbanner:button-url-google" content="https://play.google.com/store/apps/details?id=space.xterium.mobileapp">
-	<meta name="smartbanner:enabled-platforms" content="android">
-	<!-- End SmartBanner configuration -->    *}
-	
 	<script type="text/javascript" src="//static.warofgalaxyz.com/media/js/jquery.js"></script> 
 	<script type="text/javascript" src="//static.warofgalaxyz.com/media/js/jquery.cookie.js"></script> 
 	<script src="//static.warofgalaxyz.com/media/js/ajax.js" type="text/javascript"></script> 
