@@ -1,0 +1,6 @@
+Bonjour, {USERNAME}!
+
+Nous sommes ravis que vous avez décidé de faire partie de la communauté des joueurs {GAMENAME}, et nous espérons que vous apprécierez le jeu.
+
+Sincèrement,
+l'administration {GAMENAME}.

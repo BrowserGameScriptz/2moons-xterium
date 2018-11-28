@@ -1,0 +1,101 @@
+<div class="body">
+                
+                    <p><b>The following rules shall be binding on the project&nbsp;</b><b>Xterium</b><b>&nbsp;</b></p>
+<p align="justify"><b><br> </b>In case of violation of rules and / or the User Agreement, the relevant game penalty. If you do not understand any provision of the rules or your account blocked, to clarify the contact support by mail: <a href="mailto:support@xterium.space">support@xterium.space</a>.</p>
+<p>All questions on the user account can only be solved with their owners.</p>
+<p>&nbsp;</p>
+<h4>1. <b>Property account.</b></h4>
+<p align="justify">The owner of the account owner is a permanent e-mail address provided during registration. Each player is allowed to control a single account.</p>
+<p align="justify">&nbsp;</p>
+<ol>
+<li>You may not transfer / sale account for permanent control.</li>
+<li>An account may only be sat for a maximum period of 48 continuous hours (admin permission needs to be obtained in cases where a time extension is needed).</li>
+<li>The sitter may, on the account being sat and while the sitting period lasts:     	<ol>
+<li>Spend Resources on buildings or researches</li>
+<li>Fleetsave any ship that imminently endangered by an incoming attacking fleet, only with a deployment or transport mission to one of the accounts own planets</li>
+<li>Place an account into vacation mode.</li>
+</ol></li>
+<li>You can only look at one account. When looking after the player's account can visit the Account only 3 times in 24 hours.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4>2. Multi-accounts.</h4>
+<p align="justify">&nbsp;</p>
+<ol>
+<li>One may not be registered users in more than one account in one universe and shall be punished by blocking all accounts. The penalty applies to all players, regardless of their game development. The player with more than one account, but in different universes, is not considered a violator of this rule.</li>
+<li>Prohibited conduct battles between accounts which call with one IP-address within the last 14 days.</li>
+<li>Customers playing from the same computer must notify the project is written in the message. support. Accounts that are not notified the administration of the project and used with one PC will be blocked. Playing from one computer do not have the right to: <ol>
+<li>participate in any coordinated action against other players;</li>
+<li>provide any assistance resources;</li>
+<li>at the same time be more than one account;</li>
+<li>send any mission together.</li>
+</ol> </li>
+<li>Multi accounts considered an indirect interaction between your account and another account to which you have access (in this case the owner is not aware of the interactions). What interactions are: attacks to steal resources; transport debris irrevocably; manipulation of resources - passing them in different forms to the main account permanently.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4>3.&nbsp;Deliberate pushing due to another account.</h4>
+<p align="justify">Pushing considered the interaction between the two players with the aim of improving the position of playing one of them at the expense of another, when both players are aware of them and deliberately contribute to this. These interactions include:</p>
+<ol>
+<li>Attack to steal resources.</li>
+<li>Attacks with a small fleet, with the aim of destroying it.</li>
+<li>Commercial real money any game resources, and relevant reports of the purchase and / or sale are prohibited and punishable by deprivation of access to the game.</li>
+<li>Manipulation of resources - a transfer of resources from the higher ranking in the player above standing.</li>
+<li>Cheat Statistics - attack the player, by prior agreement, to obtain daily rewards for achievement or cheat wins statistics.</li>
+<li>Any transfer of resources, with the exception of the transfer through a bank alliance.*</li>
+</ol>
+<p>&nbsp;</p>
+<h4>4. The flight time of the fleet.</h4>
+<p>It is forbidden to send the fleet on a strange planet for more than 5 hours on one side without the consent of the player.</p>
+<p>* Violations are considered only fleet that went more than 5 hours and has not been canceled, sent the fleet for a period of more than 5 hours still not a violation if the fleet was canceled earlier than 5 hours after departure.</p>
+<p>&nbsp;</p>
+<h4>4.1 Objective attacks.</h4>
+<p>Severely forbidden to send the fleet with the purpose to annoy the adversary. it is necessary that the attack has as objective that to destroy the hostile fleet or to take the resources. </p>
+<p>For example: to attach with 1 ship if he is aware of to lose ship is not allowed</p>
+<p>&nbsp;</p>
+<h4>5. Use of undeclared capabilities and software bugs Games.</h4>
+<p align="justify">Undeclared features - the functionality of the Games, are not described or not described in the respective developer documentation, the use of which may be in breach of confidentiality, integrity or availability of information processed.</p>
+<p align="justify">&nbsp;</p>
+<ol>
+<li>Any use of undeclared capabilities and software bugs Games.</li>
+<li>It is forbidden to use programming errors for personal gain.</li>
+<li>It prohibited the use of software errors that cause harm or other users of the game.</li>
+<li>&nbsp;It is forbidden to disseminate information about the program error to other users through the game resources (chat, forum, private messages)</li>
+</ol>
+<p><i>Note: In the event of a critical error in its immediate surrender Administration - believes the promotion play bonus.</i></p>
+<p>&nbsp;</p>
+<h4>6. scripting.</h4>
+<ol>
+<li>Unauthorized impact on the server, and (or) code for the game. Authorize the impacts recognized approved (registered or licensed) by the Administration gaming plugins / add-ons that are installed on the side of the user's browser and modifies the appearance, information, action, etc., without interfering in the internal processes of the game.</li>
+<li>The creation and launch of unauthorized Administration bot or other automated (semi-automatic) program to commit any act aimed at the User's account or other accounts for pumping and (or) the enrichment of your account, as well as actions to chat games.</li>
+</ol>
+<p>&nbsp;</p>
+<h4>7. Hacking.</h4>
+<p align="justify">It is forbidden to have access to your account (s) of third parties, the transmission of values to the game account (s) of third parties, as well as facilitating the transfer. In case of loss of possession of the property by selecting the account and theft (stealing) the password to your account (or e-mail address that is registered on your account) or by deception (or abuse) the owner of the trust account, the stolen property is not returned.</p>
+<p>&nbsp;</p>
+<h4>8. Trading accounts.</h4>
+<p>Prohibited the transfer of your account (s) and / or access to others for a fee and / or charge, as well as the dissemination of information about the intention to commit such actions.</p>
+<p>&nbsp;</p>
+<h4>9. Game resources.</h4>
+<p align="justify">It is forbidden to trade (buying and / or selling) game objects and resources for real money, as well as advertising of trafficking. It prohibits any commercial advertising. It prohibited any fraud or attempted, directly or indirectly related with gaming objects or resources.</p>
+<p>&nbsp;</p>
+<h4>10. Communication</h4>
+<p>When communicating through private messages or chat, is prohibited:</p>
+<ol>
+<li>flood, offtopic, caps, trolling, an obstacle to discussion;</li>
+<li>provocation or prodding to foul play;</li>
+<li>attempted fraud, deceit or misrepresentation of other Users;</li>
+<li>insult other users without the use of profanity and insults or provocations on the mat;</li>
+<li>the use and citing profanity, veiled expressions, if they have a double meaning, and can be regarded as vulgar or obscene (eg, replacement of letters in words any special characters or reduction of obscene phrases);</li>
+<li>explicit or covert advertising of other online resources and products;</li>
+<li>threats of violence in real life, as well as the threat of any harm;</li>
+<li>soliciting or begging in all possible forms;</li>
+<li>attempts to impersonate a representative of administration of the game, as well as being any other attempts to gain access to the account of third parties.</li>
+</ol>
+<p>&nbsp;</p>
+<h4>11. Other conditions.</h4>
+<p align="justify"><b>For these and other violations of the rules of the game the user can be immediately, without any prior notice, denied the functional games, or this functionality may be limited in part.</b><b><br> </b><b>The administration reserves the right to modify the penalty for violations of the items at its discretion, depending on the severity of the offense.</b></p>                    
+               	
+             </div>  
+            <div class="clear"></div>
+		</div><!--/block_light-->

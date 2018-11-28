@@ -1,0 +1,97 @@
+﻿<td style="padding-top:20px" bgcolor="#ffffff" valign="top" width="100%">
+<table class="x_deviceWidth" align="center" border="0" cellpadding="0" cellspacing="0" width="580">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" width="100%">
+<table class="x_deviceWidth" align="left" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+</tr>
+</tbody>
+</table> 
+<table class="x_deviceWidth" align="right" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="x_center" style="font-size:13px; color:#272727; font-weight:light; text-align:right; font-family:Georgia,Times,serif; line-height:20px; vertical-align:middle; padding:10px 20px; font-style:italic">
+<a href="https://warofgalaxyz.com/" target="_blank" style="text-decoration:none; color:#3b3b3b">Acces the website</a> &nbsp;&nbsp;&nbsp; <a href="https://warofgalaxyz.com/index.php?page=disclamer" target="_blank" style="text-decoration:none; color:#3b3b3b">Contact</a> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="x_deviceWidth" align="center" bgcolor="#eeeeed" border="0" cellpadding="0" cellspacing="0" width="580">
+<tbody>
+<tr>
+<td style="padding:0" bgcolor="#ffffff" valign="top"><img src="https://warofgalaxyz.com/media/images/xterium_logo.png" class="x_deviceWidth" alt="Logo WOG" style="display:block; border-radius:4px" border="0"> </td>
+</tr>
+<tr>
+<td style="font-size:13px; color:#757575; font-weight:normal; text-align:left; font-family:Georgia,Times,serif; line-height:18px; vertical-align:top; padding:10px 8px 10px 8px" bgcolor="#eeeeed">
+<table>
+<tbody>
+<tr>
+<td style="padding:0 10px 5px 0" valign="middle"><span style="text-decoration:none; color:#272727; font-size:16px; font-weight:bold">Try the WOG experience </span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align:right; width:100%">On Monday, June 20, 2016</p>
+<p style="text-align:left; width:100%">Sir, Madam,<br>
+<br>
+<em>This message was sent automatically from WOG<br>
+If you have not registered yourself, please contact us by sending us the following IP address : {IP}. </em></p>
+<strong>Your registration on the WOG portal (1.1) was completed.</strong><br>
+<br>
+<strong>Here is all the information about your account :</strong> 
+<p style="margin:0px; padding:10px 15px">— <strong>War Of Galaxyz:</strong> Portal<br>
+— <strong>Username :</strong> {USERNAME}<br>
+— <strong>Email : </strong>{EMAIL}<br>
+— <strong>Validation Link : </strong>{VERTIFYURL}<br>
+
+</p>
+<p>If you want to delete all your personal data, please contact us at the following address : support@warofgalaxyz.com<br>
+<br>
+Cordially. </p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style="height:25px">&nbsp;</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td style="padding:25px 0 0 0" bgcolor="#141823">
+<table class="x_deviceWidth" align="center" border="0" cellpadding="0" cellspacing="0" width="580">
+<tbody>
+<tr>
+<td>
+<table class="x_deviceWidth" align="left" border="0" cellpadding="0" cellspacing="0" width="45%">
+<tbody>
+<tr>
+<td class="x_center" style="font-size:11px; color:#999; font-family:Arial,sans-serif; padding-bottom:25px" valign="top">
+Why I received this email? <br>
+1/ You are a member of the game <br>
+2/ You registered to the Newsletter <br>
+<br>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="x_deviceWidth" align="right" border="0" cellpadding="0" cellspacing="0" width="40%">
+<tbody>
+<tr>
+<td class="x_center" style="font-size:11px; color:#999999; font-weight:normal; font-family:Georgia,Times,serif; line-height:18px; vertical-align:top; text-align:right; padding-bottom:25px" valign="top">
+<a href="https://www.facebook.com/warofgalaxyz/" target="_blank"><img src="https://warofgalaxyz.com/media/images/newsletter_fb.jpg" alt="Facebook" title="Facebook" border="0" height="42" width="42"> </a><br>
+<a href="https://warofgalaxyz.com/" target="_blank" style="text-decoration:none; color:#848484; font-weight:normal">War Of Galaxyz </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>

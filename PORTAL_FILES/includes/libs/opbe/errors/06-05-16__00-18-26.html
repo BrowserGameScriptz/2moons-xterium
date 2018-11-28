@@ -1,0 +1,249 @@
+Friday 6th of May 2016 12:18:26 AM
+exception 'Exception' with message 'Trying to decrease tech' in /home/xterium/public_html/includes/libs/opbe/models/ShipType.php:113
+Stack trace:
+#0 /home/xterium/public_html/includes/libs/opbe/models/Fleet.php(88): ShipType->setWeaponsTech(23)
+#1 /home/xterium/public_html/includes/libs/opbe/models/Fleet.php(50): Fleet->addShipType(Object(Ship))
+#2 /home/xterium/public_html/includes/libs/opbe/models/Fleet.php(236): Fleet->__construct(0, Array, 23, 37, 27)
+#3 /home/xterium/public_html/includes/libs/opbe/models/Player.php(63): Fleet->cloneMe()
+#4 /home/xterium/public_html/includes/libs/opbe/models/Player.php(46): Player->addFleet(Object(Fleet))
+#5 /home/xterium/public_html/includes/libs/opbe/models/Player.php(218): Player->__construct(1001, Array, 23, 37, 27, '')
+#6 /home/xterium/public_html/includes/libs/opbe/models/PlayerGroup.php(71): Player->cloneMe()
+#7 /home/xterium/public_html/includes/libs/opbe/models/PlayerGroup.php(42): PlayerGroup->addPlayer(Object(Player))
+#8 /home/xterium/public_html/includes/libs/opbe/models/PlayerGroup.php(169): PlayerGroup->__construct(Array)
+#9 /home/xterium/public_html/includes/libs/opbe/core/Round.php(66): PlayerGroup->cloneMe()
+#10 /home/xterium/public_html/includes/libs/opbe/core/Battle.php(63): Round->__construct(Object(PlayerGroup), Object(PlayerGroup), 0)
+#11 [internal function]: Battle->startBattle()
+#12 /home/xterium/public_html/includes/libs/opbe/utils/DebugManager.php(60): call_user_func_array(Array, Array)
+#13 /home/xterium/public_html/includes/libs/opbe/implementations/2Moons/1_7_2_injectionMode/calculateAttack.php(147): DebugManager::{closure}()
+#14 /home/xterium/public_html/includes/pages/game/ShowBattleSimulatorPage.class.php(210): calculateAttack(Array, Array, 36, 10)
+#15 /home/xterium/public_html/game.php(79): ShowBattleSimulatorPage->send()
+#16 {main}
+$_POST =
+$_GET =
+[log]attackers =         <table class="lined widthFull">
+    <caption> <br> 230% - 370% - 270%</caption>
+    <thead>
+        <tr>
+                            <th>Light Cargo</th>
+                            <th>Heavy Cargo</th>
+                            <th>Light Fighter</th>
+                            <th>Heavy Fighter</th>
+                            <th>M-7</th>
+                            <th>Recycler</th>
+                            <th>Cruiser</th>
+                            <th>Battleship</th>
+                            <th>Battle Transporter</th>
+                            <th>Battle Cruiser</th>
+                            <th>Star Fighter</th>
+                            <th>Planet Bomber</th>
+                            <th>M-19</th>
+                            <th>Battle Recycler</th>
+                            <th>Galleon</th>
+                            <th>Destroyer</th>
+                            <th>Battle Fortress</th>
+                            <th>Black Moon</th>
+                            <th>M-32</th>
+                            <th>Frigate</th>
+                            <th>Black wanderer</th>
+                            <th>Flying Death</th>
+                            <th>Avatar</th>
+                            <th>Battleship Class O'Neill</th>
+                    </tr>
+    </thead>
+    <tbody>
+        <tr>
+                
+                <td>150029148649</td>                   
+                
+                <td>150000148501</td>                   
+                
+                <td>150221993590</td>                   
+                
+                <td>150116922856</td>                   
+                
+                <td>149949842787</td>                   
+                
+                <td>149999942199</td>                   
+                
+                <td>150007709050</td>                   
+                
+                <td>150000797361</td>                   
+                
+                <td>150000149801</td>                   
+                
+                <td>149994847707</td>                   
+                
+                <td>149995691006</td>                   
+                
+                <td>149991411448</td>                   
+                
+                <td>150244777095</td>                   
+                
+                <td>150000159951</td>                   
+                
+                <td>149996024757</td>                   
+                
+                <td>150000150151</td>                   
+                
+                <td>150000150001</td>                   
+                
+                <td>149997875726</td>                   
+                
+                <td>150000150999</td>                   
+                
+                <td>149999551999</td>                   
+                
+                <td>149999549997</td>                   
+                
+                <td>149999549997</td>                   
+                
+                <td>149999699998</td>                   
+                
+                <td>149999699998</td>                   
+                    </tr>
+    </tbody>
+</table><br>
+[log]defenders =         <table class="lined widthFull">
+    <caption> <br> 0% - 0% - 0%</caption>
+    <thead>
+        <tr>
+                    </tr>
+    </thead>
+    <tbody>
+        <tr>
+                    </tr>
+    </tbody>
+</table><br>
+array (
+  'slots' => '2',
+  'battleinput' => 
+  array (
+    0 => 
+    array (
+      1 => 
+      array (
+        901 => '0',
+        902 => '0',
+        903 => '0',
+        109 => '0',
+        110 => '0',
+        111 => '0',
+        120 => '0',
+        121 => '0',
+        122 => '0',
+        199 => '0',
+        1103 => '0',
+        1108 => '0',
+        1109 => '0',
+        1110 => '0',
+        1111 => '0',
+        1303 => '0',
+        1308 => '0',
+        1311 => '0',
+        1113 => '0',
+        1304 => '0',
+        1312 => '0',
+        1313 => '0',
+        1314 => '0',
+        212 => '0',
+        202 => '0',
+        203 => '0',
+        204 => '0',
+        205 => '0',
+        229 => '0',
+        209 => '0',
+        206 => '0',
+        207 => '0',
+        217 => '0',
+        215 => '0',
+        213 => '0',
+        211 => '0',
+        224 => '0',
+        219 => '0',
+        225 => '0',
+        226 => '0',
+        214 => '0',
+        216 => '0',
+        230 => '0',
+        227 => '0',
+        228 => '0',
+        222 => '0',
+        218 => '0',
+        221 => '0',
+        401 => '0',
+        402 => '0',
+        403 => '0',
+        420 => '0',
+        405 => '0',
+        404 => '0',
+        406 => '0',
+        416 => '0',
+        421 => '0',
+        417 => '0',
+        418 => '0',
+        412 => '0',
+        410 => '0',
+        413 => '0',
+        422 => '0',
+        419 => '0',
+        414 => '0',
+        415 => '0',
+        407 => '0',
+        408 => '0',
+        409 => '0',
+        411 => '0',
+      ),
+      0 => 
+      array (
+        109 => '23',
+        110 => '27',
+        111 => '37',
+        120 => '26',
+        121 => '24',
+        122 => '22',
+        199 => '24',
+        1103 => '0',
+        1108 => '0',
+        1109 => '0',
+        1110 => '0',
+        1111 => '0',
+        1303 => '0',
+        1308 => '0',
+        1311 => '0',
+        1113 => '0',
+        1304 => '0',
+        1312 => '0',
+        1313 => '0',
+        1314 => '0',
+        212 => '0',
+        202 => '150029148649',
+        203 => '150000148501',
+        204 => '150221993590',
+        205 => '150116922856',
+        229 => '149949842787',
+        209 => '149999942199',
+        206 => '150007709050',
+        207 => '150000797361',
+        217 => '150000149801',
+        215 => '149994847707',
+        213 => '149995691006',
+        211 => '149991411448',
+        224 => '150244777095',
+        219 => '150000159951',
+        225 => '149996024757',
+        226 => '150000150151',
+        214 => '150000150001',
+        216 => '149997875726',
+        230 => '150000150999',
+        227 => '149999551999',
+        228 => '149999549997',
+        222 => '149999549997',
+        218 => '149999699998',
+        221 => '149999699998',
+      ),
+    ),
+  ),
+)array (
+  'page' => 'battleSimulator',
+  'mode' => 'send',
+)

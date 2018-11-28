@@ -1,0 +1,536 @@
+/** Edit Color here **/
+ * 
+#.ui-widget-header{
+	background-color:#D20000;
+}
+.res_name{
+	color:#D20000;
+}
+
+body {
+	background:url("img/bkd_page.jpg")repeat #0d0d0d;
+}
+
+body,input,select,button,textarea,td,th,tr,table{
+	color:#c9c9c9;
+}
+
+body.mceContentBody,input,select,option,textarea, .ui-widget-content{
+	background: #000;
+}
+input[type="button"],input[type="submit"], button{
+	background:#000c1e;
+}
+
+input[type="radio"] {
+	background:transparent;
+	border:0 none;
+}
+
+#menu li:first-child, #menu li:last-child{
+	background-color:transparent;
+}
+
+a:hover {
+	color:red;
+	text-decoration:none
+}
+
+table,td,th {
+	font-weight:400
+}
+
+table table,img {
+	border:0
+}
+
+input, select, textarea, #userpic, input, button{
+	border:1px solid #001a40;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	padding:3px;
+}
+
+td, th input, .tip {
+	border:1px solid #000;
+}
+
+td{
+	text-align:center;
+	background: #0D1014;
+	background: rgba(0, 15, 25, 0.9);
+}
+.tip {
+	background: #050E1F;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+input,button {
+	text-align:center
+}
+
+th, .ui-widget-header  {
+	background-image:url("img/bkd_title.png");
+	color:#FFF;
+	font-weight:700;
+	text-align:left
+}
+
+th a:hover, .ui-widget-header a:hover, #menu a:hover  {
+	color:#FFF;
+}
+
+th a:hover, .ui-widget-header a:hover {
+	text-decoration:underline;
+}
+
+textarea {
+	background:#000;
+}
+
+select {
+
+}
+
+/*Global Messgae */
+
+.mod {
+	color:yellow;
+}
+.ops {
+	color:skyblue;
+}
+
+.messages_body .admin {
+	font-weight:700;
+	color:red;
+}
+.messages_body .mod {
+	font-weight:700;
+	color:yellow;
+}
+.messages_body .ops {
+	font-weight:700;
+	color:skyblue;
+}
+
+.res_max {
+	color:#0F0
+}
+
+.res_name {
+	color:red;
+	font-weight:700
+}
+
+.galaxy-short-noob,
+.galaxy-username-noob{
+	color:#a0ffa0
+}
+
+.galaxy-short-strong,
+.galaxy-username-strong {
+	color:#ffa0a0
+}
+
+.galaxy-short-vacation,
+.galaxy-username-vacation {
+	color:#659ec7
+}
+
+.galaxy-short-inactive,
+.galaxy-username-inactive {
+	color:#ccc
+}
+
+.galaxy-short-longinactive,
+.galaxy-username-longinactive {
+	color:#999
+}
+
+.galaxy-short-banned {
+	text-decoration:line-through
+}
+
+.ownattack, .ownseizure {
+	color:#6c3 !important
+}
+
+.owncolony {
+	color:#c1c1c1 !important
+}
+
+.owndeploy {
+	color:#666 !important
+}
+
+.owndestroy {
+	color:#ff9 !important
+}
+
+.ownfederation {
+	color:#c66 !important
+}
+
+.ownharvest {
+	color:#ceff68 !important
+}
+
+.ownhold {
+	color:#80a0c0 !important
+}
+
+.destroy {
+	color:#d4a017 !important
+}
+
+.hold {
+	color:#39c !important
+}
+
+.warning {
+	color:#FF8040 !important
+}
+
+.notice {
+	color:#FF0 !important
+}
+
+.expedit, .ownexpedit {
+	color:#6949D7 !important
+}
+
+.warexpedit, .ownwarexpedit {
+	color:#6F0AAA !important
+}
+
+.seizure{
+	color:#FF3500 !important
+}
+
+.return {
+	color:#444 !important
+}
+
+.allymember,.colony,.deploy,.harvest,.transport,.success {
+	color:lime !important
+}
+
+.owntransport {
+	color:#a0ffa0 !important
+}
+
+.ownespionage,.ownmissile {
+	color:#fc6 !important
+}
+
+.espionage,.missile {
+	color:#f60 !important
+}
+
+.build_submit {
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    color: lime;
+}
+.onlist{
+    color: #DDD  !important;
+}
+
+/** HEADER **/
+
+#header {
+}
+#resourceWrapper{
+	background: #0D1014 !important;
+	background: rgba(13, 16, 20, 0.80) !important;
+	border: 1px solid black !important;
+}
+#resourcesdiv{
+	text-align:center;
+}
+.tooltip_sticky{
+	cursor:pointer;
+}
+/** MENU **/
+
+/* PLANETMENU */
+
+#planet_menu_link{
+	font-weight:700;
+}
+
+#planet_menu_header{
+	text-align:right;
+}
+
+#planet_menu_content li {
+	text-align:center;
+}
+
+
+/* CONTENT */
+
+.tip th{
+	text-align:center
+}
+
+.top {
+	vertical-align:top
+}
+
+.transparent,#header td, .tip td, .tip th {
+	background: transparent;
+	border:none;
+	filter: none !important;
+}
+
+.mes_unread td {
+	font-weight:700;
+}
+
+a {
+	text-decoration:none
+}
+th a,.res_current{
+	color:#FFF
+}
+td.res_bar div{
+	border:#000 1px solid !important;
+	position:relative;
+	padding:0 !important;
+}
+.res_bar_div{
+	background-image: url('./img/res_bar.png');
+	background-repeat:repeat-x;
+	height:8px;
+	border:none !important;
+}
+.res_current_max,.attack,.federation,.error {
+	color:red !important;
+}
+
+#fleetstatustable td{
+	background: transparent;
+	background-image: none;
+	border: 0 none
+}
+
+.ui-progressbar-value {
+	background-image: url(img/processbar.gif);
+	background-position:top left;
+	border-color:#000;
+}
+
+.spyRaportContainerRow {
+	border-bottom:1px solid #DDD;
+}
+
+.ui-autocomplete, .ui-state-hover, .ui-state-default, .ui-tabs-nav, .ui-tabs, .ui-progressbar, .ui-progressbar-value {
+	-webkit-border-radius:0;
+	-khtml-border-radius:0;
+	border-radius:0;
+}
+
+.ui-tabs-nav {
+	padding: 0;
+	height: 30px;
+}
+
+.ui-tabs {
+	border:1px solid #000;
+	background:none;
+}
+#polosa{
+	position:absolute;
+	left:40%;
+	right:50%;
+	margin-left:5px;
+	top:28px;
+	text-align:center;
+	width:420px;
+	height:25px;
+}
+#polosa_{
+	position:relative;
+}
+#polosa_fon{
+	position:absolute;
+	z-index:1;
+	width:366px;
+	height:20px;
+	top:3px;
+	left:27px;
+	background: url(img/polosa_lvl_fon.png) repeat-x;
+}
+#polosa_ramka{
+	width:420px;
+	height:25px;
+	position:absolute;
+	top:0;
+	left:0;
+	background: url(img/polosa_lvl_ramka.png) no-repeat;
+	z-index:4;
+}
+#plosa_pgres{
+	background: url(img/polosa_lvl_progres_fon.png) repeat-x #06F;
+	border: 1px solid #00ffdd;
+	-moz-box-shadow:inset 0px 0px 2px rgba(255,255,255,1);
+	-webkit-box-shadow:inset 0px 0px 2px rgba(255,255,255,1);
+		height:10px;
+		top:1px;
+		left:0px;
+		position:absolute;
+		z-index:2;
+}
+#plosa_pgres_{
+	font-weight:bold;
+	position:absolute;
+	width:100%;
+	line-height:12px;
+	z-index:5;
+}
+#plosa_pgres_ span{
+	color:#FC0;
+}
+#poli {
+overflow:visible;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+background: url(img/proc.png) repeat-x #042d39;  
+color:#9F0;
+text-align:left;
+float:left;
+height:13px;
+}
+#poli span{
+	margin-left:5px;
+	float:left;
+	display:block; height:13px; 
+	line-height:13px; width:250px;
+}
+#poli a{
+	cursor:default;
+}
+#reemo_top_nav{
+	min-width:1000px !important;
+}
+/*sots*/
+#sots{
+	position:relative;
+	background: url(img/sots.gif) repeat 0 -14px;  
+}
+#sots img{
+	width: 100% !important;
+	height:100% !important;
+	position:relative;
+	z-index:3;
+}
+/**/
+.hexagon {
+	position:absolute;
+    width: 44px;
+    height: 28px;
+    background: #FFF;
+	top:18px;
+	left:4px;
+	z-index:2;
+}
+.hexagon:before {
+    content: "";
+    position: absolute;
+    top: -13px; 
+    left: 0;
+    width: 0;
+    height: 0;
+    border-left: 22px solid transparent;
+    border-right: 22px solid transparent;
+    border-bottom: 13px solid #FFF;
+}
+.hexagon:after {
+    content: "";
+    position: absolute;
+    bottom: -13px; 
+    left: 0;
+    width: 0;
+    height: 0;
+    border-left: 22px solid transparent;
+    border-right: 22px solid transparent;
+    border-top: 13px solid #FFF;
+}
+.hexagon_a{
+    background: #0FC;
+}
+.hexagon_a:before {
+    border-bottom-color: #0FC;
+}
+.hexagon_a:after {
+    border-top-color: #0FC;
+}
+
+.hexagon_mini {
+	position:absolute;
+    width: 38px;
+    height: 24px;
+    background: #069;
+	top:22px;
+	left:8px;
+	z-index:2;
+}
+.hexagon_mini:before {
+    content: "";
+    position: absolute;
+    top: -11px; 
+    left: 0;
+    width: 0;
+    height: 0;
+    border-left: 19px solid transparent;
+    border-right: 19px solid transparent;
+    border-bottom: 11px solid #069;
+}
+.hexagon_mini:after {
+    content: "";
+    position: absolute;
+    bottom: -11px; 
+    left: 0;
+    width: 0;
+    height: 0;
+    border-left: 19px solid transparent;
+    border-right: 19px solid transparent;
+    border-top: 11px solid #069;
+}
+
+.hexagon_mini_a{
+    background: #F33;
+}
+.hexagon_mini_a:before {
+    border-bottom-color: #F33;
+}
+.hexagon_mini_a:after {
+    border-top-color: #F33;
+}
+
+.hexagon_mini_r{
+    background: #033;
+}
+.hexagon_mini_r:before {
+    border-bottom-color: #033;
+}
+.hexagon_mini_r:after {
+    border-top-color: #033;
+}
+
+.hexagon_mini_s{
+    background: #000;
+}
+.hexagon_mini_s:before {
+    border-bottom-color: #000;
+}
+.hexagon_mini_s:after {
+    border-top-color: #000;
+}
+
+body .banni_serveur{text-decoration:line-through;color:#bbb;}body .banni_serveur:after{text-decoration:none;content:" (B)";color:red;}body .supprimer_serveur{color:gold;}body .supprimer_serveur:after{text-decoration:none;content:" (DEL)";color:red;}body .en_guerre{color:white;}body .en_guerre:before{content:"(G) ";color:red;}body .rouge{color:red;}body .gris{color:#bbb;}body .orange{color:#f75200;}body .jaune{color:gold;}body .chartreuse{color:chartreuse;}body .vert{color:#309020;}body .cyan{color:#50d1c0;}body .green{color:#389f43;}body .red{color:#b21f27;}body .yellow{color:#eae45c;}body .blue{color:#4cafd9;}body .brown{color:#b27a5f;}body .grey_yellow{color:#bbad55;}body .white{color:#e0cbb0;}body .bleu{color:#116bf3;}body .violet{color:#a551c8;}body .rose{color:pink;}body .blanc{color:white;}body .marron{color:#9e5a35;}body .couleur_alliance{color:#f75200;}body .couleur_theme{color:orange;}body ::-moz-selection{background:#fa5800;text-shadow:0px 0px 0px transparent;color:black;}body ::selection{background:#87CEDE;text-shadow:0px 0px 0px transparent;color:black;}

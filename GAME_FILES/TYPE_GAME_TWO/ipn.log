@@ -1,0 +1,1325 @@
+[2018-04-29 15:42 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1028
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=5.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=ASQ3DHPVZM8JY&address_street=via+A.+vespucci&payment_date=06%3A42%3A27+Apr+29%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=00153&first_name=marcello&mc_fee=0.52&address_country_code=IT&address_name=marcello+gobbi&notify_version=3.9&custom=1026%2C0%2C50000%2C1026%2C55000&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=roma&quantity=1&verify_sign=AvgdvPHeuVTl.htC70mCSHdyKtEzA2xOt-g9RXYpmnrsnncRJtYXyVqW&payer_email=marce160653%40gmail.com&txn_id=8NS5983905437562F&payment_type=instant&last_name=gobbi&address_state=Roma&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=55000+AM-User%28patocco53%29.&discount=0.00&mc_currency=EUR&item_number=55000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=33b9be0374793
+[2018-04-29 15:42 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: cd758837cad95
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 7
+X-EdgeConnect-Origin-MEX-Latency: 608
+Date: Sun, 29 Apr 2018 13:42:36 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=c1zPveiaNQjbwrIiy8rW_UYm5RDMH9CJaZy_f_jhbiZvu936bQTcR2gY1NZU8GoAjKJunrwxNycamol61yXuJ3f7ri2W45sRRp7YjuayPFuKDtypoUsqOSbYMEEZTjlD6d13Ikr4I2HGaQy7nbNvYW6mIw572IpJRM9feo-lnN4N9fOKXFsWllvxW2K06hmSYdL7R-bXjg9NnCELTanCeq5UieQnO3pT0_AXjrW1UY0v34Y5EdhbTEeJdiQ2RHxV5KzTfH1HeapDp2xa2za4WM0AQGz9mjoTFCThjy8Kj4mBsNauFCUOuAeg3gRsQ6uqJtP12-QNkvDYH_teWHpXwx5m3G-uwXTMryGw0_vuo5hFHaOqZIOD4sbX83ZgWYLBjk81SYjbXvVoi7rSRdXsnkRe1L26izDp39wBN2SKaPM_iZY4RpV6ZG8FVMq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 26-Apr-2028 13:42:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 28-Apr-2020 13:42:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3419137370%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Sun, 29 Apr 2018 14:12:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Sun, 29-Apr-2018 14:12:36 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525009956~id=e7cb2098d566fcb22569763f63609541; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-04-29 18:37 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=09%3A37%3A28+Apr+29%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C0%2C1000000%2C27%2C2500000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=AYYNMTZ8YK-uwZGD8i.6GnsrTMpaA756YXnlbryzoN1WZIae3YoB2aEd&payer_email=massimiliano13%40virgilio.it&txn_id=4EX54414S2714481N&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2500000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2500000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=b4154ffa94fc7
+[2018-04-29 18:37 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 403faf4a4260b
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 81
+X-EdgeConnect-Origin-MEX-Latency: 454
+Date: Sun, 29 Apr 2018 16:37:37 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=U_xsNdXCmH2lSk50tm2f4n9C1ysPrFnq9IZ4ILa9y307BUAT9G2RFv45BwmHFESAZA-MrimHrYDKwUV7qtxTfkaKK7jATgCwuq1no6J_VFNYqOVneImck1VRiZQMpkzTt1smhhPrlWCOE58gac23BwoSFw1GL79YYLAZ97Y7dNFKQvvVMXWidVLzWXaijfiPQRQobgIgcWbXCPc-HHw-4rRqGVyGKHeUTdMthaF0DwV74aTAHrJJ1MCdTVR7DLDdsJX_flWTrv4in7njkWUKfoooR8Z1TMa3Vuj4AcQK_kmPnuNH6a4yTfa2sAN_WZ0Iw1uvAZ8g42iluJfUf5bySCzknUJZUt7BELcNgLFMeveSfTTMA5OgMq9YXiLeeAuQZ0EE9D5T3BULiDudU5Wtv09Zb2DNrYI-9hfkHMIBQXbQsoQASSS61aDZUsm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 26-Apr-2028 16:37:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 28-Apr-2020 16:37:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3522487642%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Sun, 29 Apr 2018 17:07:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Sun, 29-Apr-2018 17:07:37 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525020457~id=961112d3bb479e120b0fca0bd8d685eb; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-02 05:25 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1064
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=20%3A25%3A43+May+01%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C2800000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=AQplSKAVWM4dHr1w3JaeVs8t3Ur9A4VpdTFoI4uqCANMZknKc0yjcOmR&payer_email=massimiliano13%40virgilio.it&txn_id=4FJ36627HA9425326&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2800000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2800000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=d811e03eaeb3
+[2018-05-02 05:25 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: b3f6e7c3d8131
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 7
+X-EdgeConnect-Origin-MEX-Latency: 483
+Date: Wed, 02 May 2018 03:25:50 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=dFP9USUMudcmAlBDchYg6se-4CgLIi_9biQt-HIgHevvPyt96J_oDfCmxzmZHBLN9nvFShpHDmrY_F4Yq47HDEpuRbDheG_kjZ9MMZWpzGb5VGG2SmYpM-Kk3qwYOKkIW8UCJ3I5MykVtZqrMTKllRf66snydERemXhGi6hqq20wPb-0rmKTCsGrUe7Fjo8Uxu3iMJqoHE-b3IKc_A3yIMDuoq4KhkuqT9V4ksCafGfD6P8YXekJ-knmGmzpcMQaHb2-e3WIxIkxSj6zKxSmBwdgrt2PgOHWhJhthcgIU8FCK2VaBv2x0a3-7grgLq9U67UcQQnfo3FFo54d5DqM6IhnYgzRCgBa0OlkQCQr6ybp7rDoGopwlEdlbiEkmOk6VDrLNOYcQ7T31r9fRUAlxbf9nrpFTXY2Eh-NNiwFTMwmTZIcOtAbPCP5iSi; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 29-Apr-2028 03:25:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 01-May-2020 03:25:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3174033754%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Wed, 02 May 2018 03:55:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Wed, 02-May-2018 03:55:50 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525232150~id=432d83ccfb399c6956060725ef9d9f08; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-02 09:00 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1067
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=10.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=YT89AC4S3VRL6&address_street=Ship+to+michael+nandzik%2C+20+rue+joseph+bertoin&payment_date=00%3A00%3A22+May+02%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=38600&first_name=michael&mc_fee=0.69&address_country_code=FR&address_name=michael+nandzik&notify_version=3.9&custom=1607%2C0%2C100000%2C1607%2C120000&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=France&address_city=fontaine&quantity=1&verify_sign=AuTMBBExPrBS2CrRaU3sJCOYg2aBAd1W6nwskZ4ZOpIMuH0sRe7DlyAF&payer_email=nandzik%40vivaldi.net&txn_id=10T32586AH213874E&payment_type=instant&last_name=nandzik&address_state=FRANCE&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=120000+AM-User%28mnan%29.&discount=0.00&mc_currency=EUR&item_number=120000&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=d67e800dbcbc
+[2018-05-02 09:00 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: d66c9d3b44b7e
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 85
+X-EdgeConnect-Origin-MEX-Latency: 456
+Date: Wed, 02 May 2018 07:00:37 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=-e6XrQveRog1b74mh1eTlRGTiGV-NyzbWxdA5ciH75SlmmrSY9Q-3ia8nTPdGhTjhn_bbWhxxLDof5k3cmN6cEeJCroYDPouKq76exysjAiGhT-G_ynPpiLhZHBTmISlxe2-_7CDf_-JVsJeCTbB8vl2PcXVb4WSsg7fpEjhCObjmUh7ElNlTmv-xJd2knqy2cZuzOPEvl216CgyswPsbsoSiQly9ydsoI2pXA9HeCIliZv8-VXCnxnmwoNaxQh-p1wI5rKQsqVwiMU3lq8re15RmZGLNF0fZ1voeTX3_bKGVLZTGJJ0KfKQ3El1UY9Yf-EwrMfOxy0OWtk64kAxQ1WWoVvfFT7E3UBHF3VcNoamAuyyXeS_IN198Qh9J8fxgbMvf6C_ZGktEcaOAfm1fKseq47ThZ50kGrCqWjXyPdBKIdhM894Op5taym; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 29-Apr-2028 07:00:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 01-May-2020 07:00:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D358803802%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Wed, 02 May 2018 07:30:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Wed, 02-May-2018 07:30:37 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525245037~id=d1fdd60b96392369783eb004a4d62305; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-03 14:27 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1068
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=10.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=YT89AC4S3VRL6&address_street=Ship+to+michael+nandzik%2C+20+rue+joseph+bertoin&payment_date=05%3A27%3A31+May+03%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=38600&first_name=michael&mc_fee=0.69&address_country_code=FR&address_name=michael+nandzik&notify_version=3.9&custom=1607%2C0%2C100000%2C1607%2C120000&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=France&address_city=fontaine&quantity=1&verify_sign=A1oxZerfiiBRNVJOoDBV.F9QIo3xASuCyiblCdJzKF92ginin4PCmzYl&payer_email=nandzik%40vivaldi.net&txn_id=5YK59573M4731962U&payment_type=instant&last_name=nandzik&address_state=FRANCE&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=120000+AM-User%28mnan%29.&discount=0.00&mc_currency=EUR&item_number=120000&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=6ecff5d268404
+[2018-05-03 14:27 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: e27bcaa764b2c
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 87
+X-EdgeConnect-Origin-MEX-Latency: 455
+Date: Thu, 03 May 2018 12:27:39 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=PPfFJ6v2vmON2nYZNhO_1lmpFVzAdUQ-Zkv7175mVEzbSDlhv2GzrTDA34oaDxcUy23pj68HuRF4WKcCHr33De2zUHr_w1mpp2B4YtaPrH0UaE_ckkB5WMUZwXmHUEi_IIJmQydrMNIjZWJjIJuLtVoKpfz9qIuC_kp1nNc7Q6HPSTUykFbzyrhLI6cp_qO_kqTzbT0XCwY8VFL79oBl4FCgPE16nvnhjCdxOjjVpizV1LtayMMOZGwUTJSE0YVS1XmZ1y7IoHvM46sNYeB61CngE664FR9Dp6OtaDyIpE5O7knFkuB5mzJm17PHePryNV8dCo5uzrKCbhaIYkdPkcf6WNNvhA7NAXzk_TSvFkpm1Ix8D_sNlF2yNhBTrIATYMkIWOiKQBmPg80PrLt666qS_SsJOuftv-M0_f3XJfhvP0s-fztu05gE5Le; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 30-Apr-2028 12:27:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-May-2020 12:27:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D989915994%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Thu, 03 May 2018 12:57:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Thu, 03-May-2018 12:57:39 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525351059~id=2f42db119d6657595babb395cbb6b283; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-03 15:13 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 20
+Content-Type: application/x-www-form-urlencoded
+
+ for IPN payload: cmd=_notify-validate
+[2018-05-03 15:13 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 55ecb83f936b3
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 87
+X-EdgeConnect-Origin-MEX-Latency: 463
+Date: Thu, 03 May 2018 13:13:29 GMT
+Content-Length: 7
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=1-PZjKUh5QnvDl2hgyGE6fBrj5v05ywdrjYwzA8qfkTjvhTh772Wq6lnfY4-kr4hASTFJEQlFn5xvQrDp_b06OTQB_elenJaS6JZTkNvbDZfZRhQ8RXrzKZ6Wvu_0T46tEfZtVJ_iRn0WtfsyF245t2YqjJTjiDMPC6lnVmLsETLHNDW6amxYEYxD-5xPc73Koc_-d0uJ5cPKKxFoGkX77ombSwDBTSPwTsNiVVynkdjGDpHxSlUVEcp-dlxp2FgNsHoirDQOqGRRwAzQGTJDVmgfg7FOc_-NQP4y7VDQTb4erH-CVYnZAc_NHt80a7tN1mmmDllSZOmmKsq5YNpK9hcdFCqFFEKn1xx33L-UBcuYrB-oAQMRe4PUnWxJIQJy04TiDLUPC0R45XJgQasgaYa0-Dwwea3cDFeMD-aOtupJZJRTKjLSr4wFSq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 30-Apr-2028 13:13:28 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 02-May-2020 13:13:28 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4161465178%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Thu, 03 May 2018 13:43:28 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Thu, 03-May-2018 13:43:29 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525353809~id=479893791466a5c4ff9907374e2549a3; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+INVALID
+[2018-05-04 12:51 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1071
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=10.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=YT89AC4S3VRL6&address_street=Ship+to+michael+nandzik%2C+20+rue+joseph+bertoin&payment_date=03%3A51%3A20+May+04%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=38600&first_name=michael&mc_fee=0.69&address_country_code=FR&address_name=michael+nandzik&notify_version=3.9&custom=1607%2C0%2C100000%2C1607%2C120000&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=France&address_city=fontaine&quantity=1&verify_sign=AS71vno2eooHCOaC1Z2uBPjUgix4AC5JBfYc8-zug2Hd2UlytF6PuLuT&payer_email=nandzik%40vivaldi.net&txn_id=5P22307480335081Y&payment_type=instant&last_name=nandzik&address_state=FRANCE&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=120000+AM-User%28Albator%29.&discount=0.00&mc_currency=EUR&item_number=120000&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=6e54a985ed109
+[2018-05-04 12:51 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 89b12479e11a1
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 11
+X-EdgeConnect-Origin-MEX-Latency: 528
+Date: Fri, 04 May 2018 10:51:29 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=EkCYHY-J3y7JNLX21EAzWP5SMHhzO2r7v7oOMTHKtjH1EzSlW0JBj6Q51VAk4REGRYBOGzNgb73HXuFImW0hPA-ysMuwf5iBzc4N-P4GisJoE0FHqcKVdqsFl2YhHMXPODWLocYRgS7EN9z3qtop5IyH-_ILklGCYF1wjPDOUd0MrlGHrAr5rUI0jeQlnsyAxgM8Ni8IbXxm-cDq5bKxNxtOHhxoqSlGyBDvH-waLfXMfh0AEiN8xV9QT69wscPG8aZFt1vCnR13ois70lFGkZhkDFVTkCuN75IAnPAg1z6gUKUqfGygcWvr_BD6kzcjVqI9lUknae3gxdrjYXN_QTzKXOGAAxi2OOM-blNqlN4oTYrny0Fsr4FNMqx_5TtyJOAfO14bSL6lUTiOZGsxH5LGIJHgsYMW6cBN--CYIseehs8rYf1dQuYRWmG; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 01-May-2028 10:51:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 03-May-2020 10:51:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D809233498%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Fri, 04 May 2018 11:21:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Fri, 04-May-2018 11:21:29 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525431689~id=e72a23988f2b96372edffa666bdc031c; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-05 11:11 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1066
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=5.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=YT89AC4S3VRL6&address_street=Ship+to+michael+nandzik%2C+20+rue+joseph+bertoin&payment_date=02%3A11%3A30+May+05%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=38600&first_name=michael&mc_fee=0.52&address_country_code=FR&address_name=michael+nandzik&notify_version=3.9&custom=1607%2C0%2C50000%2C1607%2C55000&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=France&address_city=fontaine&quantity=1&verify_sign=AvH-a5rEz82Aoo.NDye7ItpWxThoAe1o-SxB.-juMnRW1zV8aMRlgo-G&payer_email=nandzik%40vivaldi.net&txn_id=49J22286WA202133R&payment_type=instant&last_name=nandzik&address_state=FRANCE&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=55000+AM-User%28Albator%29.&discount=0.00&mc_currency=EUR&item_number=55000&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=c2afc40ada65f
+[2018-05-05 11:11 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: c6fc157d820d9
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 77
+X-EdgeConnect-Origin-MEX-Latency: 535
+Date: Sat, 05 May 2018 09:11:39 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=T_U_TL67vrvC7aK7msYUsHt4upkxt5wCOKjrWu_Dq8ZBNXfnf97dqCCn9OgIF86SJpEdgXn3mmMzL0IwWWwd7j9bBNVm_U42jhUXS-usWY2bHxBWB50XTlfFt_QPQjYzIwReajH0myDaFp1KtcKhI1d38ccusTC9Gg6tsY5xVGHzJISzNQVjPMY_tGyAOAtcYSN7beRFh0-HcR_mOyYtoiAF3nQKiPnvzpKOqmzbb7UQoK-J7UF1_nUtR_t0VcIkSAR_6W1Hf8cdKb8ABOThh5bNjM7zGuhkehHfLMHtNvN9SvZDTyKAYVdU6sy-Ktg8U6JNTe3U91i07k-Qd9KXCM1kBkYxaVzH4z3hbvM5XHwSO4vm9gXobM_TDgKUNkaYW17jWPgWnwUm3ebhgdgJI293ipJjw5Ll3ukwnpxICF7aww8AfvL8smRG0Da; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 02-May-2028 09:11:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 04-May-2020 09:11:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1249242458%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Sat, 05 May 2018 09:41:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Sat, 05-May-2018 09:41:39 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525512099~id=d3a9a9fbd14fd310408f2b79475374cb; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-05 21:34 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1066
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=5.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=YT89AC4S3VRL6&address_street=Ship+to+michael+nandzik%2C+20+rue+joseph+bertoin&payment_date=12%3A34%3A42+May+05%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=38600&first_name=michael&mc_fee=0.52&address_country_code=FR&address_name=michael+nandzik&notify_version=3.9&custom=1607%2C0%2C50000%2C1607%2C55000&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=France&address_city=fontaine&quantity=1&verify_sign=AHwN1hAIi8b4oUKxmhdtnlQXE1DuAg-KenxwqGzhAi7DILmE4C8N.R4c&payer_email=nandzik%40vivaldi.net&txn_id=8UD48739H9456373S&payment_type=instant&last_name=nandzik&address_state=FRANCE&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=55000+AM-User%28Albator%29.&discount=0.00&mc_currency=EUR&item_number=55000&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=b5aab45bc7551
+[2018-05-05 21:34 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: e40115fa48891
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 79
+X-EdgeConnect-Origin-MEX-Latency: 478
+Date: Sat, 05 May 2018 19:34:49 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=7qJjskEijc8APhRqW3x9Q-0Vwkqxu8bqWlLBS9h11iQqeCbkuut2JdAtoFnTchna0gOuANGS1mKufSXWsbCCz1T4tdjwAPBnoAZKBTczwyQgpmJFe0pTlI6LeRLaOa1GxHc4dBGUKb0MA3ZUMHL1TNAcAVx_sa7o0Ug9ts4CzGBs1scqAikxQVx8Ao8EbH2tCnYMl5PzArCnD_IYTy0L-pl8F3WfDBwtID3lalazw6_x40rf1UvjjkBS8McdwHWDLImaZl6wygNWgK5NSia-aJ-bQxtJkGF8ymrrourdMNDkDRUlAyn5PftTeRx3SWgMR-_fCKEOr4Lp8DoprgMGXPqHgDOkuwvDOVWoZjK4TyREtklMmVX1X_Ia80roUWVFHLP-LhZy5hYw4bn4SiEUuVHWEOtS0cUV83GPJDmb5ehZmwRSft1mJME7_JW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 02-May-2028 19:34:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 04-May-2020 19:34:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1493691994%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Sat, 05 May 2018 20:04:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Sat, 05-May-2018 20:04:49 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525549489~id=be5e8397c984bb6c7fc4d0709a3a0bfd; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-06 18:52 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1071
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=10.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=YT89AC4S3VRL6&address_street=Ship+to+michael+nandzik%2C+20+rue+joseph+bertoin&payment_date=09%3A52%3A05+May+06%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=38600&first_name=michael&mc_fee=0.69&address_country_code=FR&address_name=michael+nandzik&notify_version=3.9&custom=1607%2C1%2C100000%2C1607%2C194400&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=France&address_city=fontaine&quantity=1&verify_sign=AK.LtiO0c-MBZ7yR.V3g2Mr23E3NA0hK4XjTkRVsObX1RNOAwOncEgnS&payer_email=nandzik%40vivaldi.net&txn_id=0MV107179M8446352&payment_type=instant&last_name=nandzik&address_state=FRANCE&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=194400+AM-User%28Albator%29.&discount=0.00&mc_currency=EUR&item_number=194400&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=c78c62928d956
+[2018-05-06 18:52 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 3ebfdc021b90e
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 79
+X-EdgeConnect-Origin-MEX-Latency: 410
+Date: Sun, 06 May 2018 16:52:14 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=afqFim6tt-Mho_Lwopf2IycoIcpduMmbky-Dnw2NYmICMinwYP71xUxB7SPKleab1Mcr2aSiM59AZWR76UvlLBjvokdgbCfZzhOMCvRfOgvvJ9eu_DkAJcv2vvYb2nK7YzCXRvzREMhPRhYhcnqp0WZcIFm6vg8WpOeLoFwS_pCzZj9Kk1WBfTTvusGjBgIXtIHPqLE2R-6GTVFIvlEd33EYQF_bi23bnDOEnBqKe7BUAhJSiBZmF-IgG0-_pka2PB6_RYSezI-autdeZMLNAWSWePw4afkkZF4juLxpno-flJwEHlNnACw1nLF77Wi5cad7ilrvN7KoZM4AvajmF7dZLy72BFNW2RQDE7MrRQRTHT987_4LWu08RUr4a42fE0_Oy9VOSrY4W2GnRnX3P72CPvTPkebcf4cisDmqzqrVXhZfhw3Ol-mLXT4; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 03-May-2028 16:52:14 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 05-May-2020 16:52:14 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3191009114%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sun, 06 May 2018 17:22:14 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sun, 06-May-2018 17:22:14 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525626134~id=a54b13f1e459e1ffd6529cd6315394d3; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-06 21:27 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1071
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=25.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=YT89AC4S3VRL6&address_street=Ship+to+michael+nandzik%2C+20+rue+joseph+bertoin&payment_date=12%3A27%3A08+May+06%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=38600&first_name=michael&mc_fee=1.20&address_country_code=FR&address_name=michael+nandzik&notify_version=3.9&custom=1607%2C0%2C250000%2C1607%2C850000&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=France&address_city=fontaine&quantity=1&verify_sign=AYnmJ6rHKq.u0dvK1jX.qEn-tnk.AfnGlM4sQ1MODgqG56YmI5BcqPGO&payer_email=nandzik%40vivaldi.net&txn_id=9TL57045E2714981K&payment_type=instant&last_name=nandzik&address_state=FRANCE&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=850000+AM-User%28Albator%29.&discount=0.00&mc_currency=EUR&item_number=850000&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=70ef4a9c45e17
+[2018-05-06 21:27 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: a88285767cc0
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 7
+X-EdgeConnect-Origin-MEX-Latency: 538
+Date: Sun, 06 May 2018 19:27:16 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=FOKnnhBH5YhQdnq0mtSdCLQvVKN8IxvkFh8-DWrTH14DSxn7QDPYObppTs0KtJr3mI0zVAZ4WNuo9rIXl35KY9yS17x_QYX3C3ukPddng0qDDfbnwpfWfhA8m3MtC3Qkwp8hywB6Z6VfrBFnQ5I1mNwGFCybiKQrOETvX0LfF482Q7WD3lAE3xYn4fE2XHvx8s_Hf669E5se8cVavWRdlJd_DeHeMjhxiPE1JVtUPxtSiL2J2fiF6Q6oodYnPpe96AR3Ch5txX9yOBUiPdKjLzt0dXWnkpoGwfDKTcdF-MCp4YAq8h97yypgudHmA7WAVNqsxVxh2wCjsWTllLbrwxL5VRmW3a0Nr3fCJ2qtm0J_MpoHrgThIg0F52HKkRT_qcBV53_NTdDdzAxi6ikUL5WGObck6rvNG72kFL4Rkh7QpGa88sd92rDSwbq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 03-May-2028 19:27:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 05-May-2020 19:27:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D341307226%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Sun, 06 May 2018 19:57:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Sun, 06-May-2018 19:57:16 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525635436~id=a9a58ff4473384f6cde18b2988023ed5; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-07 01:50 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1030
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=30.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=FABYRLDNBEF36&address_street=19+rue+montesquieux&payment_date=16%3A50%3A42+May+06%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=69007&first_name=jimmy&mc_fee=1.37&address_country_code=FR&address_name=jimmy+cahuet&notify_version=3.9&custom=1718%2C0%2C300000%2C1718%2C1068000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=France&address_city=lyon&quantity=1&verify_sign=AoMoUDiV57REo1.ND3qMZKPChM5aAwZTv4QKkDvcqVBMyR4m81VFuBZe&payer_email=jimmycahuet%40hotmail.fr&txn_id=7CJ66353847915723&payment_type=instant&last_name=cahuet&address_state=&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=1068000+AM-User%28R3ptiLe%29.&discount=0.00&mc_currency=EUR&item_number=1068000&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=7b92d0a631bed
+[2018-05-07 01:50 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 416b2fdf86f90
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 9
+X-EdgeConnect-Origin-MEX-Latency: 548
+Date: Sun, 06 May 2018 23:50:51 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=lasYyLf1Hu9c9DIy3Ron9lDfNpjZN5CwR8CugqIazaptCWSaYeIKqtVkF-0PnK4I-Ztp1y3IJqddAN0BCYZEGtymy60q6-iJTytNSva9jOMuwov2j2zszZ33b5LJx5gjEif5wR6QFlYZ6-KuRSA50A9-tBew1p93RQCmutEVsEHZkMOGrVRx2VKQqbHkrxkRq40GdgrirpCjbdwvG08vM-nC1DrSvIcKzunl3joCwfOtmkGKlMpcJZTrItVL7OM9c6E9OXxnniFxZ6uBlGFHnxfIIFehm3AcE52_dfV6zESuljRLuNsxv6dkJv6w5jpk8uyFEvK2O-ewLStU6xcBRiAdPrv03xz8TVRmWuW8pgxApEzGvl3RJIeMGkvKJ5nehfrsF0HFuFgZVEYjxjfr0Lsr-B71ix4DVUaVyQlqK5H5U7Z4fO1I4VGE-fu; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 03-May-2028 23:50:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 05-May-2020 23:50:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3667193690%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Mon, 07 May 2018 00:20:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Mon, 07-May-2018 00:20:51 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525651251~id=e1734e05de8cabfe820bfa60900ded42; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-07 05:34 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1071
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=25.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=YT89AC4S3VRL6&address_street=Ship+to+michael+nandzik%2C+20+rue+joseph+bertoin&payment_date=20%3A34%3A43+May+06%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=38600&first_name=michael&mc_fee=1.20&address_country_code=FR&address_name=michael+nandzik&notify_version=3.9&custom=1607%2C1%2C250000%2C1607%2C865000&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=France&address_city=fontaine&quantity=1&verify_sign=An7DjYF-HJE545n5m4Z7t6C7BN8eAjOe3RbHvV3vdyQxiXr4crI06OMj&payer_email=nandzik%40vivaldi.net&txn_id=505993919T2467449&payment_type=instant&last_name=nandzik&address_state=FRANCE&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=865000+AM-User%28Albator%29.&discount=0.00&mc_currency=EUR&item_number=865000&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=1d8a0c0e18143
+[2018-05-07 05:34 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 743e423890ff
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 7
+X-EdgeConnect-Origin-MEX-Latency: 611
+Date: Mon, 07 May 2018 03:34:51 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=7xb9qR67BHoMpfiooLGERtt88mTY4qG3jXD22Rhxx7g9B0trtoLC4gK-Gyml4fYfVlQlx6DHX7Ruu1eVZuWeEOoYEHEMTTmaUAmn5hZbFLl_UOhK_IAcsErMSFsVeLNvxU8zzydcvzoYy3BK1naGY8q3KQ5IFKuQg2UuoCfsW3MPXWuenAxZ6NFD12jbaSu0ZHdfwi7MmX54kxMj8Kw4ljXZzaU3qt_9c6MmTPELvZrVPWNkRTbKRsnIl89KXvx7n4stirHaYikKPEAh5iyTh5srAN8J95JM2MKWI-v1ze8k6eFieGd3BRq3oRvT2yDl1mxu2YojeZR8YNR8Zi1RW4AnO-jptiG-n6hupd8xITdgmdBEpgVJ864eEb-HX23-an9Q4Y9yZEL8pkDqRbhF9WJXGjBdymzmpP2rt698XV3tTFMeUYK1oxagF0G; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 04-May-2028 03:34:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 06-May-2020 03:34:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1539960666%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Mon, 07 May 2018 04:04:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Mon, 07-May-2018 04:04:51 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525664691~id=96ed39550bfbfa0277dfc505eb744249; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-08 08:08 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1071
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=25.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=YT89AC4S3VRL6&address_street=Ship+to+michael+nandzik%2C+20+rue+joseph+bertoin&payment_date=23%3A08%3A28+May+07%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=38600&first_name=michael&mc_fee=1.20&address_country_code=FR&address_name=michael+nandzik&notify_version=3.9&custom=1607%2C1%2C250000%2C1607%2C861250&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=France&address_city=fontaine&quantity=1&verify_sign=AGc3x.vk21I27Ls3UjulIEmc67-0Acn.b5vh4KZjk6Tt.E6ptolOa2Ld&payer_email=nandzik%40vivaldi.net&txn_id=98G5260979918114G&payment_type=instant&last_name=nandzik&address_state=FRANCE&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=861250+AM-User%28Albator%29.&discount=0.00&mc_currency=EUR&item_number=861250&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=457f4164847ba
+[2018-05-08 08:08 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: dee41f2647976
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 13
+X-EdgeConnect-Origin-MEX-Latency: 481
+Date: Tue, 08 May 2018 06:08:36 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=294Vbo4S7nFuVbgyzv_EkvXC81R_ofyvldteHlOcVHqzO6xFIqtqcnE0cIPTvUFHN2L7i4MHrb3a7qTke9Jt9MNe5zpY2iG-irvyJ7P73Mb76bk3TbIPMEZVPVdSV_yllPEQ34maVxtuGTIMowl8UP621lS__JJDbN4fv6DDO3cWkgGQ4JSfoYrOtXT5qSSCzyuWeg6P5jW0YR0RsrRVL_Qmdn4ElsJGi6k_VT0mqj_tlkvbrHwUxoBhsiGu4ZJHCDIGC10dazHfeg_bpsZJTlPtvVMA14QsRtgdQVE30wsue5FBnk5a0NcCkqA-8E1sfyf1rxBIc2KiPtaI4YGbpd1wzp55Us57eCZcemyQprsI1VKgDTrZbaW_Yam77iuCcVgC3emLAzk8ft6BeERZvtiSnekrqRGSOGGmzpENvGD6otKHZI610_FyVs0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 05-May-2028 06:08:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 07-May-2020 06:08:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3829330266%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Tue, 08 May 2018 06:38:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Tue, 08-May-2018 06:38:36 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525760316~id=b5c37369865ea3a8f7c69322c615f023; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-08 12:31 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=03%3A31%3A02+May+08%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C5300000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=AITpn91ZT0JiuXOycwR7RNXXEK2GADx5Q1UCU.riTZ9WH4WFVIfI5T4U&payer_email=massimiliano13%40virgilio.it&txn_id=2DH78724F43042848&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=5300000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=5300000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=d99fee73d42ea
+[2018-05-08 12:31 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: b7861cbd432ad
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 87
+X-EdgeConnect-Origin-MEX-Latency: 550
+Date: Tue, 08 May 2018 10:31:10 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=v_aEuezre152wUtsMWpZP46mmOswuq4rQ_Kxye3t0wWH5WDEcRO5S_itmqbrT_sxal--gm89EbOq4lC4DeDp22JyzJSyCB9Ye9k7he-oZw_8pFr4EmBYDGM8TMS-dv8XHA7fgZS0oXK04MAka5fb2AeYZghFUkCU0WJm41fYCpUrG4Cv9Y8U8LrUI73H2it6kXRCSj6l8raSekBR3qOnmHUKnqP5AQl1TYrb6N-mdnU2B_vpX7pInifWEvu7pXeZyWDAfp1BavIgBBAXP0ojKdimyi_A7pisqlto-iKF-K4qiVbsgNQq1mXa8_IcctVQGJ9HhgMvkQu_n165qEZ8Ajrn05AasmIaxEGcXLagWfgrssUQ606zhti6d9IyicTfHxAJ7Xf0ALy31uNbwuOUbUirb3Zhw_ixneeo_1knDmE88U1WrWj2D18ZcHq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 05-May-2028 10:31:10 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 07-May-2020 10:31:10 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1853682010%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Tue, 08 May 2018 11:01:10 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Tue, 08-May-2018 11:01:10 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1525776070~id=02b4d05e2c8bda5d368bd399bf8c5fd7; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-11 13:49 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1060
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=1.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=AMLFNZTD3FDR6&address_street=via+XXV+Aprile+87&payment_date=04%3A49%3A39+May+11%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=31048&first_name=Riccardo&mc_fee=0.38&address_country_code=IT&address_name=Riccardo+Menegaldo&notify_version=3.9&custom=1801%2C0%2C10000%2C1801%2C10200&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=san+Biagio+di+Callalta&quantity=1&verify_sign=AtA0s7zsTOxB26VSkvnMIT7x5m6XABI4Zm4t6JBwDPc.Hat4I5-9NyNy&payer_email=riccardo.menegaldo%40gmail.com&txn_id=53063424T0906801L&payment_type=instant&last_name=Menegaldo&address_state=Treviso&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=10200+AM-User%28NWAres%29.&discount=0.00&mc_currency=EUR&item_number=10200&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=2624b4381318
+[2018-05-11 13:49 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 69875fc8d8d9
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 78
+X-EdgeConnect-Origin-MEX-Latency: 479
+Date: Fri, 11 May 2018 11:49:47 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=PQCyzLgWULELtwavsupFrUbsY2aea-AadWqZtAbCwLg-iAMWG4U-_hFvXN855N2uKihSgpRb1LWq0ao8UVbSt33ehrZMd0ohsNMgy8i7xHcIG_uSsCS6nwdFrhfdsVVKm7zUlFUoA4buQSDpmRQ9cJjdlFH83oO5W6qTt1JQC0ri7ZoM_8FfAVSfHJE_vdzEWv4u5mQn9StetSeRO85ldZlM-F35XPlpJr9b2Ptxjxq-MaPqaBf4A_j0q8EzDk3_eu_FAdvTEgHjvJVE0491g_JQB4c9zpr90vmDk1cRDkbnf0MezpJfLhLNN0SoTlzk2RMf7FuziGqW7v0p4TNKEpsfdz2AthQ4IZncm1E_YETHqMMYMRuFgSRpnDW2Ec5u4APRFhPy5FQTAm_3r_lGS1-k3dz8IueMegKMhdewkgO4taaoyljP3d1EW-S; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 08-May-2028 11:49:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 10-May-2020 11:49:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1518597466%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Fri, 11 May 2018 12:19:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Fri, 11-May-2018 12:19:47 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1526039987~id=c95f2723c32c83520780bf6947802f5e; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-13 17:26 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=08%3A26%3A04+May+13%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C2800000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=A0SFoBayAYULr4O5v420B651FTKyAzHi9pS-s28N9fsqAHMxnrn-rT7Y&payer_email=massimiliano13%40virgilio.it&txn_id=3LH83157TY3301045&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2800000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2800000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=2e9c37d13b298
+[2018-05-13 17:26 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 1ca41871bbbbb
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 85
+X-EdgeConnect-Origin-MEX-Latency: 494
+Date: Sun, 13 May 2018 15:26:13 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=f44wi-V91xc2wtQqPLdeezzIWiSfeef4TapZ_ezpQurEGAzcvsxGDIF7N7c_rm0aJbyQ_QOMmgburEvmBObPjeZNK_cAUvcn3irR2UNr5QtejOlEhSGMp0UJx69xV5I8quJ-OD8GrY30va6HVZN7MFRCSU3phYmR3kVH17GOqz20PJmDSzE-gnujs3QvYgtP5dIXzVZaUTOmrJaxfNllJnCEoLLfxVq-T-3r8PoUhvv87SqtlvncX3aGMO0_JaYJYA1uKrdKD26ztpBrFGsGUXMXFuiLYkU5iUvq88huoMgOcL630NwZagux9cntDX6_v19pyiGje4vdMXxxyaQSULj3aOiBWL-ekNITyBdFp88D5NZ1oTs0sV-BZ75Sdq8jWPhfVce9NlgDWTp6zHaiqsOyVoBXSeVovcbmjEEIsO1lVnilDmft_IG4l-W; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 10-May-2028 15:26:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 12-May-2020 15:26:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D341440602%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Sun, 13 May 2018 15:56:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sun, 13-May-2018 15:56:13 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1526225773~id=2f79c43c1d8f15abc655fef4a0ff8b61; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-15 15:47 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=06%3A47%3A03+May+15%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C2800000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=ALTOu6KaMRB-hMqs4Ta5c5OuIzxvAqo9wbXOGDL5qcdSn23powWE2iOt&payer_email=massimiliano13%40virgilio.it&txn_id=32G58387P9514605L&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2800000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2800000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=e86aba1af15ae
+[2018-05-15 15:47 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 852e9f38e150
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 90
+X-EdgeConnect-Origin-MEX-Latency: 399
+Date: Tue, 15 May 2018 13:47:15 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=NADnf0EcLtO9RcHLaSMjauFvamwYN-O5dYSI_V_3t0VeEZcRcExh9h-QjFUMgWTUaig0Pisdu0lM4JZk953n3JXXI69P5dVIin-U6bWZAWmI3psVG33hoME_Ybv-2te4J2K-NEG_WrBiKwbFUXe8eOtgm6gTA-8kJZ6yrW5WyE4Cw_d0MkgvdmD3G4wjYqXO01yoIxdR6VRp2dPGVnujKjLMYcR2-dwsp6phgdU1Fg_WZq_GaJdF8foUy5aMJaPzelDZdy2gH79JUqRNEZi2-je2c2bvAGtDB-EtXy3moAVPbAsv96DXXZsVCv3J0-EX2Z8WvkIIXG6ByX1iqNuGVwnTQerfL0_iqBEUuDX9O9-pHh_73OG9ogjyCV-pxHdAc5BgJRpWnjM0HFQfdckEiRvNH4SVZxzR79uRpq3z3NRPqUrEbBKw530uZyu; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 12-May-2028 13:47:15 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 14-May-2020 13:47:15 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3823434330%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Tue, 15 May 2018 14:17:15 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Tue, 15-May-2018 14:17:15 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1526392635~id=2e009bd108f24f7f59bc1bc95b20b552; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-16 20:46 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1060
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=10.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=B5Q3WALYTUSWY&address_street=Rua+D.Afonso+Henriques+358+1%C2%BAD&payment_date=11%3A46%3A09+May+16%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=4445-085&first_name=Ricardo&mc_fee=0.69&address_country_code=PT&address_name=Ricardo+Marques&notify_version=3.9&custom=949%2C0%2C100000%2C949%2C120000&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=Portugal&address_city=Porto&quantity=1&verify_sign=AaBrHkJ1lGrywpNQNpJJXz4AINhBAm0Ga281AGybfWIWM.DxTQjPkuZG&payer_email=rjmacedom%40hotmail.com&txn_id=0M010257D1047054R&payment_type=instant&last_name=Marques&address_state=Alfena&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=120000+AM-User%28Ricardo%29.&discount=0.00&mc_currency=EUR&item_number=120000&residence_country=PT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=68c41e4dc2f7e
+[2018-05-16 20:46 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 94c23ea0b24d4
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 85
+X-EdgeConnect-Origin-MEX-Latency: 523
+Date: Wed, 16 May 2018 18:46:20 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=l3KmprHkqOJHVqCKJYAwTkQYsiOPud01pxtSPLGx178gFcyJ3I5D2aNIG6DAYxjpUeTA83eFMTJkSVFSng4qTGjSsY4SxfvSOpXesrTNdc33Y_0r1RLFAMz0mGJAPaeNG9WcYYhRzbZvy1f17PVgh16_igTBKqgSpGcAhab5DByM9m41jHzGXFrT6ScBUX033_rAODKdE-0GgFzJzPGyekhuH_mDW6zNfn1g0ABQ9SJ2FTHdkm4rSpxpK4w2h7i5JBbqSC6-FpXqapoUcR486KjME0KuKTTmvsqy28OwH613ZNWGHoZpDPv8QVW9ar-Yy6l11PUBxMFSR2AKeu3lhYkjkBzB1GaXN5rNU7TVp-vOgKyeTDVcTocpPy1NcuTMFJ1J4vxxajGAQclW-Fz9GobVp39xA22jeEAqzK0up3pTSDkmD-MTF5YEXBi; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 13-May-2028 18:46:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 15-May-2020 18:46:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2071788634%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Wed, 16 May 2018 19:16:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Wed, 16-May-2018 19:16:20 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1526496980~id=299cb692824ed0683744e283f76da406; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-19 03:22 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=18%3A22%3A42+May+18%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C2800000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=A7U0VZSp9f-CqYGVS2WgVBbvxQpbA2i6gPrMkzVy.H3bbMKOefZGHt.U&payer_email=massimiliano13%40virgilio.it&txn_id=9R096762J8214933H&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2800000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2800000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=a1cf54017eed7
+[2018-05-19 03:22 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 2ffc0c778097e
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 5
+X-EdgeConnect-Origin-MEX-Latency: 571
+Date: Sat, 19 May 2018 01:22:52 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=hh7fRwTN_AyZvmi9ZwgbGBQJKrsiQFbAY4o6la3xy0YyZEpQoNxUl74-0oozPyBoAiS6QtL6devnv4T1zgjwxlstAA0i0tQnIq16b2R6hkRnVf0bUkz82xfsUC8UyEXXGW_1bIoc1ToBXuvCpXGgn8nLHg580pbLr76Q-pp0kzy_JPJlki5fJK4mgM5fNb0PCY60MyXVvgMv0HXUiZLB1fsTA6DUYgv8RqISbWQOg3g2OSijeMY-RdNy6v2dEe_YK55jJNTbZyKq7dvaxDz8oJQjEiPjDr9kaZXOtQtlwrzzJsVagG7SnUJlfq3lfdcrL2xHXZpl_zuJugSqT01-_vqelAB_sc5miHxslgVHEJSg1wUqOoZou2hG68lM6t4KYY5BiHu5XVnslHVHJqu1Sf7arYJ4QRyAtBuXPPqolOel_bRlilikfdEzksq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 16-May-2028 01:22:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 18-May-2020 01:22:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1803353946%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Sat, 19 May 2018 01:52:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Sat, 19-May-2018 01:52:52 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1526693572~id=11f8774863a10e3bb827d1a93f840443; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-19 14:57 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1061
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=1.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=AMLFNZTD3FDR6&address_street=via+XXV+Aprile+87&payment_date=05%3A57%3A36+May+19%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=31048&first_name=Riccardo&mc_fee=0.38&address_country_code=IT&address_name=Riccardo+Menegaldo&notify_version=3.9&custom=1801%2C0%2C10000%2C1801%2C23562&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=san+Biagio+di+Callalta&quantity=1&verify_sign=Ai2cr7jfNAX-cAdUsrlbMpJLheVIAgd9XQCkGQTdisg3N5FZcq5DCIlD&payer_email=riccardo.menegaldo%40gmail.com&txn_id=54R66617V8634522M&payment_type=instant&last_name=Menegaldo&address_state=Treviso&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=23562+AM-User%28NWAres%29.&discount=0.00&mc_currency=EUR&item_number=23562&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=4dbfb6d774db4
+[2018-05-19 14:57 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 3a22de5874a1
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 86
+X-EdgeConnect-Origin-MEX-Latency: 524
+Date: Sat, 19 May 2018 12:57:47 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Gz6PMJsFO_9CHdeh-ag_yWHr5OK1UOxr6hENuqWPTpnnFbGeNtvqIHnSN3Sxls7DmrRxXmIVVkgPfxGBndz_2MD19d8AqCxEyleudRmLF4iUyQDn7ZCFBN7QWXpgKCYhCYcaCWTZaMZFd775WP0m6knU0B1-dMiLgLLuwjbvvq2rVRVKlwG2Ei8IgQEH7ntmzgGUjy5svSQHYvYkdV5fA84QSTa3jn7KFIp_WdzF6bVUc2v-sFcO2zF6Oc-SvfQXwQhDgBsvCq4q1rI5PCmGIZWtff0ItVlgXmLHR2onXJOv5CuQ_gcWJAEyqlmUbz3YB3pjC0i2tF51ye-mbnMQdn891V_LT0nu9pM6-Pmjx91Wpt0prqkML5dv-yy-toZxPWHzR0AIWNNdohlR4pKq5psLPOtYwMY7gBuecVBPwWim0SC7JwMVZAE0CyW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 16-May-2028 12:57:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 18-May-2020 12:57:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1260322907%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Sat, 19 May 2018 13:27:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Sat, 19-May-2018 13:27:47 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1526735267~id=ffe666e19bd8fc76493e25a2fd354f78; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-19 19:07 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1030
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=51.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=FABYRLDNBEF36&address_street=19+rue+montesquieux&payment_date=10%3A07%3A24+May+19%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=69007&first_name=jimmy&mc_fee=2.08&address_country_code=FR&address_name=jimmy+cahuet&notify_version=3.9&custom=1718%2C1%2C500000%2C1718%2C2995000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=France&address_city=lyon&quantity=1&verify_sign=AioJHcZBOIUG5O5f6NcY34ucnV3nA38StFkkOsWtC8NxPQEUh..2PdnK&payer_email=jimmycahuet%40hotmail.fr&txn_id=65K48265SK2369357&payment_type=instant&last_name=cahuet&address_state=&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2995000+AM-User%28R3ptiLe%29.&discount=0.00&mc_currency=EUR&item_number=2995000&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=9d2325e83129e
+[2018-05-19 19:07 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: a3929d4a5988f
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 79
+X-EdgeConnect-Origin-MEX-Latency: 484
+Date: Sat, 19 May 2018 17:07:32 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=mmV2RFxirbFB2gZzcSJYD6vEo8pKdExx4vGCqD42XEu28gOiSsMvLAEXAwEyD9oMU3U_qfWUYK7fyP15Z06zGW1lR3dFFFtJ4gQCdSppFaP2gu_OnVf22vSSv7U7MV6sv62kAms0wai5kTCi_fOdUx-RbCiUAtLJ3nUC5ZqRQTXQldp4O-0V35T9oAaSAWC6sr09l1DClslVzYyVKa460yPaP-rSkviThxGCK6EQdLA3e0tIkn-OFcvmRo8izf9d-P6G-EtHF9a8jCDMLBLHKpiwjDGbftnzIfa3KuAtC1y5tsgx5qLSpZiUYW_l_wMMgI6dpXKaJ5zd7D9liEr5Gtzchf_mU94yeJV55afOarL4t_mG5MZ6kkW4Ffsf3hhtMrsST9hvjmpRt0JB4CdoA7r0CYW_LU_a5wDSHciBzW37-sI7AGjWAamO05K; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 16-May-2028 17:07:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 18-May-2020 17:07:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3562602587%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Sat, 19 May 2018 17:37:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Sat, 19-May-2018 17:37:32 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1526750252~id=f8ebe7e7e572e6ba33c080a094e5fcaf; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-20 13:50 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1026
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=10.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=YB5QN8NTQ8HZU&address_street=Enese&payment_date=04%3A50%3A39+May+20%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=&first_name=Lack%C3%B3&mc_fee=0.69&address_country_code=HU&address_name=Lack%C3%B3+Sebastian&notify_version=3.9&custom=1834%2C0%2C100000%2C1834%2C277200&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Hungary&address_city=Enese&quantity=1&verify_sign=AGeO97Sqs4nomgDsi1Q7GShHCAQsA0JM8KEUGjQiJbTiwclN1N2MheKq&payer_email=seba910515%40gmail.com&txn_id=4YS89897M0914324G&payment_type=instant&last_name=Sebastian&address_state=Enese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=277200+AM-User%28Seba%29.&discount=0.00&mc_currency=EUR&item_number=277200&residence_country=HU&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=896932d295c7a
+[2018-05-20 13:50 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 6a79f9cf420aa
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 79
+X-EdgeConnect-Origin-MEX-Latency: 572
+Date: Sun, 20 May 2018 11:50:50 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=1cNwBm3eqMMIDejFxlL-0GsyF4ynxANeMo6iOn9BmCNRzJQ5zsY0bZy2m5URWGUoCOIo3B4cedi7rWIEhUl6e3vxy6Gz-KF05Tr1UfY2DVL_Sfb1aUyey--gZow10CTqiotHOR4ycQ7FkJOYFqICFXYgJf3gXdtcwuCo4HImcsrZexTp0JO816YGkD76BZAdITIu9S_sh_zr9zV9WJgWA9N_HMgkFqaRwTlAVXcqQBsBkNpsZsCeokG7P4eI6u6JnzQwzhvWTFsSp4Gwj2Y29KBWxvsBicKiacipdklcT_xDwuyndIpEwQ-pJW_JMnYaKNmTnFc43UFO9ivGwuHv5XjCn1WDyh2AKvKwV9bZ_JwnTkp1qDx6JUHI3FfnMg5XKfT3iR9qWKAFgBpX5MwnH2tQvIdFLJQm55PFue11p2OW1jDcI3ZYJBOE7nW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 17-May-2028 11:50:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 19-May-2020 11:50:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D442564955%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Sun, 20 May 2018 12:20:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Sun, 20-May-2018 12:20:50 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1526817650~id=504be4774d25905aa4163b567fe71838; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-21 14:58 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1030
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=51.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=FABYRLDNBEF36&address_street=19+rue+montesquieux&payment_date=05%3A58%3A16+May+21%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=69007&first_name=jimmy&mc_fee=2.08&address_country_code=FR&address_name=jimmy+cahuet&notify_version=3.9&custom=1718%2C1%2C500000%2C1718%2C3025000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=France&address_city=lyon&quantity=1&verify_sign=Aoz9RBDvXuJinTvQRKQlWqVOMY-jAoJTtm5i2dO.Bh9NdIi6Acxma2Nu&payer_email=jimmycahuet%40hotmail.fr&txn_id=64D539428Y920572L&payment_type=instant&last_name=cahuet&address_state=&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=3025000+AM-User%28R3ptiLe%29.&discount=0.00&mc_currency=EUR&item_number=3025000&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=19da824861d4a
+[2018-05-21 14:58 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: bd58c580d0ec6
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 78
+X-EdgeConnect-Origin-MEX-Latency: 527
+Date: Mon, 21 May 2018 12:58:29 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=B7AJv5vf3J83Djn8cGEyu7YDujD5MVNZamISse001siNxqZ0sckG9uzlwEZJLExFf9DEFTs7OFNejp1oEgXAuQoZ7HtWR9Q5Y8ZDJgyLZ6_I3_AzxUJuGDVEuy2th6DYgpgl5qT7pEkpXrbPXgPZ0lftpTc3kU1wDzMOTj1_EWTHBsEII-9fPUiOXyIaiGYko1xhxPH3vqQ954CQcBEAFPwHGGZRZjDMZ2RhgKsSs49F3lDm44AtLASwttxI78knFYHIw7waELyYm4onZP1S5EaBuawxDZYeey-hQdPOdL6dAJ_vFc9-JkWYMvjG8gfTceLiHDtpmfNF8RTt0EEImV9bGo1vNcmUsQxrE_CdLHY0hn8GkIBPw2cy_Nc1OpMn-AM8BmWPmQ3BRNhsBD-BR44GiXW_OiS9A9Fpf5elX4w5vj5tX2TWoK_Uwum; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 18-May-2028 12:58:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 20-May-2020 12:58:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1958871643%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Mon, 21 May 2018 13:28:29 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Mon, 21-May-2018 13:28:29 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1526908109~id=c203768e19bb6adcabd7333026d96cfe; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-21 19:07 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=10%3A07%3A18+May+21%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C7385000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=A7YkNP1UR4Qsbj2nI3hu2yb0DjiAAftMB-Sx5WIomYYC3QgmuqIrc3QB&payer_email=massimiliano13%40virgilio.it&txn_id=97707192B74917940&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=7385000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=7385000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=516df5c039051
+[2018-05-21 19:07 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 34a3bc35d8289
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 75
+X-EdgeConnect-Origin-MEX-Latency: 478
+Date: Mon, 21 May 2018 17:07:31 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=V5D-IVkNetHNyBPcMamA1pJiilB1J6nEwDeCa34iuSDZKrVIM4O9lwkYmvn-C0BIjgeXT2lG6ifqpqEEvrSown17C3UY038B22PJEZF2ZI4QKtCjreL3kt4R4T9Of9vkY-QPvMphCG27OFLXqkTO6ow2u9kH_0M2LrJ66tnzjN_mJHZX0QXPbBK4Oxhb_nFHBy7r_SgA5X_IARntCMeCU3qMjbXH-fyCwPCnjb-TOwW5tJFJpHk4sMYR863xXWlu3Mq1gigb4BTOTC25eP9V_UnCglB64x6Jc3paiFbTuexdPWbnOp0hWiauv17IaMCXMa6Wi8XtfdtggPpVv3lccnIpTAnJissPwaZZVhWq7DZ-uSCvrr0HlpiEDZq5X4vwIVeOfGe3dsESwx0ACJq93G6U0lpbv90ebBdAjXptyMt8Z2hNyZ963-C2J68; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 18-May-2028 17:07:31 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 20-May-2020 17:07:31 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3539731035%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Mon, 21 May 2018 17:37:31 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Mon, 21-May-2018 17:37:31 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1526923051~id=2be6894f51583ecc051685d8f03c329d; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-22 15:40 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1042
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=5.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=RX2HDJC3L5S72&address_street=41+Upper+Boundary+Road&payment_date=06%3A39%3A54+May+22%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=DE22+3NU&first_name=Dan&mc_fee=0.52&address_country_code=GB&address_name=Dan+Rees&notify_version=3.9&custom=613%2C0%2C50000%2C613%2C127050&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=United+Kingdom&address_city=Derby&quantity=1&verify_sign=A2rDnzDGFqKaSpkiw57sLjSY6SPCArybXrSgl69WRBMkgQhu431yLg2X&payer_email=awigaminghq%40gmail.com&txn_id=7XL72482YE815124W&payment_type=instant&last_name=Rees&address_state=Derbyshire&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=127050+AM-User%28KeeqoHKM%29.&discount=0.00&mc_currency=EUR&item_number=127050&residence_country=GB&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=bf3b5f1a26a30
+[2018-05-22 15:40 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 2964eac7e48f4
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 78
+X-EdgeConnect-Origin-MEX-Latency: 411
+Date: Tue, 22 May 2018 13:40:03 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=HiPfHy9SSVrP05kQIGIcVglnY2e75wrkI2wZwBo2t861R1tlPGo9IwfkbbC-LIjFGfgl06nc0PrMl8LXx096JXhEOVdPCenVTpZBWsFogXwGoHG8BkjoQEcRYlt8a-MBIJp05ljA_H3uW0daUBRs8cE9j3hOaI03L_QjnkEehgkeUFkzk0SxemYOh5ujJm9P2pSAJ30b7fBvf83ukF6_M29-jsXteW8nOAr0n6yUZ4m0thgnCurvFQMEbNvwjFhYgWuHBZwzZzCDNCSMjcTpqhVdIiSYG6gyp69eirogmQWRtDoe2OrkWXCZRYx9ZFaVb_Z019Gh80ubSmxAkbzw54kaURiRYZObH3S0P81zhGZH285RbClNdBsYFpt5lsnjICQz421Hs73jjaRUgodS-dH0mms46p9LMdQfVTxRqBXbX5J-xGwuRp6-XTC; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 19-May-2028 13:40:03 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 21-May-2020 13:40:03 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2988246107%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Tue, 22 May 2018 14:10:03 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Tue, 22-May-2018 14:10:03 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1526997003~id=cd549072d6542070a49ad66c5ec0967f; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-23 01:07 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=16%3A07%3A43+May+22%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C7385000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=A0fvjuMEpb4yabawenR0Rb3uOMeHAzF0RUdJ73kpuqPIXIYIiwUn7m9n&payer_email=massimiliano13%40virgilio.it&txn_id=15T18301A61957027&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=7385000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=7385000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=f541ba6b4e167
+[2018-05-23 01:07 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: d1597c8094dda
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 12
+X-EdgeConnect-Origin-MEX-Latency: 680
+Date: Tue, 22 May 2018 23:07:52 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ok0ga9OfBlWmEGBVdJRuXFZ-qOTNSY-nl8sHYG_JVJ2fQVNAh3wnDj8qnE8od9_Hltqvuj3OltVBCNcs0FkjrM6NeRqvW7nww_a9GJiQW9V6cy_CXX-4EijtuK3vGIkgePfDAbTYbm-k88pd7PWz627Or3t1YjfarTh184qPRu3W-yIC88s0nGu6pzPoGGhHvPGswT_Z4yUhtU4UmALgd6ZM9RcnjeFEUQQ66Nc8JzLnniI_9khL2cAFOOhJDE2VCP9nRQ4A6BVADFCD9Nl47C82NqMyUgpzsYBezI2T2JIJlDQj_FO9hmXsZXkTlyXAIlZo02-Vv9HBA7BY_-6kjTi0GEhWuc-s792A_Gny_LyDm0t1Fs0Ijl1X_pDxR7mj0YVvQQL40XhHIBgoCkmxvCpFjXQFOmH4swdcFU0T2OjY3z9TmU8rs1K8KGi; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 19-May-2028 23:07:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 21-May-2020 23:07:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3349283931%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Tue, 22 May 2018 23:37:52 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Tue, 22-May-2018 23:37:52 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1527031072~id=b56a2841502817fabb77562fb4d3f4f1; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-24 12:21 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1058
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=15.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=6RT7QJPLQAQSY&address_street=142+rue+de+la+croix+blanche+r%C3%A9sidence+Clemenceau&payment_date=03%3A21%3A44+May+24%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=40100&first_name=David&mc_fee=0.86&address_country_code=FR&address_name=David+Vogel&notify_version=3.9&custom=1939%2C0%2C150000%2C1939%2C450450&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=France&address_city=Dax&quantity=1&verify_sign=AJwxg8rvX8kPfWVhUATM1s7teYTTAvHen6553Su9VrJ4HgCLpKUUFUU-&payer_email=luigidavid7176%40gmail.com&txn_id=6PY78773AM039670F&payment_type=instant&last_name=Vogel&address_state=&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=450450+AM-User%28Eco%29.&discount=0.00&mc_currency=EUR&item_number=450450&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=6a2cd54556fec
+[2018-05-24 12:21 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 17fe094783a2d
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 77
+X-EdgeConnect-Origin-MEX-Latency: 389
+Date: Thu, 24 May 2018 10:21:53 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=1uqWTSwQk58RKTpaEukxzYTxI1fvD4srrpHoaUushJ_5oNmnsK2ihAHPrdCu-_sBnmuSV9xWad2WcMyunqBujIk8fgwCroKqrnuVGeIL3qddhR_7AyfvBDuSZhcLpA3Un7K8-4qZsD1bAnvUjuz77cQL13dY1SlNApUdMrcA8PebnCTKBheoTC36qfMT4QSDwLQVDKnFD-366Xenqa76lPtAROt8mp6yGceKXBJJzEFWhYcGA4dizpRbOxcwSsHXTGQWnxK8VW184aAjzU4FgQ_ZxZ6bSXI0nXP79yX0RQMJxoMUm5HDFiamklPu6RX7QofMgb6uOM6hQc7hOl98Shn_3Lc5Qyj5g4QLebCHGjl87dfsB_z1gdHIPUiindSuNTewVCE09WhmRbS3KvtvuWjLJblW9dDk1094qCWTAYdlh2bCEpAViy6t-ia; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 21-May-2028 10:21:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 23-May-2020 10:21:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1100088923%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Thu, 24 May 2018 10:51:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Thu, 24-May-2018 10:51:53 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1527157913~id=40c99a2c94f4cd968f3acee94b7c1587; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-25 16:58 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1039
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=4.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=RX2HDJC3L5S72&address_street=41+Upper+Boundary+Road&payment_date=07%3A58%3A12+May+25%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=DE22+3NU&first_name=Dan&mc_fee=0.49&address_country_code=GB&address_name=Dan+Rees&notify_version=3.9&custom=613%2C0%2C40000%2C613%2C99792&payer_status=unverified&business=billing%40warofgalaxyz.com&address_country=United+Kingdom&address_city=Derby&quantity=1&verify_sign=AU67PgtqeaJpsOy1YfRxjORilgPgAGlphXlLc6PAkTJZ4aDQpHM-hijr&payer_email=awigaminghq%40gmail.com&txn_id=8EG66169557672636&payment_type=instant&last_name=Rees&address_state=Derbyshire&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=99792+AM-User%28KeeqoHKM%29.&discount=0.00&mc_currency=EUR&item_number=99792&residence_country=GB&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=d02c40df6211a
+[2018-05-25 16:58 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: e617d325ade04
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 83
+X-EdgeConnect-Origin-MEX-Latency: 483
+Date: Fri, 25 May 2018 14:58:23 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=wWKLFT0e1bIuCM8eblSj_d-wCNqIenTjRTGbPMfJeU2jhAP0hw0cPQrDPT6rS-bhi2ZBI0UuoGXsJYjzjqHZe98WkFdZJCbK7gpmXOoXdRO_Wm7q61HBte9Lhq2FMxWwGIFODNV_UwcXayZgpQjNbENEfYULr8T0O5aIz-JHWQSZivEq0ppjnPSN_8TCL8OnEALy3fIkhuktzmYqTcHGYIuQv4msGtUx4j20ywsYykhrzOV3nINEAs2k2oGGtEP4io9vH4pWfy_6sXXKF7U0DuL6b01-vDNYvSwAP4dcRwMjmw7Zx-Q-AE283TI2mWTkFEjJgqL0YCJzHRGkbFGTliJEX1EDBgZwNenuO4sZVlDq2kVzieg_hQkCoCakxOlNesFJ6Zo1tsNo1mjohcAC2y0rQM7_CiZcTmsTJSuQvO7TMcwG_0zWGZRrCQK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 22-May-2028 14:58:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 24-May-2020 14:58:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2384726107%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 25 May 2018 15:28:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Fri, 25-May-2018 15:28:23 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1527260903~id=d663ac9b4796dfe1a9a207fc8a6fd252; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-29 22:02 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=13%3A02%3A49+May+29%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C2800000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=AZsBDTUX9pma2.nEhAIQbze9dHbGA-3xU5YqmzGDm3LLCIZengJDBZg7&payer_email=massimiliano13%40virgilio.it&txn_id=66P598715Y4485547&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2800000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2800000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=bbbab8a318ac3
+[2018-05-29 22:02 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 81ff6774aaa9a
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 6
+X-EdgeConnect-Origin-MEX-Latency: 547
+Date: Tue, 29 May 2018 20:02:59 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=AsOECnqdDW1vIYRAC2AY9-CifNU1ioI4wAZ5oMYcTTUWY2O8aihSmPUMNldu6JkWUbkRW71vAdHdq-q6A634WRNqewYc6Q22Ea7pf2YHeOjnADoN9RqS2ssvHV9rEylfFIpUU_oNrF-NC3YECvrjJ2i0assNgMinA-GH4DRT755G8RTC-IGpyx2AFq7hgXm0Y7qsYIo7V7AYC48fPGbYMEQhFHsqKmz48lzN87PVIUuwl1_Wz8nTz9dRe8G5sSicpEl7fyUhi9JKz1LuhKpGJIX8zvW5k_gEc_JNU8Ib_3qMKd-jk1rdf89x8yTEmrVlsgacZxjj8LSC5hrkKuzNBV_oFk3AQNmJCNNGcKRht44GGYqxw3BAmwGjF8OgiWGo-TZTeW9i5leW5KM9BxGqwKh3fH82aAsnRbv7HgzKIJhzNErzSyTPznL46Ti; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 26-May-2028 20:02:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 28-May-2020 20:02:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4071689563%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Tue, 29 May 2018 20:32:59 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Tue, 29-May-2018 20:32:59 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1527624779~id=9c7b92d7e2cc2d096315f569a64ca81b; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-05-31 23:25 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=14%3A25%3A07+May+31%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C2800000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=AdD.evllf1vyKV3FfB1GVu4-wywWAdPPcPuNBEU6062u11kRonYSjdym&payer_email=massimiliano13%40virgilio.it&txn_id=1BX54761MN7735617&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2800000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2800000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=13525eb33fec9
+[2018-05-31 23:25 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: fb5ab5d6175ab
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 82
+X-EdgeConnect-Origin-MEX-Latency: 520
+Date: Thu, 31 May 2018 21:25:16 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=uFXKRDlFiQIgf6dkXHkyuriJ3osE7jTUlMMh7NHYRsE4azdfhrvSNdOUo-xVIMMfbLT3I4yJ2eE4PJRzM5x6HmGndusDPT6oQ7EmV0vjjEuiPm_S51Twj_1HYk-D48bSGdOo237pNRXfTWggnQJs244cgoRDQcaVGASc28N9mw8-GQyZSrFPhKsw0Bfva_Ipu7Js2oaq-O7Ss1vHnlsNUrB0RIp7it1xFRE1bWVWiKD2xwPvaY5DWGQjW0stLM61Q1V9OXRi9AhFI99Fjbcj0KQMDF8hlJO0L5LWgucGF9d1HdsTutZN2oBVa3tMXJihOHxQJIBBarezJ7UYs4wwWG6Oh1rpGWmrA4T8Xnl-01y4INFIb8UIWpRdJ1s88c0dOUJq3YuXpfPJ8SEWy9R1d-v1V5IDHx2l-eqodyDARS_xsNEYxyYFM89svcK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 28-May-2028 21:25:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 30-May-2020 21:25:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1013452891%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Thu, 31 May 2018 21:55:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Thu, 31-May-2018 21:55:16 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1527802516~id=5fe973dee8d3b7ea305351e7cd25961e; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-06-02 02:47 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1064
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=17%3A47%3A14+Jun+01%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C2800000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=An8YWgvgBkMKPzZwPMPjciXehRgQA-2WGwlgnwNB-vPW5zjt9yIcR7VW&payer_email=massimiliano13%40virgilio.it&txn_id=8KR7812314741642T&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2800000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2800000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=7e1af5f440c0
+[2018-06-02 02:47 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 83db9ccfad8a7
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 6
+X-EdgeConnect-Origin-MEX-Latency: 541
+Date: Sat, 02 Jun 2018 00:47:23 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=FvhSXy8hQMiIypH-pJCWkhKGEFYtXkW5R1r_abgYbbHMcgI2ffREPXAjXbS2Fa1M-XDpjwswt1Kykh9u3CPLy7Y9XxlwdwKxHWJTKM8AagZfbB2Ep0Zv7C2ZEbuiQHy2Ms4QCUPHTWn_HLNUluRTrDJFF_bBr_uWiCbqoTrG8V93VWddPawzE7cvbyvj_reMK-N_rj7oenYz0cwu0mCqMnEbKkIITK84B7sAjxL2gYH8uOFZksHQfH2E_HVDqIJMem7rNDprSyl9uZEnSljrt8tVWc8T2kN75J05qD2lSB_T7N1lm2BhGl2P4Nl2rqgRiJHlLh-MKknKO2zjaeyjhEbup6ln61J6nAUtcDcgZ06-sbiSKeT79_e79tcX71Lgbu6Glf3E-0rR-z1W5wPwhf682mYzO5Lh9a6RsKAZJf1p3HmKGoueJYtFrlO; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 30-May-2028 00:47:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 01-Jun-2020 00:47:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D451481947%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Sat, 02 Jun 2018 01:17:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Sat, 02-Jun-2018 01:17:23 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1527901043~id=a344b3c089fddc8ca22699291d41e2df; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-06-04 09:58 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=00%3A58%3A28+Jun+04%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C2800000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=AAt9EuAz9d7J42E2v9ShyTXYFEayAv6Dcn-34lkdJodG36btMLMuSQ0l&payer_email=massimiliano13%40virgilio.it&txn_id=1W5416078D799691A&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2800000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2800000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=cedc6eb7e9bbc
+[2018-06-04 09:58 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: a1bb37c0d6211
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 70
+X-EdgeConnect-Origin-MEX-Latency: 501
+Date: Mon, 04 Jun 2018 07:58:36 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=WDLmi157Rc8twEPEUy3WflfIizlqzIZPUXU_8wuI2LdTt1frm51Xqb8aN5UFlXjjOs1_pKdO6WbW-l1jZQqMEf9PE2s64DrqFE4iBug3VWou-DuOsfdYIj8SEqtmHziW7aoYVOg9p7qreMVDHwyHDu7D9y1B5gtCpMSa9rEL1vxsl_2h_Itwy7aUp4EP0qx6SJbcef-ySMd_wZo_UxZbbg43_yM_YYp8KAnQBXQTP8MaMCKRlxVtM5G5ORErmAhuyyh_aQhwj1DHCQEzIiDh2bQC2SP9oyb2x5dlVL0j9Esbd6Mms5S-Ua7m6AOefABff4QgyDU0fIw3AeG5LcLOq2OsVs_UE7gdN7u2c-xqNxPAB5DZ_ftsQefUPmEBCD7k7-94D70mgRE6cHF8zHjBVKLwae1GCWEyPpcmwkQkeXm1HI7DSfYSbOwHgqu; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 01-Jun-2028 07:58:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 03-Jun-2020 07:58:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D737219675%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Mon, 04 Jun 2018 08:28:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Mon, 04-Jun-2018 08:28:36 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1528099716~id=a66ccb92782e36c7c6424588d6aedccf; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-06-05 08:23 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=23%3A23%3A42+Jun+04%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C2800000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=AQ3XKCGqh-fcDveLL2DkerdD497WAPUZVXyo6K8LMPVkNYA3rcM-YMi0&payer_email=massimiliano13%40virgilio.it&txn_id=70H68399WC555560M&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2800000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2800000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=f65ab46b135ab
+[2018-06-05 08:23 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 6d1e9a5fbb973
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 86
+X-EdgeConnect-Origin-MEX-Latency: 491
+Date: Tue, 05 Jun 2018 06:23:53 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=rCENbfQBLl7MK9E-nquknKkgIU7B5qaxdvpn2WG91OIu7Tw1oA_n80HEv7x9OCfNRx2Nq3JMvkXvZuVR3OEyhU6AyGpWl6jToJU13aS0ll0biRAW9c9bJhQdCBduL3DUsB2vkE-obzqCb25IvKfdXLFRnMqk5ec4XlVPtTfYC25Pew2VRA3oQpj-JB02jeoa2w5lA3TRf4z8bpGi__02z9YpOn_TqyC76Ig9Q-SKN5ZXhtfhpNLH9ypmoi3pyNUo118cXjCNTRUiF8XfNZLRdM0PEInzBQIdSMOSdRJzpilxPo_ZyfdX4EQ7Vn8Rptr5nMe96kGvgiyFab8NF4PsTX52kDIDww3MZp0PHcBFqVr-p4SXEWL2cuIdfgJ7XxPrhrY_aHnh8DL6m2np2NmEyfAvBqfqiBQMOyWQNLadi9l3hK9qsk2BQdknSYW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 02-Jun-2028 06:23:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 04-Jun-2020 06:23:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2016155227%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Tue, 05 Jun 2018 06:53:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Tue, 05-Jun-2018 06:53:53 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1528180433~id=1934317c51906a91d0386fd3087d0dbe; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-06-08 21:22 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=12%3A22%3A31+Jun+08%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C2800000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=ARVllR0TjguXil1XV758FW4PBwhBAOSkr9dKpKuzlR6ozsJkeyv8RHyH&payer_email=massimiliano13%40virgilio.it&txn_id=7CL13252E31198628&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2800000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2800000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=6f3bfe9bdf075
+[2018-06-08 21:22 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: e67b5bbedbf0
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 108
+X-EdgeConnect-Origin-MEX-Latency: 819
+Date: Fri, 08 Jun 2018 19:22:39 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=N4uf1qs-rPEdT2KIsEfMd1y4abbljFKmRRc18mqt8F3_5hh7UZsZZ3wn5TsTOI26Gr_Nu8Hu6rHYxRoifrHtFAh3ywOClVtu0Lwc1iE_WRF_QvQAL2eQyagYkA_Qz4RKhME6lD8pu5jUDXBIQmnfYhDUNjQE9BuFzSoLtjO1YE_LCMgVfMkuhWmQRMOiHFmyPXa5IOAcrvErEzPQziyuOS8VA1M_X8p5bDl907NL7CPZoLaU2wjZofhQvHJfrUrBGWq8lDqP8YT8OHyRv_oaj55LCXwo6tw4Gnfb0q2vrKVh9r7kX8CBFdJMgIv_Lhot-4HlGVvjZRB0vYvrYkjj201s_o4kbFmAupCI4g-76qNNkvqiNCo-rF_yVrlp4gg_bVsIwTT-qATSNEXPRFRy5F1Fxz_GUZj3LNPxAgnBIozAzXXMS3XgKhkkAD4; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 05-Jun-2028 19:22:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 07-Jun-2020 19:22:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2144803419%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Fri, 08 Jun 2018 19:52:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Fri, 08-Jun-2018 19:52:39 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1528486359~id=7cce77672ab8cd574a15d4a03597b0ce; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-06-09 03:36 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1026
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=10.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=FABYRLDNBEF36&address_street=19+rue+montesquieux&payment_date=18%3A36%3A25+Jun+08%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=69007&first_name=jimmy&mc_fee=0.69&address_country_code=FR&address_name=jimmy+cahuet&notify_version=3.9&custom=1718%2C0%2C100000%2C1718%2C120000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=France&address_city=lyon&quantity=1&verify_sign=Ay3LJkbQxkUFZ.QZWLEIDaLYFHxHA3swoFlSE4Fp82IEeti4xKyEJC1x&payer_email=jimmycahuet%40hotmail.fr&txn_id=3WD60616CG589332X&payment_type=instant&last_name=cahuet&address_state=&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=120000+AM-User%28R3ptiLe%29.&discount=0.00&mc_currency=EUR&item_number=120000&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=5b664b7f0b1a
+[2018-06-09 03:36 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: d2db980439e85
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 13
+X-EdgeConnect-Origin-MEX-Latency: 615
+Date: Sat, 09 Jun 2018 01:36:33 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=gQL6B4hnlhE7SisXDPI0h6dnHzI6rVhP2jKwTpBHvCMxM5CyPG_IYT1z9_SKDkZFi3qSoCOYzQXdctF-SFOOOfyixyqfXoaEJpJvDVCujXGvOBdhvq6ZJzVCkfUz4D3F3g30d3xzYYM3ktyj76EEFvn-2wCtuXdi6wzZf1gAxGasw4t2bmvxmZa_rpFCirwuSBn2HWnM0sA4o1yXmb93a3CJEfR-YN9rhWgdOGO-B3VSO7FG55Eck6tvaocrHyfaEMYipWFfT5YLqiwRa-LMj7DP3YE8g5AzKYodZ466cwftcc6VgTHwLg3D1wI5zuz7GvVx9_22R5K7M1uLXQ8u6NmMYwr8gVBLNGun2TE_vDMuviaBnq_Hunr5k5YwT3SW5AQR-AnurXGdZY4jxFnbn1Ijq0uc9wDUwYM3P-3DcvTxyyKc1glOGNRJSgi; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 06-Jun-2028 01:36:33 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 08-Jun-2020 01:36:33 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D556735323%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sat, 09 Jun 2018 02:06:33 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Sat, 09-Jun-2018 02:06:33 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1528508793~id=70a18931bcb4e0495999cfb4be180cb3; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-06-13 21:18 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=12%3A17%3A57+Jun+13%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C2800000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=AYJczgUBhHMlakpf-oN717EBMSwLAnIatd3H6G3veAb.2ds4Vke0B3vY&payer_email=massimiliano13%40virgilio.it&txn_id=4L320850UV648792W&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2800000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2800000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=99af17e6ba1a1
+[2018-06-13 21:18 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: b62e19c9e5091
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 70
+X-EdgeConnect-Origin-MEX-Latency: 494
+Date: Wed, 13 Jun 2018 19:18:08 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=9Qu2YbQvaA2xxX3mOuWW7UDha_MQ1VViJOmK0uT11-NxE9ImiutCK5BdHNVSC-359d4W8_DyKNBDg7JUdhWcjo5XC_tBUuOBbpBcm1dwa4Qmz9k44tUxWYMrFkmtRuTlq2hkJLkRORM-xAOQS3FgBd4-R_zJ--kfTufD2nvDdy0IN25SPLzH2Mv-FNgQmpiKr_vuHWw3sPGXfSDeKWX6XPrLOBIVFMBulQfrcRqu7A8_CaIQtZq4nw7nMQkOrIwrSNP96jD0HPuEy9Z5ZVu00m9CQcSqb7ofNTj6ey6SK3bqDy_glH6RsuppLyEx990vh1DpjNjPJoBv-XJyGYA2qAXxD9zY53JWPx4T5BI9oP8gdinAX-ZViVUihCk0ISdeFLWa-VUYUGy3-ORXB8pFzkyx8aAkh1AsUdKM4bDQuiZlFNyOW4UYx--LkPe; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 10-Jun-2028 19:18:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 12-Jun-2020 19:18:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4016906587%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Wed, 13 Jun 2018 19:48:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Wed, 13-Jun-2018 19:48:08 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1528918088~id=453d5b8e4051f5008240bac8d5395fd1; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-06-15 10:29 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1027
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=10.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=FABYRLDNBEF36&address_street=19+rue+montesquieux&payment_date=01%3A29%3A32+Jun+15%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=69007&first_name=jimmy&mc_fee=0.69&address_country_code=FR&address_name=jimmy+cahuet&notify_version=3.9&custom=1718%2C0%2C100000%2C1718%2C120000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=France&address_city=lyon&quantity=1&verify_sign=ArGYG23.mfapWHbli6N9aVbRlUNqAcYoq7zl-VofZ4WE2rgPV3VfUo-u&payer_email=jimmycahuet%40hotmail.fr&txn_id=0DJ65150E3011482W&payment_type=instant&last_name=cahuet&address_state=&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=120000+AM-User%28R3ptiLe%29.&discount=0.00&mc_currency=EUR&item_number=120000&residence_country=FR&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=d7f0a74f8bddd
+[2018-06-15 10:29 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 12cbf5f3af2a
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 75
+X-EdgeConnect-Origin-MEX-Latency: 469
+Date: Fri, 15 Jun 2018 08:29:40 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=KWKP4UZDQfZEWCRTtwqq6-4g1HZHar50Fcj4-NDiND8ZGIb8WUohZz-1mqmXNxJthZSdn2j7KIymThltx90oHgyHAvK0giJCOSCsI5wImMU40hRsTTYFpDIwZ-X2K7IpG8njDXAvb-nN-Rz2S87OKCW2bM1h9v5coc5TUF-Yy-8Hh0LRuKte_XInxpfX4mYB2PUxWMmkyhAifFRobU5ep6SGWppUM3S4Dp_ES-NGd8YyNhZPU0WxZDUw3Sbx1rF_zZbMbHeCD7_wYOAYAmXq1swmp-n9nXApZbEV4wR3_c3WliBvgcTNtKCKVVkss203KODojtt697CNFqH2Iw5pcyX319bKuO1y5YmV4DR8zO0FCbKOp3OwPaC7S6Y6UuLndWrb5Pm-OBVAsEhg3RQYfocm6E2jremufQTsxETN3W7G3tKNNBNLB7MT6NW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 12-Jun-2028 08:29:40 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 14-Jun-2020 08:29:40 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D4101514075%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Fri, 15 Jun 2018 08:59:40 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Fri, 15-Jun-2018 08:59:40 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1529051980~id=5ef99c30e965900f35fd3fb7ed47bf69; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+[2018-06-15 21:34 Europe/Brussels] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1065
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&mc_gross=101.00&protection_eligibility=Eligible&address_status=confirmed&payer_id=QSLXVZ554TJBU&address_street=via+gasparoli+73%2Fd&payment_date=12%3A34%3A06+Jun+15%2C+2018+PDT&payment_status=Completed&charset=UTF-8&address_zip=21012&first_name=massimiliano&mc_fee=3.78&address_country_code=IT&address_name=massimiliano+lietti&notify_version=3.9&custom=27%2C1%2C1000000%2C27%2C2800000&payer_status=verified&business=billing%40warofgalaxyz.com&address_country=Italy&address_city=cassano+magnago&quantity=1&verify_sign=AyRKlYyPSPwQNTkLlToj9NywO1q3ATtYLL0wEUu856HVZk5ijL2bjQU9&payer_email=massimiliano13%40virgilio.it&txn_id=258307079U961420S&payment_type=instant&last_name=lietti&address_state=Varese&receiver_email=billing%40warofgalaxyz.com&payment_fee=&shipping_discount=0.00&insurance_amount=0.00&receiver_id=M3KRWA4CK4D4E&txn_type=web_accept&item_name=2800000+AM-User%28Fragolina%29.&discount=0.00&mc_currency=EUR&item_number=2800000&residence_country=IT&shipping_method=Default&transaction_subject=&payment_gross=&ipn_track_id=4714c11f5e30e
+[2018-06-15 21:34 Europe/Brussels] HTTP response of validation request: HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 54142b88ae889
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 85
+X-EdgeConnect-Origin-MEX-Latency: 523
+Date: Fri, 15 Jun 2018 19:34:17 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=BfNLFWGn-skXqUhPkYF2aYomofNvBEQ0s91R0DK_0IaVkZPdYP6d-9NhmSxFblrPLI_kSF0g7KatqcLwByWTOSbDVUPTpg8XosXSzsyaj6fcxVi9lpwtzQ8ViMqcJnGFYNj_DryMIT94sbqusZeWD0Kyk5wjPMoWXCLPniKqwQ8Ij-2Lm5NWpelWDPA463zN79cBq4AVtuDuXbbUiCGqvpyPF4Fm04s4_nUTkv4CiI0UR_NoMsqLDCccgAjfmYZ7Z-Kq_dgVcVucTq80q6KS-1PAzEdCCL33CbHLq7i-lm_N42KlILs1h7IMi1RazMMe9hxOhnwVzWKy1gL4ycQj0sVAm249v_iBD2DSnPDWiFS8gC78xs_V2Bn_AbXJPGGRw-IwXOFIeJFHCbt8Zc9ZxTZ1cPWbsfRuWnRjcaqqdHJlfnkjDqH0Rzj-ejm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 12-Jun-2028 19:34:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 14-Jun-2020 19:34:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3088327771%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 15 Jun 2018 20:04:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Fri, 15-Jun-2018 20:04:17 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1529091857~id=1c5060defa4a952f4d52fdc19269e28f; Domain=www.paypal.com; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED

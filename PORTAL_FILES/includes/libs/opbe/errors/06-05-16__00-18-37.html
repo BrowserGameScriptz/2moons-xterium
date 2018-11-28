@@ -1,0 +1,224 @@
+Friday 6th of May 2016 12:18:37 AM
+exception 'Exception' with message 'Negative prob' in /home/xterium/public_html/includes/libs/opbe/combatObject/ShipsCleaner.php:72
+Stack trace:
+#0 /home/xterium/public_html/includes/libs/opbe/models/ShipType.php(470): ShipsCleaner->start()
+#1 /home/xterium/public_html/includes/libs/opbe/models/Fleet.php(192): ShipType->cleanShips()
+#2 /home/xterium/public_html/includes/libs/opbe/models/Player.php(158): Fleet->cleanShips()
+#3 /home/xterium/public_html/includes/libs/opbe/models/PlayerGroup.php(117): Player->cleanShips()
+#4 /home/xterium/public_html/includes/libs/opbe/core/Round.php(116): PlayerGroup->cleanShips()
+#5 /home/xterium/public_html/includes/libs/opbe/core/Battle.php(80): Round->startRound()
+#6 [internal function]: Battle->startBattle()
+#7 /home/xterium/public_html/includes/libs/opbe/utils/DebugManager.php(60): call_user_func_array(Array, Array)
+#8 /home/xterium/public_html/includes/libs/opbe/implementations/2Moons/1_7_2_injectionMode/calculateAttack.php(147): DebugManager::{closure}()
+#9 /home/xterium/public_html/includes/classes/missions/MissionCaseAttack.class.php(332): calculateAttack(Array, Array, 33, 10)
+#10 /home/xterium/public_html/includes/classes/class.FlyingFleetHandler.php(93): MissionCaseAttack->TargetEvent()
+#11 /home/xterium/public_html/includes/FleetHandler.php(42): FlyingFleetHandler->run()
+#12 /home/xterium/public_html/includes/common.php(138): require('/home/xterium/p...')
+#13 /home/xterium/public_html/game.php(35): require('/home/xterium/p...')
+#14 {main}
+$_POST =
+$_GET =
+[log]attackers =         <table class="lined widthFull">
+    <caption> <br> 880% - 830% - 830%</caption>
+    <thead>
+        <tr>
+                            <th></th>
+                            <th></th>
+                    </tr>
+    </thead>
+    <tbody>
+        <tr>
+                
+                <td>20</td>                   
+                
+                <td>50</td>                   
+                    </tr>
+    </tbody>
+</table><br>
+[log]defenders =         <table class="lined widthFull">
+    <caption> <br> 250% - 200% - 240%</caption>
+    <thead>
+        <tr>
+                            <th></th>
+                            <th></th>
+                    </tr>
+    </thead>
+    <tbody>
+        <tr>
+                
+                <td>1</td>                   
+                
+                <td>1</td>                   
+                    </tr>
+    </tbody>
+</table><br>
+--- Round 1 ---<br><br>[log]calculating fire from attacker 217<br>
+[log]$tmpshots = 0<br>
+[log]$this->shots = 20<br>
+[log]calculating fire from attacker 227<br>
+[log]$tmpshots = 0<br>
+[log]$this->shots = 50<br>
+[log]calculating fire from attacker 401<br>
+[log]$tmpshots = 0<br>
+[log]$this->shots = 1<br>
+[log]calculating fire from attacker 402<br>
+[log]$tmpshots = 0<br>
+[log]$this->shots = 1<br>
+***** firing to defenders *****<br>---------** firing to player with ID = 11230 **---------- <br>------- firing to fleet with ID = 0 -------- <br>[log]---- firing from 217 to 401 ----<br>
+[log]Defender single hull = 248<br>
+[log]Defender count = 1<br>
+[log]currentShield before = 288<br>
+[log]currentLife before = 307.52<br>
+[log]damage = 96.075<br>
+[log]count = 10<br>
+[log]$ps->getAssorbedDamage() = 288<br>
+[log]currentShield after = 0<br>
+[log]currentLife after = 0<br>
+[log]lastShipHit after = 1<br>
+[log]lastShots after = 10<br>
+[log]$xs = result=10;rest=0;<br>
+[log]---- firing from 217 to 402 ----<br>
+[log]Defender single hull = 248<br>
+[log]Defender count = 1<br>
+[log]currentShield before = 360<br>
+[log]currentLife before = 307.52<br>
+[log]damage = 96.075<br>
+[log]count = 10<br>
+[log]$ps->getAssorbedDamage() = 360<br>
+[log]currentShield after = 0<br>
+[log]currentLife after = 0<br>
+[log]lastShipHit after = 1<br>
+[log]lastShots after = 10<br>
+[log]$xs = result=10;rest=0;<br>
+array (
+  401 => 0,
+  402 => 0,
+)[log]$tmp = <br>
+[log]---- firing from 227 to 401 ----<br>
+[log]Defender single hull = 248<br>
+[log]Defender count = 1<br>
+[log]currentShield before = 0<br>
+[log]currentLife before = 0<br>
+[log]damage = 903105<br>
+[log]count = 25<br>
+[log]$ps->getAssorbedDamage() = 0<br>
+[log]currentShield after = 0<br>
+[log]currentLife after = 0<br>
+[log]lastShipHit after = 2<br>
+[log]lastShots after = 35<br>
+[log]$xs = result=25;rest=0;<br>
+[log]---- firing from 227 to 402 ----<br>
+[log]Defender single hull = 248<br>
+[log]Defender count = 1<br>
+[log]currentShield before = 0<br>
+[log]currentLife before = 0<br>
+[log]damage = 903105<br>
+[log]count = 25<br>
+[log]$ps->getAssorbedDamage() = 0<br>
+[log]currentShield after = 0<br>
+[log]currentLife after = 0<br>
+[log]lastShipHit after = 2<br>
+[log]lastShots after = 35<br>
+[log]$xs = result=25;rest=0;<br>
+array (
+  401 => 0,
+  402 => 0,
+)[log]$tmp = <br>
+***** firing to attackers *****<br>---------** firing to player with ID = 11324 **---------- <br>------- firing to fleet with ID = 2285781 -------- <br>[log]---- firing from 401 to 217 ----<br>
+[log]$xs = result=0;rest=0.285714285714;<br>
+[log]---- firing from 401 to 227 ----<br>
+[log]$xs = result=0;rest=0.714285714286;<br>
+array (
+  217 => 0.28571428571428569842538536249776370823383331298828125,
+  227 => 0.71428571428571430157461463750223629176616668701171875,
+)[log]$tmp = <br>
+[log]adding 1 shot<br>
+[log]Defender single hull = 7320000<br>
+[log]Defender count = 50<br>
+[log]currentShield before = 47721825<br>
+[log]currentLife before = 669780000<br>
+[log]damage = 100.192<br>
+[log]count = 1<br>
+[log]$ps->getAssorbedDamage() = 100.192<br>
+[log]currentShield after = 47721724.808<br>
+[log]currentLife after = 669780000<br>
+[log]lastShipHit after = 1<br>
+[log]lastShots after = 1<br>
+[log]---- firing from 402 to 217 ----<br>
+[log]$xs = result=0;rest=0.285714285714;<br>
+[log]---- firing from 402 to 227 ----<br>
+[log]$xs = result=0;rest=0.714285714286;<br>
+array (
+  217 => 0.28571428571428569842538536249776370823383331298828125,
+  227 => 0.71428571428571430157461463750223629176616668701171875,
+)[log]$tmp = <br>
+[log]adding 1 shot<br>
+[log]Defender single hull = 7320000<br>
+[log]Defender count = 50<br>
+[log]currentShield before = 47721724.808<br>
+[log]currentLife before = 669780000<br>
+[log]damage = 125.24<br>
+[log]count = 1<br>
+[log]$ps->getAssorbedDamage() = 125.24<br>
+[log]currentShield after = 47721599.568<br>
+[log]currentLife after = 669780000<br>
+[log]lastShipHit after = 2<br>
+[log]lastShots after = 2<br>
+---------** cleanShips to player with ID = 11230 **---------- <br>------- cleanShips to fleet with ID = 0 -------- <br>[log]---- exploding 401 ----<br>
+[log]lastShipHit after = 2<br>
+[log]lastShots after = 35<br>
+[log]currentLife before = 0<br>
+[log]lastShipHit bigger than getCount()/magic<br>
+[log]prob = 1<br>
+[log]probToExplode = 1<br>
+[log]teoricExploded = 1<br>
+[log]exploded = 1<br>
+[log]remainLife = 0<br>
+[log]currentLife after = -248<br>
+[log]---- exploding 402 ----<br>
+[log]lastShipHit after = 2<br>
+[log]lastShots after = 35<br>
+[log]currentLife before = 0<br>
+[log]lastShipHit bigger than getCount()/magic<br>
+[log]prob = 1<br>
+[log]probToExplode = 1<br>
+[log]teoricExploded = 1<br>
+[log]exploded = 1<br>
+[log]remainLife = 0<br>
+[log]currentLife after = -248<br>
+---------** cleanShips to player with ID = 11324 **---------- <br>------- cleanShips to fleet with ID = 2285781 -------- <br>[log]---- exploding 217 ----<br>
+[log]lastShipHit after = 0<br>
+[log]lastShots after = 0<br>
+[log]currentLife before = 368379<br>
+array (
+  'galaxy' => '1',
+  'system' => '176',
+  'planet' => '16',
+  'type' => '3',
+  'target_mission' => '0',
+  'ship204' => '0',
+  'ship205' => '0',
+  'ship229' => '0',
+  'ship206' => '0',
+  'ship207' => '0',
+  'ship215' => '0',
+  'ship213' => '0',
+  'ship211' => '0',
+  'ship224' => '0',
+  'ship225' => '0',
+  'ship226' => '0',
+  'ship214' => '0',
+  'ship216' => '0',
+  'ship230' => '0',
+  'ship228' => '0',
+  'ship218' => '0',
+  'ship221' => '0',
+  'ship203' => '0',
+  'ship217' => '6313112',
+  'ship219' => '0',
+  'ship210' => '0',
+  'ship220' => '0',
+  'save_groop' => '',
+)array (
+  'page' => 'fleetStep1',
+)

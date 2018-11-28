@@ -1,0 +1,105 @@
+﻿<div class="body">
+                
+                    <p><b>Queste regole sono fondamentali se vuoi giocare ad&nbsp;</b><b>Xterium</b><b>&nbsp;</b></p>
+<p align="justify"><b><br> </b>In caso di violazione del regolamento, possono essere predisposte penalità in game. Se non comprendi una regola specifica o sei stato bannato,puoi contattarci via mail al supporto qui : <a href="mailto:support@xterium.space">support@xterium.space</a>.</p>
+<p>Tutte le guestioni riguardanti la gestione account possono essere risolte solo dai proprietari originari dell'account.</p>
+<p>&nbsp;</p>
+<h4>1. <b>Gestione account.</b></h4>
+<p align="justify">Ogni giocatore può controllare massimo un account.</p>
+<p align="justify">&nbsp;</p>
+<ol>
+<li>Non puoi trasferire / vendere il tuo account in maniera permanente.</li>
+<li>Il tuo account può essere gestito da altri in maniera momentanea (sitting) per massimo 48 ore continuate (per estendere l'arco di tempo contattare gli amministratori).</li>
+<li>Durante il periodo di sitting, il giocatore che prende possesso dell'account deve rispettare le seguenti regole:<ol>
+<li>Non può costruire costruzioni o sviluppare ricerche</li>
+<li>Non puà eseguire un fleetsave nei confronti di una flotta in arrivo, ma utilizzare solo le missioni "staziona" e "trasporta risorse" su uno dei pianeti del giocatore sittato</li>
+<li>Mettere in modalità vacanza l'account</li>
+</ol></li>
+<li>Puoi sittare un account alla volta. Quanto sitti un account puoi entrare massimo 3 volte nell'arco di 24 ore</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4>2. Multi-accounts.</h4>
+<p align="justify">&nbsp;</p>
+<ol>
+<li>Puoi avere massimo UN ACCOUNT per universo. Se possiedi più account verranno bannati tutti senza preavviso. Il giocatore che possiede più account in altrettanti universi non viola nessuna regola.</li>
+<li>Proibito sostenere battaglie tra giocatori che hanno condiviso l'indirizzo IP negli ultimi 14 giorni.</li>
+<li>I giocatori che giocano dallo stesso computer devono avvisare gli amministratori con un Ticket. Agli account in questione non segnalati verranno bannati senza alcun preavviso. Giocare dallo stesso computer non ti da il diritto di:<ol>
+<li>partecipare ad attacchi coordinati contro un altro giocatore;</li>
+<li>aiutare a fornire l'altro risorse;</li>
+<li>essere collegati nello stesso momento al gioco;</li>
+<li>inviare qualsiasi missione insieme.</li>
+</ol> </li>
+<li>I multi account sono considerati come tali quando i due account hanno avuto un indiretta interazione con un altro account (con lo stesso indirizzo IP) dove si ha l'accesso. Le iterazioni sono: attacchi per rubare risorse; trasporto di detriti; manipolazione di risorse - ciò inviare in forme diverse quest'ultime all'account principale.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4>3.&nbsp;Pushing.</h4>
+<p align="justify">Il pushing si verifica quando un giocatore manda risorse ad un altro giocatore con rank più alto senza ricevere il giusto corrispettivo, ovvero quando in uno scambio non si rispettano i tassi standard a vantaggio del giocatore con il rank più alto. Le seguenti attività vengono considerate pushing:</p>
+<ol>
+<li> Inviare risorse senza ricevere nulla in cambio, o comunque un giusto corrispettivo con l'eccezione della banza dell'alleanza;</li>
+<li>Attaccare con una flotta inferiore in modo da creare un campo di detriti dal quale i giocatori più forti potranno trarre beneficio.</li>
+<li>Inviare un attacco suicida con l’intento di far riciclare interamente la propria flotta dal giocatore più forte.</li>
+<li>Portare risorse su un pianeta, attivo o inattivo, per un recupero successivo da parte di terzi tramite attacchi singoli o multipli;</li>
+<li>Attacchi premeditati per ottenere ricompense gionaliere e per scalare la classifica</li>
+<li>Qualsiasi trasferimento di risorse tra giocatori con l'eccezione della banca dell'alleanza!</li>
+</ol>
+<p>&nbsp;</p>
+<h4>4. Bashing.</h4>
+<p>Il limite di attacchi a <b>6 per pianeta o luna nell'arco delle 24 ore</b>, questo è da intendersi sempre come totale di attacchi con navi.</p>
+<p>La regola del Bashing non è condierata in caso di guerra di alleanze.</p>
+<p>La guerra deve essere annunciata sul forum e i leaver devono accettarla.</p>
+<p>La regola del bashing viene applicata per i giocatori attivi e spionaggi sono esclusi.</p>
+<p>&nbsp;</p>
+<h4>5. Il tempo di volo delle flotte.</h4>
+<p>E' proibito inviare le flotte (con qualsiasi missione) sul pianeta di un altro giocatore con un tempo di volo superiore alle 5 ore senza il consenso di quest'ultimo.</p>
+<p>Per esempio: attaccare con 1 nave se si è consapevoli di perdere nave non è consentito</p>
+<p>&nbsp;</p>
+<h4>5.1 Obiettivo attacchi.</h4>
+<p>Severamente vietato inviare la flotta con lo scopo di annoiare l'avversario. è necessario che l'attacco abbia come obiettivo quello di distruggere la flotta nemica o prendere le risorse.</p>
+<p>* E' considerata una violazione quando la flotta viaggia più di 5 ore. Non è considerata violazione se la flotta è stata richiamata prima della scadenza delle 5 ore</p>
+<p>&nbsp;</p>
+<h4>6. Bug Using non dichiatato.</h4>
+<p align="justify">Usare un qualsiasi tipo di bug e/o errore del server per trarne profitto viene definito altamente scorretto, per tanto si rischia un blocco permanente del vostro account.</p>
+<p align="justify">&nbsp;</p>
+<ol>
+<li>E' vietato l'uso non dichiarato di qualsiasi bug del gioco.</li>
+<li>E' vietato sfruttare errori di programmazione per trarne vantaggi personali.</li>
+<li>E' vietato sfruttare errori di programmazione per svantaggiare eventuali avversari.</li>
+<li>E' vietato comunicare agli altri player eventuali errori di gioco via (chat, forum, messaggi privati)</li>
+</ol>
+<p><i>Nota: Se trovi un errore in gioco riportacelo immediatamente e riceverai un bonus.</i></p>
+<p>&nbsp;</p>
+<h4>7. Script Using.</h4>
+<ol>
+<li>L'utilizzo di script esterni al gioco non dichiarati provoca il ban immediato e senza preavviso. Se vuoi sapere se il tuo script/tool è autorizzato non esistare a scriverci un ticket</li>
+<li>L'utilizzo di bot è severamente vietato in ogni caso. Se si viene scoperti seguirà il ban immediato e senza preavviso</li>
+</ol>
+<p>&nbsp;</p>
+<h4>8. Hacking.</h4>
+<p align="justify">E' severamente vietato distribuire le vostre credenziali di gioco verso terzi. In caso di furto di account per questi motivi lo staff non se ne assume alcuna responsabilità</p>
+<p>&nbsp;</p>
+<h4>9. Commercio di account.</h4>
+<p>E' proibito trasferire la proprietà del proprio account sia dietro un compenso sia gratis.</p>
+<p>&nbsp;</p>
+<h4>10. Risorse di gioco.</h4>
+<p align="justify">E' severamente proibito vendere risorse di gioco dietro compenso di soldi reali. E' inoltre severamente vietato qualsiasi tentativo di frode</p>
+<p>&nbsp;</p>
+<h4>11. Comunicazione</h4>
+<p>Quando comunichi sia via messaggi privati sia attraverso la chat, è proibito:</p>
+<ol>
+<li>flood, offtopic, caps, trolling, e disturbo alle discussioni;</li>
+<li>riferimenti alla politica (partiti, schieramenti, uomini politici)</li>
+<li>riferimenti sessuali e/o pornografici di qualsiasi genere</li>
+<li>riferimenti al razzismo</li>
+<li>riferimenti violenti</li>
+<li>insulti e turpiloquio in generale</li>
+<li>pubblicità a siti concorrenti a Xterium o forum esterni.</li>
+</ol>
+<p>&nbsp;</p>
+<h4>12. Altre condizioni.</h4>
+<p align="justify"><b>TUTTI I PUNTI DI CUI SOPRA SONO COMUNQUE SOGGETTI, CASO PER CASO, ALL'INSINDACABILE GIUDIZIO DEGLI AMMINISTRATORI.</b></p>                    
+               	
+             </div>  
+            <div class="clear"></div>
+		</div><!--/block_light-->

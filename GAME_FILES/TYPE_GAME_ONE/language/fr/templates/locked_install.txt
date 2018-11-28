@@ -1,0 +1,6 @@
+<h2>L'installateur est bloqué!</h2>
+<p>Pour activer l'assistant de configuration du jeu, le fichier «ENABLE_INSTALL_TOOL» doit être créé.</p>
+<ul>
+    <li>Dans le dossier includes/ créer un fichier appelé «ENABLE_INSTALL_TOOL». Le nom du fichier doit être en majuscules. Le fichier lui-même ne devrait pas avoir d'extension, et peut être vide.</li>
+</ul>
+<p>Pour des raisons de sécurité, il est fortement recommandé que vous renommez le fichier ou le supprimer lorsque l'installation est terminée. Pour la fiabilité, vous pouvez supprimer l'intégralité du dossier «install».</p>

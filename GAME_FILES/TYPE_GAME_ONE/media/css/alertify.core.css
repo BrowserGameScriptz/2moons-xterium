@@ -1,0 +1,31 @@
+.alertify,
+.alertify-show,
+.alertify-log{-webkit-transition:all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);-moz-transition:all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);-ms-transition:all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);-o-transition:all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);transition:all 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);}
+.alertify-hide{-webkit-transition:all 250ms cubic-bezier(0.600, -0.280, 0.735, 0.045);-moz-transition:all 250ms cubic-bezier(0.600, -0.280, 0.735, 0.045);-ms-transition:all 250ms cubic-bezier(0.600, -0.280, 0.735, 0.045);-o-transition:all 250ms cubic-bezier(0.600, -0.280, 0.735, 0.045);transition:all 250ms cubic-bezier(0.600, -0.280, 0.735, 0.045);}
+.alertify-log-hide{-webkit-transition:all 500ms cubic-bezier(0.600, -0.280, 0.735, 0.045);-moz-transition:all 500ms cubic-bezier(0.600, -0.280, 0.735, 0.045);-ms-transition:all 500ms cubic-bezier(0.600, -0.280, 0.735, 0.045);-o-transition:all 500ms cubic-bezier(0.600, -0.280, 0.735, 0.045);transition:all 500ms cubic-bezier(0.600, -0.280, 0.735, 0.045);}
+.alertify-cover{position:fixed;z-index:99999;top:0;right:0;bottom:0;left:0;background-color:white;filter:alpha(opacity=0);opacity:0;}
+.alertify-cover-hidden{display:none;}
+.alertify{position:fixed;z-index:99999;top:50px;left:50%;width:550px;margin-left:-275px;opacity:1;}
+.alertify-hidden{-webkit-transform:translate(0,-150px);-moz-transform:translate(0,-150px);-ms-transform:translate(0,-150px);-o-transform:translate(0,-150px);transform:translate(0,-150px);opacity:0;display:none;}
+:root *> .alertify-hidden{display:block;visibility:hidden;}
+.alertify-logs{position:fixed;z-index:5000;bottom:10px;right:10px;width:320px;}
+.alertify-logs-hidden{display:none;}
+.alertify-log{display:block;margin-top:10px;position:relative;right:-320px;opacity:0;}
+.alertify-log-show{right:0;opacity:1;}
+.alertify-log-hide{-webkit-transform:translate(300px, 0);-moz-transform:translate(300px, 0);-ms-transform:translate(300px, 0);-o-transform:translate(300px, 0);transform:translate(300px, 0);opacity:0;}
+.alertify-dialog{padding:25px;}
+.alertify-resetFocus{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;}
+.alertify-inner{text-align:center;}
+.alertify-text{margin-bottom:15px;width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-size:100%;}
+.alertify-buttons{}
+.alertify-button,
+.alertify-button:hover,
+.alertify-button:active,
+.alertify-button:visited{background:none;text-decoration:none;border:none;line-height:1.5;font-size:100%;display:inline-block;cursor:pointer;margin-left:5px;}
+.alertify-isHidden{display:none;}
+@media only screen and (max-width:680px){.alertify,
+.alertify-logs{width:90%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+.alertify{left:5%;margin:0;}
+}
+
+body .alertify-log{font-family:Abeezee, Antaris, Calibri, CalibriOther, sans-serif;font-size:12px;background:#1f1f1f;background:rgba(0,0,0,0.9);padding:10px 15px;border-radius:4px;border:1px solid black;color:#fff;text-shadow:-1px -1px 0 rgba(0,0,0,0.5);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;}body .alertify-log div[name="image"]{display:inline-block;width:50px;height:37px;margin:0px;text-align:left;}body .alertify-log div[name="image"] img{display:block;height:35px;width:35px;border:1px solid black;margin:0px auto auto 0px;}body .alertify-log div[name="texte"]{display:inline-block;vertical-align:top;margin:0px;min-height:37px;width:235px;}body .alertify-log-error,body .alertify-log-flotte_ennemie,body .alertify-log-attaque_subie{background:#6c0000;background:-moz-linear-gradient(rgba(110,0,0,0.8),#3c0000);background:linear-gradient(rgba(110,0,0,0.8),#3c0000);}body .alertify-log-espionnage_ennemie{background:#201532;background:-moz-linear-gradient(rgba(49,23,92,0.8),#1a1128);background:linear-gradient(rgba(49,23,92,0.8),#1a1128);}body .alertify-log-success,body .alertify-log-connexion{background:#5cb811;background:-moz-linear-gradient(rgba(44,85,0,0.8),#182d00);background:linear-gradient(rgba(44,85,0,0.8),#182d00);}body .alertify-log-message_prive,body .alertify-log-message_alliance,body .alertify-log-chuchotement,body .alertify-log-information,body .alertify-log-annonce,body .alertify-log-champ_force{background:#141a26;background:-moz-linear-gradient(rgba(29,41,65,0.8),#141a26);background:linear-gradient(rgba(29,41,65,0.8),#141a26);}

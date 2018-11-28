@@ -1,0 +1,8 @@
+Bonjour, {USERNAME}!
+
+La dernière fois que vous êtes allé sur votre compte {GAMENAME} et le {LASTDATE}. Si vous souhaitez rester un membre de la communauté, s'il vous plaît aller à la bataille sous votre connexion et mot de passe afin d'exclure la possibilité de supprimer votre compte.
+
+Si vous avez oublié votre mot de passe, allez à l'adresse {HTTPPATH} et cliquez sur "Mot de passe oublié?". Après avoir entré les données, en quelques minutes, vous recevrez un email avec un nouveau mot de passe de votre compte.
+
+Sincèrement,
+L'administration {GAMENAME}.

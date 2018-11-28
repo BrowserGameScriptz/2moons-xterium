@@ -1,0 +1,17 @@
+Benvenuto  {USERNAME},
+
+La tua iscrizione all'universo di  {GAMENAME} è stata presa in considerazione.
+
+Per verificare il tuo account</b>, ti basterà cliccare semplicemente su questo link :
+
+{VERTIFYURL}
+
+Qui troverai le informazioni sul tuo account :
+
+Username : {USERNAME}
+Password :{PASSWORD}
+
+Se vuoi eliminare tutti i tuoi dati personali contattaci qui : {GAMEMAIL}
+
+Cordiali saluti,
+{GAMENAME} Team

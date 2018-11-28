@@ -1,0 +1,131 @@
+Friday 6th of May 2016 12:19:01 AM
+exception 'Exception' with message 'Negative prob' in /home/xterium/public_html/includes/libs/opbe/combatObject/ShipsCleaner.php:72
+Stack trace:
+#0 /home/xterium/public_html/includes/libs/opbe/models/ShipType.php(470): ShipsCleaner->start()
+#1 /home/xterium/public_html/includes/libs/opbe/models/Fleet.php(192): ShipType->cleanShips()
+#2 /home/xterium/public_html/includes/libs/opbe/models/Player.php(158): Fleet->cleanShips()
+#3 /home/xterium/public_html/includes/libs/opbe/models/PlayerGroup.php(117): Player->cleanShips()
+#4 /home/xterium/public_html/includes/libs/opbe/core/Round.php(116): PlayerGroup->cleanShips()
+#5 /home/xterium/public_html/includes/libs/opbe/core/Battle.php(80): Round->startRound()
+#6 [internal function]: Battle->startBattle()
+#7 /home/xterium/public_html/includes/libs/opbe/utils/DebugManager.php(60): call_user_func_array(Array, Array)
+#8 /home/xterium/public_html/includes/libs/opbe/implementations/2Moons/1_7_2_injectionMode/calculateAttack.php(147): DebugManager::{closure}()
+#9 /home/xterium/public_html/includes/classes/missions/MissionCaseAttack.class.php(332): calculateAttack(Array, Array, 36, 10)
+#10 /home/xterium/public_html/includes/classes/class.FlyingFleetHandler.php(93): MissionCaseAttack->TargetEvent()
+#11 /home/xterium/public_html/includes/FleetHandler.php(42): FlyingFleetHandler->run()
+#12 /home/xterium/public_html/includes/common.php(138): require('/home/xterium/p...')
+#13 /home/xterium/public_html/game.php(35): require('/home/xterium/p...')
+#14 {main}
+$_POST =
+$_GET =
+[log]attackers =         <table class="lined widthFull">
+    <caption> <br> 880% - 830% - 830%</caption>
+    <thead>
+        <tr>
+                            <th></th>
+                            <th></th>
+                    </tr>
+    </thead>
+    <tbody>
+        <tr>
+                
+                <td>30</td>                   
+                
+                <td>250</td>                   
+                    </tr>
+    </tbody>
+</table><br>
+[log]defenders =         <table class="lined widthFull">
+    <caption> <br> 500% - 460% - 480%</caption>
+    <thead>
+        <tr>
+                            <th></th>
+                    </tr>
+    </thead>
+    <tbody>
+        <tr>
+                
+                <td>1</td>                   
+                    </tr>
+    </tbody>
+</table><br>
+--- Round 1 ---<br><br>[log]calculating fire from attacker 217<br>
+[log]$tmpshots = 0<br>
+[log]$this->shots = 30<br>
+[log]calculating fire from attacker 227<br>
+[log]$tmpshots = 0<br>
+[log]$this->shots = 250<br>
+[log]calculating fire from attacker 416<br>
+[log]$tmpshots = 0<br>
+[log]$this->shots = 1<br>
+***** firing to defenders *****<br>---------** firing to player with ID = 11838 **---------- <br>------- firing to fleet with ID = 0 -------- <br>[log]---- firing from 217 to 416 ----<br>
+[log]Defender single hull = 51800<br>
+[log]Defender count = 1<br>
+[log]currentShield before = 14921.2<br>
+[log]currentLife before = 76664<br>
+[log]damage = 96.075<br>
+[log]count = 30<br>
+[log]$ps->getAssorbedDamage() = 2882.25<br>
+[log]currentShield after = 12038.95<br>
+[log]currentLife after = 76664<br>
+[log]lastShipHit after = 1<br>
+[log]lastShots after = 30<br>
+[log]$xs = result=30;rest=0;<br>
+array (
+  416 => 0,
+)[log]$tmp = <br>
+[log]---- firing from 227 to 416 ----<br>
+[log]Defender single hull = 51800<br>
+[log]Defender count = 1<br>
+[log]currentShield before = 12038.95<br>
+[log]currentLife before = 76664<br>
+[log]damage = 903105<br>
+[log]count = 250<br>
+[log]$ps->getAssorbedDamage() = 12038.95<br>
+[log]currentShield after = 0<br>
+[log]currentLife after = 0<br>
+[log]lastShipHit after = 2<br>
+[log]lastShots after = 280<br>
+[log]$xs = result=250;rest=0;<br>
+array (
+  416 => 0,
+)[log]$tmp = <br>
+***** firing to attackers *****<br>---------** firing to player with ID = 11324 **---------- <br>------- firing to fleet with ID = 2285779 -------- <br>[log]---- firing from 416 to 217 ----<br>
+[log]$xs = result=0;rest=0.107142857143;<br>
+[log]---- firing from 416 to 227 ----<br>
+[log]$xs = result=0;rest=0.892857142857;<br>
+array (
+  217 => 0.10714285714285713690951951093666139058768749237060546875,
+  227 => 0.892857142857142793701541449991054832935333251953125,
+)[log]$tmp = <br>
+[log]adding 1 shot<br>
+[log]Defender single hull = 7320000<br>
+[log]Defender count = 250<br>
+[log]currentShield before = 238609125<br>
+[log]currentLife before = 3348900000<br>
+[log]damage = 13586.4<br>
+[log]count = 1<br>
+[log]$ps->getAssorbedDamage() = 13586.4<br>
+[log]currentShield after = 238595538.6<br>
+[log]currentLife after = 3348900000<br>
+[log]lastShipHit after = 1<br>
+[log]lastShots after = 1<br>
+---------** cleanShips to player with ID = 11838 **---------- <br>------- cleanShips to fleet with ID = 0 -------- <br>[log]---- exploding 416 ----<br>
+[log]lastShipHit after = 2<br>
+[log]lastShots after = 280<br>
+[log]currentLife before = 0<br>
+[log]lastShipHit bigger than getCount()/magic<br>
+[log]prob = 1<br>
+[log]probToExplode = 1<br>
+[log]teoricExploded = 1<br>
+[log]exploded = 1<br>
+[log]remainLife = 0<br>
+[log]currentLife after = -51800<br>
+---------** cleanShips to player with ID = 11324 **---------- <br>------- cleanShips to fleet with ID = 2285779 -------- <br>[log]---- exploding 217 ----<br>
+[log]lastShipHit after = 0<br>
+[log]lastShots after = 0<br>
+[log]currentLife before = 552568.5<br>
+array (
+)array (
+  'page' => 'fleetTable',
+)

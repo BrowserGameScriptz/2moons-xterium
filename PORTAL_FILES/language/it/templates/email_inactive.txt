@@ -1,0 +1,8 @@
+Ciao {USERNAME},
+
+Ci risulta che non entri da {LASTDATE} in {GAMENAME}. Torna ad amministrare il tuo impero o il tuo account verrà eliminato!
+
+Se hai dimenticato la passoword vai su {HTTPPATH} e clicca su  "Password dimenticata". In questo modo riceverai un altra passoword
+
+Saluti,
+{GAMENAME} Team

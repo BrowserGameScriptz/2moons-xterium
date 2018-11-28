@@ -1,0 +1,203 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "926c7f483d89660a81382956e43fdec3",
+    "packages": [
+        {
+            "name": "mashape/unirest-php",
+            "version": "v3.0.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Mashape/unirest-php.git",
+                "reference": "842c0f242dfaaf85f16b72e217bf7f7c19ab12cb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Mashape/unirest-php/zipball/842c0f242dfaaf85f16b72e217bf7f7c19ab12cb",
+                "reference": "842c0f242dfaaf85f16b72e217bf7f7c19ab12cb",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "codeclimate/php-test-reporter": "0.1.*",
+                "phpunit/phpunit": "~4.4"
+            },
+            "suggest": {
+                "ext-json": "Allows using JSON Bodies for sending and parsing requests"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Unirest\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Unirest PHP",
+            "homepage": "https://github.com/Mashape/unirest-php",
+            "keywords": [
+                "client",
+                "curl",
+                "http",
+                "https",
+                "rest"
+            ],
+            "time": "2016-08-11T17:49:21+00:00"
+        },
+        {
+            "name": "sebastianwalker/paysafecard-php-api",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/hiwye/paysafecard-php-api.git",
+                "reference": "a0240f214d3c3b8027a6143261f093991be311ce"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hiwye/paysafecard-php-api/zipball/a0240f214d3c3b8027a6143261f093991be311ce",
+                "reference": "a0240f214d3c3b8027a6143261f093991be311ce",
+                "shasum": ""
+            },
+            "require": {
+                "mashape/unirest-php": "^3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "SebastianWalker\\Paysafecard": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "A PHP wrapper for the Paysafecard Payments REST API",
+            "time": "2017-08-05T14:03:08+00:00"
+        },
+        {
+            "name": "statickidz/php-google-translate-free",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/statickidz/php-google-translate-free.git",
+                "reference": "de913247bdcd0942593ffd2cd48e809549c0abd8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/statickidz/php-google-translate-free/zipball/de913247bdcd0942593ffd2cd48e809549c0abd8",
+                "reference": "de913247bdcd0942593ffd2cd48e809549c0abd8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4"
+            },
+            "require-dev": {
+                "phpdocumentor/phpdocumentor": "2.*",
+                "phpunit/phpunit": ">=4.8",
+                "squizlabs/php_codesniffer": "^2.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Statickidz\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Paris Niarfe Baltazar Salguero",
+                    "email": "sieg.sb@gmail.com",
+                    "homepage": "http://www.pbaltazar.com",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Adrián Barrio Andrés",
+                    "email": "statickidz@gmail.com",
+                    "homepage": "https://statickidz.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Google Translate Free library for PHP",
+            "homepage": "https://github.com/statickidz/php-google-translate-free/",
+            "keywords": [
+                "api",
+                "free",
+                "google",
+                "siegsb",
+                "statickidz",
+                "translate",
+                "translator"
+            ],
+            "time": "2017-02-07T08:52:25+00:00"
+        }
+    ],
+    "packages-dev": [
+        {
+            "name": "raveren/kint",
+            "version": "1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kint-php/kint.git",
+                "reference": "a8549198558560b24e2879c6bac2875de5371483"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/kint-php/kint/zipball/a8549198558560b24e2879c6bac2875de5371483",
+                "reference": "a8549198558560b24e2879c6bac2875de5371483",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.1.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "Kint.class.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Rokas Šleinius",
+                    "homepage": "https://github.com/kint-php"
+                },
+                {
+                    "name": "Contributors",
+                    "homepage": "https://github.com/kint-php/kint/contributors"
+                }
+            ],
+            "description": "Kint - debugging helper for PHP developers",
+            "homepage": "https://github.com/kint-php/kint",
+            "keywords": [
+                "debug",
+                "kint",
+                "php"
+            ],
+            "abandoned": "kint-php/kint",
+            "time": "2017-01-15T14:23:43+00:00"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

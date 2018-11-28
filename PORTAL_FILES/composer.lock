@@ -1,0 +1,144 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "67ccdb76d8ec22d94f13a8a13798fb39",
+    "packages": [
+        {
+            "name": "mashape/unirest-php",
+            "version": "v3.0.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Mashape/unirest-php.git",
+                "reference": "842c0f242dfaaf85f16b72e217bf7f7c19ab12cb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Mashape/unirest-php/zipball/842c0f242dfaaf85f16b72e217bf7f7c19ab12cb",
+                "reference": "842c0f242dfaaf85f16b72e217bf7f7c19ab12cb",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "codeclimate/php-test-reporter": "0.1.*",
+                "phpunit/phpunit": "~4.4"
+            },
+            "suggest": {
+                "ext-json": "Allows using JSON Bodies for sending and parsing requests"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Unirest\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Unirest PHP",
+            "homepage": "https://github.com/Mashape/unirest-php",
+            "keywords": [
+                "client",
+                "curl",
+                "http",
+                "https",
+                "rest"
+            ],
+            "time": "2016-08-11T17:49:21+00:00"
+        },
+        {
+            "name": "sebastianwalker/paysafecard-php-api",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/hiwye/paysafecard-php-api.git",
+                "reference": "a0240f214d3c3b8027a6143261f093991be311ce"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hiwye/paysafecard-php-api/zipball/a0240f214d3c3b8027a6143261f093991be311ce",
+                "reference": "a0240f214d3c3b8027a6143261f093991be311ce",
+                "shasum": ""
+            },
+            "require": {
+                "mashape/unirest-php": "^3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "SebastianWalker\\Paysafecard": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "A PHP wrapper for the Paysafecard Payments REST API",
+            "time": "2017-08-05T14:03:08+00:00"
+        }
+    ],
+    "packages-dev": [
+        {
+            "name": "raveren/kint",
+            "version": "1.0.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/raveren/kint.git",
+                "reference": "c8423b9928bd35bf6ad14c688ab9c6d17d97d0eb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/raveren/kint/zipball/c8423b9928bd35bf6ad14c688ab9c6d17d97d0eb",
+                "reference": "c8423b9928bd35bf6ad14c688ab9c6d17d97d0eb",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.1.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "Kint.class.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Rokas Šleinius",
+                    "homepage": "https://github.com/raveren"
+                },
+                {
+                    "name": "Contributors",
+                    "homepage": "https://github.com/raveren/kint/contributors"
+                }
+            ],
+            "description": "Kint - debugging helper for PHP developers",
+            "homepage": "https://github.com/raveren/kint",
+            "keywords": [
+                "debug",
+                "kint",
+                "php"
+            ],
+            "abandoned": "kint-php/kint",
+            "time": "2015-09-16T14:09:00+00:00"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

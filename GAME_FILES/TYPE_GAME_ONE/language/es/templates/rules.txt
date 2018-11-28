@@ -1,0 +1,102 @@
+﻿<div class="body">
+                
+                    <p><b>Las siguientes reglas serán obligatorias para el proyecto&nbsp;</b><b>Xterium</b><b>&nbsp;</b></p>
+<p align="justify"><b><br> </b>En caso de violación de las normas y / o el Acuerdo de Usuario, la pena de juego correspondiente. Si usted no entiende alguna de las disposiciones de las normas o de su cuenta bloqueada, para aclarar el apoyo de contactos por correo: <a href="mailto:support@xterium.space">support@xterium.space</a>.</p>
+<p>Todas las preguntas sobre la cuenta de usuario sólo se pueden resolver con sus dueños.</p>
+<p>&nbsp;</p>
+<h4>1. <b>cuenta de la Propiedad.</b></h4>
+<p align="justify">El dueño de la titular de la cuenta es una dirección de correo electrónico permanente durante el registro. Cada jugador puede controlar una sola cuenta.</p>
+<p align="justify">&nbsp;</p>
+<ol>
+<li>Usted no puede transferir / cuenta de la venta para el control permanente.</li>
+<li>Una cuenta sólo puede ser sentado por un período máximo de 48 horas contiguas (permiso de administrador debe ser obtenido en los casos en que se necesita una extensión de tiempo).</li>
+<li>El cuidador puede, en la cuenta que se sentó y mientras dure el período de que se sienta:     	<ol>
+<li>Gastar recursos en edificios o investigaciones</li>
+<li>Fleetsave cualquier barco que inminentemente amenazada por una flota de ataque entrante, sólo que con una misión de despliegue o transporte a una de las cuentas propias planetas</li>
+<li>Colocar una cuenta en modo de vacaciones.</li>
+</ol></li>
+<li>Sólo se puede mirar en una sola cuenta. Cuando el cuidado de la cuenta del jugador se puede visitar la Cuenta sólo 3 veces en 24 horas.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4>2. Multi-cuentas.</h4>
+<p align="justify">&nbsp;</p>
+<ol>
+<li>Uno no puede ser de usuarios registrados en más de una cuenta en un universo y será castigado por el bloqueo de todas las cuentas. La pena se aplica a todos los jugadores, independientemente de su desarrollo de juegos. El jugador con más de una cuenta, pero en diferentes universos, no se considera una violación de esta regla.</li>
+<li>Prohibido batallas de conducta entre las cuentas que requieren con una sola dirección IP en los últimos 14 días.</li>
+<li>Los clientes que juegan por el mismo equipo debe notificar el proyecto se escribe en el mensaje. apoyo. Las cuentas que no se notificó a la administración del proyecto y utilizar con un PC serán bloqueados. Reproducción de un ordenador no tienen el derecho de: <ol>
+<li>participar en cualquier acción coordinada contra otros jugadores;</li>
+<li>aportar los recursos de asistencia;</li>
+<li>al mismo tiempo ser más de una cuenta;</li>
+<li>enviar ninguna misión juntos.</li>
+</ol> </li>
+<li>Cuentas Multi consideran una interacción indirecta entre su cuenta y otra cuenta a la que se tiene acceso (en este caso el propietario no es consciente de las interacciones). ¿Qué son las interacciones: ataques para robar los recursos; escombros transporte irrevocablemente; manipulación de los recursos - que pasa en diferentes formas a la cuenta principal de forma permanente.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4>3.&nbsp;Deliberada empujando debido a otra cuenta.</h4>
+<p align="justify">Empujar considera la interacción entre los dos jugadores con el objetivo de mejorar la posición de jugar a uno de ellos a expensas de otro, cuando ambos jugadores son conscientes de ellos y contribuir deliberadamente para esto. Estas interacciones incluyen:</p>
+<ol>
+<li>Ataque de robar recursos.</li>
+<li>Ataques con una pequeña flota, con el fin de destruirlo.</li>
+<li>Dinero real Comercial cualquier recurso del juego, y los informes pertinentes de la compra y / o ventas son prohibido y sancionado por la privación de acceso al juego.</li>
+<li>La manipulación de los recursos - una transferencia de recursos de la graduación más alta en el jugador más arriba de pie.</li>
+<li>Cheat Estadísticas - atacar al jugador, por acuerdo previo, para obtener recompensas diarias de logro o engañar victorias estadísticas.</li>
+<li>Cualquier transferencia de recursos, con la excepción de la transferencia a través de una alianza bancaria.*</li>
+</ol>
+<p>*Este párrafo se aplica sólo a la RU4 universo</p>
+<p>&nbsp;</p>
+<h4>4. El tiempo de vuelo de la flota.</h4>
+<p>Está prohibido el envío de la flota en un extraño planeta durante más de 5 horas en un lado sin el consentimiento del jugador.</p>
+<p>* Violaciónes se consideran única flota que iba a más de 5 horas y no se ha cancelado, enviado a la flota por un periodo de más de 5 horas todavía no es una violación de la flota fue cancelado antes de 5 horas después de la salida.</p>
+<p>&nbsp;</p>
+<h4>4.1 Objetivos ataques.</h4>
+<p>Severamente prohibido mandar la flota con el objetivo de aburrir al adversario. es necesario que el ataque tenga como objetivo aquel de destruir la flota hostil o tomar los recursos. </p>
+<p>Por ejemplo: atacar con 1 barco si se ha conscientes de perder barco no es permitido</p>
+<p>&nbsp;</p>
+<h4>5. El uso de las capacidades declaradas y errores de software Juegos.</h4>
+<p align="justify">Características no declarados - la funcionalidad de los juegos, no se describen o no describen en la respectiva documentación de desarrollo, cuyo uso puede estar en violación de la confidencialidad, integridad o disponibilidad de la información procesada.</p>
+<p align="justify">&nbsp;</p>
+<ol>
+<li>Cualquier uso de las capacidades declaradas y errores de software Juegos.</li>
+<li>Está prohibido el uso de errores de programación para beneficio personal.</li>
+<li>Se prohíbe el uso de errores de software que causan daño u otros usuarios del juego.</li>
+<li>&nbsp;Está prohibido difundir información acerca del error a otros usuarios a través de los recursos del juego (chat, foro, mensajes privados)</li>
+</ol>
+<p><i>Nota: En caso de un error crítico en su Administración rendición inmediata - cree que el bono de promoción.</i></p>
+<p>&nbsp;</p>
+<h4>6. scripting.</h4>
+<ol>
+<li>Impacto no autorizado en el servidor, y (o) código de la partida. Autorizar los impactos reconocidos aprobados (registrados o autorizados) por los plugins de juego Administración / complementos que se instalan en el lado del navegador del usuario y modifica la apariencia, información, acción, etc.., sin interferir en los procesos internos del juego.</li>
+<li>La creación y puesta en marcha del programa de otra automatizada (semiautomática) bot Administración no autorizado o para cometer actos tendientes a la cuenta del usuario o de otras cuentas de bombeo y (o) el enriquecimiento de su cuenta, así como las acciones a los juegos de chat.</li>
+</ol>
+<p>&nbsp;</p>
+<h4>7. Seco.</h4>
+<p align="justify">Está prohibido tener acceso a su cuenta (s) de terceros, la transmisión de valores a la cuenta del juego (s) de terceros, así como facilitar la transferencia. En caso de pérdida de la posesión de la propiedad mediante la selección de la cuenta y el robo (robo) la contraseña de su cuenta (o dirección de correo electrónico que está registrada en su cuenta) o por el engaño (o abuso) el titular de la cuenta de fideicomiso, los bienes robados no se devuelve.</p>
+<p>&nbsp;</p>
+<h4>8. cuentas comerciales.</h4>
+<p>Prohibida la transferencia de su cuenta (s) y / o el acceso a los demás por una tarifa y / o cargo, así como la difusión de información acerca de la intención de cometer tales acciones.</p>
+<p>&nbsp;</p>
+<h4>9. recursos del Juego.</h4>
+<p align="justify">Está prohibido el comercio (compra y / o venta) objetos del juego y los recursos por dinero real, así como la publicidad de la trata. Se prohíbe cualquier tipo de publicidad comercial. Se prohíbe cualquier fraude o intentado, directa o indirectamente relacionada con los objetos de juego o recursos.</p>
+<p>&nbsp;</p>
+<h4>10. Comunicación</h4>
+<p>Cuando se comunica a través de mensajes privados o el chat, se prohíbe:</p>
+<ol>
+<li>inundación, Offtopic, gorros, trolling, un obstáculo a la discusión;</li>
+<li>provocación o insistencia de juego sucio;</li>
+<li>intento de fraude, el engaño o la tergiversación de otros Usuarios;</li>
+<li>insultar a otros usuarios sin el uso de malas palabras y los insultos o provocaciones en el tatami;</li>
+<li>los usos y blasfemia citando, velado expresiones, si tienen un doble significado, y pueden ser considerados como vulgar u obsceno (por ejemplo, la sustitución de letras con palabras los caracteres especiales o reducción de las frases obscenas);</li>
+<li>la publicidad explícita o encubierta de otros recursos y productos en línea;</li>
+<li>amenazas de violencia en la vida real, así como la amenaza de daño alguno;</li>
+<li>solicitar o mendigando en todas las formas posibles;</li>
+<li>los intentos de suplantar la identidad de un representante de la administración del juego, además de ser cualquier otro intento de acceder a la cuenta de terceros.</li>
+</ol>
+<p>&nbsp;</p>
+<h4>11. Otras condiciones.</h4>
+<p align="justify"><b>Por estas y otras violaciónes de las reglas del juego, el usuario puede ser inmediata, sin previo aviso, negó los juegos funcionales, para esta funcionalidad puede ser limitada, en parte,.</b><b><br> </b><b>La administración se reserva el derecho de modificar la sanción por violaciónes de los artículos a su discreción, dependiendo de la gravedad de la infracción.</b></p>                    
+               	
+             </div>  
+            <div class="clear"></div>
+		</div><!--/block_light-->

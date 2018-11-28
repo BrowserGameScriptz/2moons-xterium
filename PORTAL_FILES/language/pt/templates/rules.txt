@@ -1,0 +1,108 @@
+﻿<div class="body">
+                
+                    <p><b>As seguintes regras vinculam o projecto:&nbsp;</b><b>War Of Galaxyz</b><b>&nbsp;</b></p>
+<p align="justify"><b><br> </b>Em caso de violação das regras e / ou do Acordo do Usuário, a penalidade do jogo relevante. Se você não entender qualquer provisão das regras ou sua conta bloqueada, para esclarecer o suporte por e-mail: <a href="mailto:support@warofgalaxyz.com">support@warofgalaxyz.com</a>.</p>
+<p>Todas as perguntas sobre a conta de usuário só podem ser resolvidas com seus proprietários.</p>
+<p>&nbsp;</p>
+<h4>1. <b>Conta de propriedade.</b></h4>
+<p align="justify">O proprietário do proprietário da conta é um endereço de e-mail permanente fornecido durante o registro. Cada jogador tem permissão para controlar uma única conta.</p>
+<p align="justify">&nbsp;</p>
+<ol>
+<li>Você não pode transferir / conta de venda para controle permanente.</li>
+<li>Uma conta só pode ser sat para um período máximo de 48 horas contíguas (permissão admin deve ser obtida nos casos em que uma extensão de tempo é necessário).</li>
+<li>A babá pode, por conta de estar sentado e enquanto o período de sessão dura:     	<ol>
+<li>Gastar recursos em edifícios ou pesquisas</li>
+<li>Fleetsave qualquer navio que eminentemente ameaçadas por uma frota atacante de entrada, apenas com uma missão de implantação ou de transporte para uma das contas planetas próprios</li>
+<li>Colocar uma conta no modo de férias.</li>
+</ol></li>
+<li>Você só pode olhar para uma conta. Ao cuidar da conta do jogador pode visitar a conta apenas 3 vezes em 24 horas.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4>2. Multi-contas.</h4>
+<p align="justify">&nbsp;</p>
+<ol>
+<li>One may not be registered users in more than one account in one universe and shall be punished by blocking all accounts. The penalty applies to all players, regardless of their game development. The player with more than one account, but in different universes, is not considered a violator of this ruleUm pode não ser usuários registrados em mais de uma conta em um universo e será punido bloqueando todas as contas. A penalidade aplica-se a todos os jogadores, independentemente do seu desenvolvimento do jogo. O jogador com mais de uma conta, mas em universos diferentes, não é considerado um infractor desta regra.</li>
+<li>Batalhas de conduta proibidas entre contas que telefonam com um endereço IP nos últimos 14 dias.</li>
+<li>Os clientes que jogam a partir do mesmo computador devem notificar o projeto está escrito na mensagem. apoio. As contas que não são notificadas da administração do projeto e usadas com um PC serão bloqueadas. Jogar de um computador não tem o direito de: <ol>
+<li>Participar em qualquer acção coordenada contra outros jogadores;</li>
+<li>Fornecer quaisquer assistência de recursos;</li>
+<li>Ao mesmo tempo ser mais de uma conta;</li>
+<li>Enviar qualquer missão juntos.</li>
+</ol> </li>
+<li>As contas múltiplas consideram uma interação indireta entre sua conta e outra conta à qual você tem acesso (neste caso, o proprietário não tem conhecimento das interações). Que interações são: ataques para roubar recursos; Transporte de detritos irrevogavelmente; Manipulação de recursos - passando-os em diferentes formas para a conta principal permanentemente.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4>3.&nbsp;Deliberar empurrando devido a outra conta.</h4>
+<p align="justify">Pushing considerou a interação entre os dois jogadores com o objetivo de melhorar a posição de jogar um deles em detrimento de outro, quando ambos os jogadores estão cientes deles e deliberadamente contribuir para isso. Essas interações incluem:</p>
+<ol>
+<li>Atacar para roubar recursos.</li>
+<li>Ataques com uma pequena frota, com o objetivo de destruí-la.</li>
+<li>Dinheiro real comercial quaisquer recursos de jogo, e os relatórios relevantes da compra e / ou venda são proibidos e puníveis com privação de acesso ao jogo.</li>
+<li>Manipulação de recursos - uma transferência de recursos do ranking mais alto no jogador acima da posição.</li>
+<li>Cheat Statistics - ataque o jogador, por acordo prévio, para obter recompensas diárias para a realização ou batota ganha estatísticas.</li>
+<li>Qualquer transferência de recursos, com excepção da transferência através de uma aliança bancária.*</li>
+</ol>
+<p>&nbsp;</p>
+<h4>4. Festança.</h4>
+<p>Não é permitido atacar qualquer planeta ou lua pertencente a um jogador mais de 6 vezes em um único período de 24 horas.</p>
+<p>Bashing só é permitido quando sua Aliança está em guerra com outra Aliança.</p>
+<p>A guerra deve ser anunciada no fórum e ambos os líderes devem concordar com os termos.</p>
+<p>A regra bashing aplica-se somente para usuários ativos e exclui ataques de mísseis e missões de espionagem.</p>
+<p>&nbsp;</p>
+<h4>5. O tempo de voo da frota.</h4>
+<p>É proibido enviar a frota em um planeta estranho por mais de 5 horas de um lado sem o consentimento do jogador.</p>
+<p>* Violações são consideradas apenas frota que foi mais de 5 horas e não foi cancelado, enviou a frota por um período de mais de 5 horas ainda não uma violação se a frota foi cancelada antes de 5 horas após a partida.</p>
+<p>&nbsp;</p>
+<h4>5.1 Ataques objetivos.</h4>
+<p>Severamente proibido enviar a frota com o propósito de irritar o adversário. É necessário que o ataque tenha como objetivo que destruir a frota hostil ou tomar os recursos. </p>
+<p>Por exemplo: para anexar com 1 navio se ele está ciente de perder navio não é permitido</p>
+<p>&nbsp;</p>
+<h4>6. Uso de recursos não declarados e bugs de software.</h4>
+<p align="justify">Undeclared features - the functionality of the Games, are not described or not described in the respective developer documentation, the use of which may be in breach of confidentiality, integrity or availability of information processedFuncionalidades não declaradas - a funcionalidade dos Jogos, não são descritas ou não estão descritas na respectiva documentação do desenvolvedor, cuja utilização pode estar em violação da confidencialidade, integridade ou disponibilidade de informações processadas.</p>
+<p align="justify">&nbsp;</p>
+<ol>
+<li>Qualquer uso de capacidades não declaradas e bugs de software.</li>
+<li>É proibido usar erros de programação para ganho pessoal.</li>
+<li>Proibiu o uso de erros de software que causam danos ou outros usuários do jogo.</li>
+<li>É proibido divulgar informações sobre o erro do programa a outros usuários através dos recursos do jogo (bate-papo, fórum, mensagens privadas)</li>
+<li>Para reduzir engano, o peculato sanção e multi-contas, a equipe War Of Galaxyz reserva-se o direito de bloquear qualquer conta usando uma VPN, um proxy de internet ou outros meios para fazer uma conta anônima.</li>
+</ol>
+<p>&nbsp;</p>
+<h4>7. Script.</h4>
+<ol>
+<li>Impacto não autorizado no servidor e (ou) código para o jogo. Autorizar os impactos reconhecidos aprovados (registrados ou licenciados) pelos plugins / add-ons de jogos de administração instalados na lateral do navegador do usuário e modificar a aparência, informação, ação, etc., sem interferir nos processos internos do jogo.</li>
+<li>A criação e lançamento de um bot de Administração não autorizado ou de outro programa automatizado (semi-automático) para cometer qualquer ato destinado à conta do Usuário ou outras contas de bombeamento e / ou enriquecimento de sua conta, bem como ações de chat de jogos.</li>
+</ol>
+<p>&nbsp;</p>
+<h4>8. Hacking.</h4>
+<p align="justify">É proibido o acesso à sua (s) conta (s) de terceiros, a transmissão de valores para a (s) conta (s) de jogo de terceiros, bem como facilitar a transferência. Em caso de perda da posse da propriedade, selecionando a conta e roubando a senha para sua conta (ou endereço de e-mail que está registrado em sua conta) ou por engano (ou abuso) o proprietário da conta fiduciária, A propriedade roubada não é devolvida.
+</p>
+<p>&nbsp;</p>
+<h4>9. Contas de negociação.</h4>
+<p>Proibir a transferência de sua (s) conta (s) e / ou acesso a terceiros por uma taxa e / ou encargo, bem como a divulgação de informações sobre a intenção de cometer tais ações.</p>
+<p>&nbsp;</p>
+<h4>10. Recursos do jogo.</h4>
+<p align="justify">É proibido o comércio (compra e / ou venda) de objetos de jogo e recursos para dinheiro real, bem como a publicidade de tráfico. Proíbe qualquer publicidade comercial. Proibiu qualquer fraude ou tentativa, direta ou indiretamente relacionada com objetos de jogo ou recursos.</p>
+<p>&nbsp;</p>
+<h4>11. Comunicação</h4>
+<p>Ao se comunicar através de mensagens privadas ou bate-papo, é proibido:</p>
+<ol>
+<li>Inundação, offtopic, tampões, trolling, um obstáculo à discussão;</li>
+<li>Provocação ou instigação ao jogo sujo;</li>
+<li>Tentativa de fraude, engano ou deturpação de outros Usuários;</li>
+<li>Insultar outros usuários sem o uso de palavrões e insultos ou provocações no tapete;</li>
+<li>O uso e citação de blasfêmia, expressões veladas, se eles têm um duplo significado, e pode ser considerado como vulgar ou obsceno (por exemplo, substituição de letras em palavras quaisquer caracteres especiais ou redução de frases obscenas);</li>
+<li>Publicidade explícita ou encoberta de outros recursos e produtos on-line;</li>
+<li>Ameaças de violência na vida real, bem como a ameaça de qualquer;</li>
+<li>Solicitando ou implorando em todas as formas possíveis;</li>
+<li>Tenta representar um representante da administração do jogo, bem como qualquer outra tentativa de obter acesso à conta de terceiros.</li>
+</ol>
+<p>&nbsp;</p>
+<h4>12. Outras condições.</h4>
+<p align="justify"><b>Para estas e outras violações das regras do jogo o usuário pode ser imediatamente, sem qualquer aviso prévio, negado os jogos funcionais, para esta funcionalidade pode ser limitada em parte.</b><b><br> </b><b>A administração se reserva o direito de modificar a penalidade por violações dos itens a seu critério, dependendo da gravidade da infração.</b></p>                    
+               	
+             </div>  
+            <div class="clear"></div>
+		</div><!--/block_light-->

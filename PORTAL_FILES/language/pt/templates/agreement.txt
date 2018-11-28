@@ -1,0 +1,123 @@
+<div class="body">
+            	<div id="docs">
+        	  <h1>Termos de uso</h1>
+        	  <div>
+        	    <p>Versão 1.0 de 11.21.2013</p>
+        	    <p>AQUALQUER USO PROJETO War Of Galaxyz (<a href="https://warofgalaxyz.com/">https://warofgalaxyz.com/</a>) INDICA QUE VOCÊ LEIA APENAS, ENTENDE E CONCORDA COM OS TERMOS DO ACORDO ESCRITO, CONCORDA EM SER LIGADO POR ELES E RESPONSÁVEL POR SUA VIOLAÇÃO. O ACORDO DE UTILIZADOR E OS ANEXOS SÃO ESSENCIAIS E OBRIGATÓRIOS PARA TODOS OS PARTICIPANTES DO PROJECTO.</p>
+        	    <h3><strong>1. Termos e definições básicos</strong></h3>
+        	    <ol>
+        	      <li>O Projeto War Of Galaxyz - LLC "IT cérebro", endereço legal: Bélgica, Bruxelas, Av. Du roi, 114.</li>
+        	      <li>O desenvolvedor - a pessoa que desenvolveu os vários componentes dos Jogos.</li>
+        	      <li>Software - componentes de software, individuais e coletivamente postados Administração ou desenvolvedor no site, sites de terceiros na Internet, DVD e outros meios, e especialmente marcado como componentes War Of Galaxyz.</li>
+        	      <li>O site - um conjunto de recursos da Web localizados nos domínios de Internet https://warofgalaxyz.com e subdomínios de terceiro nível, como https://forum.warofgalaxyz.com, https://wiki.warofgalaxyz.com e outros.</li>
+        	      <li>Conteúdo - fotos, vídeo, áudio, gráficos e materiais de texto postados Administrador ou desenvolvedor.</li>
+        	      <li>Materiais - foto, vídeo, áudio, gráficos e materiais de texto publicados por Usuários no Jogo.</li>
+        	      <li>O jogo - um conjunto de software, conteúdo da web e material, que é um conjunto de recursos, serviços e serviços para uso pessoal e não comercial pelo Usuário.</li>
+        	      <li>O projeto - a essência, incluindo o Jogo, usuários, moderadores e administração.</li>
+        	      <li>Usuário - qualquer pessoa, inclusive ficcional, não está coberta por restrições legais sobre o uso de serviços de jogos online registrados como participantes no jogo e celebrados neste Contrato.</li>
+        	      <li>Administração - a pessoa autorizada a usar um projeto especial no Projeto, incluindo a administração, e atuando em nome do Proprietário do Projeto, a menos que indicado de outra forma.</li>
+        	      <li>Moderador - uma pessoa autorizada pela Administração para monitorar a implementação do usuário deste Acordo e outras regras do jogo e tem autoridade para aplicar ao usuário age em nome da Administração sob este Acordo.</li>
+        	      <li>Legislação - a legislação do país, que é o país de registo (instituições) proprietário do projecto ea legislação do país de cidadania (registo) ou Membro domiciliado.</li>
+        	      <li>Registre-se como um membro dos Jogos - a criação de uma conta de usuário como um conjunto de identidade de usuário convencional através da qual um usuário acessa o Jogo.</li>
+      	      </ol>
+        	    <h3><strong>2. Termos gerais</strong></h3>
+        	    <ol>
+        	      <li>O usuário garante que não está sujeito a restrições legais sobre o uso de serviços on-line que ele tem toda a autoridade necessária para celebrar este Contrato e obter as licenças necessárias exigidas por lei na forma de seus pais ou representantes legais.</li>
+        	      <li>Este acordo com todos os anexos por brevidade, a seguir designado por "Acordo". Todas as candidaturas ao Acordo constituem parte integrante e vinculam as partes. Anexos ao Acordo publicados na Administração do Site, e include&nbsp;<a href="../index.php?page=rules" target="_blank">Regras do jogo</a> и&nbsp;<a href="http://https://forum.warofgalaxyz.com/index.php/topic/469-prava-i-obiazannosti-uchastnikov-na-forume/">Regras do fórum</a>.</li>
+        	      <li>Este Contrato poderá ser emendado ou complementado pelo proprietário do projeto a qualquer momento, inclusive através da publicação (publicação) de sua nova edição. Ao alterar e completar o Contrato pela Administração do Proprietário do Projeto notifica o usuário de qualquer das seguintes maneiras: a publicação de um site hospedou uma mensagem informativa dentro do jogo. Depois de receber essa mensagem, o Usuário concorda em se familiarizar imediatamente com as alterações e adições recentes ao Contrato. A participação contínua do Usuário no jogo após o recebimento das alterações e adições ao Contrato é a expressão do consentimento do usuário com eles.</li>
+        	      <li>O usuário usa o jogo por sua conta e risco. O jogo é fornecido "como está", ou seja, o usuário não fornece garantias de que o jogo, bem como fornecido no jogo recursos serviços e instalações:<br>
+        	        
+        	        4.1.&nbsp;Funcionará sem problemas, continuamente, sem erros;<br>
+        	        4.2.&nbsp;wAtenderá aos requisitos e expectativas dos usuários.<br>
+        	        
+        	        O proprietário do Projeto ea administração não são responsáveis perante o Usuário por qualquer perda ou dano causado ao usuário, incluindo seu computador, software ou outra propriedade em conexão com o uso ou incapacidade de usar os Jogos, inclusive em conexão com o aplicativo Ao usuário limitações técnicas uso das oportunidades, serviços e serviços dentro do jogo por violar as regras deste Acordo, as regras do jogo e as regras do fórum.</li>
+        	      <li>Projeto submetido pelo proprietário ou usuário administração acesso para participar do jogo, o uso de suas capacidades e serviços são realizados gratuitamente.</li>
+        	      <li>Projeto submetido pelo proprietário ou administração de usuário acesso a jogos de recursos especiais executados em uma base reembolsável, por uma taxa e um serviço. Os serviços não são um pré-requisito para a participação dos usuários no jogo. Serviços disponíveis a pedido eo utilizador. O serviço permite que os usuários usem os jogos adicionais, aprimorados e mais acessíveis. Enquanto o uso de tais características adicionais usuário recebe no jogo valor (jogo moeda, jogo ativos, etc), que contribuem para um desenvolvimento mais rápido ou confortável no jogo. Os valores dos membros do jogo são provisórios e podem ser utilizados pelos utilizadores nos jogos durante a jogabilidade. O usuário concorda que os serviços na forma de obter e usar recursos avançados que o usuário recebe uma taxa, considerada a ser fornecida no momento da inscrição na caixa na conta de usuário de acordo com as instruções recebidas dele. O dinheiro utilizado para a compra dos valores do Jogo do Usuário, o proprietário do Projeto e não são reembolsados ​​pela Administração, inclusive para não usá-los durante o jogo ou sua rescisão.</li>
+      	      </ol>
+        	    <h3><strong>3. Os direitos e deveres da Administração</strong></h3>
+        	    <ol>
+        	      <li>Em caso de violação pelo Usuário do Contrato: A administração tem o direito, sem aviso prévio, de limitar total ou parcialmente, unilateralmente, a funcionalidade ou acessar os usuários ao projeto, apagar todos os dados, o Conteúdo e os Materiais do Usuário, bem como negar O usuário na futura prestação de serviços no projeto não são responsáveis por qualquer dano que possa ser causado por tal ação usuário.</li>
+        	      <li>A administração se reserva o direito de limitar total ou parcialmente a funcionalidade do Projeto por razões técnicas, tecnológicas, profiláticas ou outras, a seu exclusivo critério, com aviso prévio ou sem.</li>
+        	      <li>Todas as características dos componentes do projeto, bem como as regras de sua formação, incluindo os parâmetros de objetos de jogo e ambiente de jogo, preços, taxas de câmbio, classificações e outras características da administração do projeto estão sujeitos a alterações sem obrigação de Notificar os membros, antes e depois das alterações.</li>
+        	      <li>O conteúdo publicado por usuários no projeto, em violação deste Contrato ou da lei aplicável, pode ser removido pelo moderador para a Administração sem informar o autor e outros usuários.</li>
+        	      <li>Os materiais e conteúdos a serem colocados no rascunho, de qualquer forma violam os direitos exclusivos sobre a propriedade do autor serão removidos pela Administração a pedido do proprietário dos direitos autorais.</li>
+        	      <li>A administração tem o direito de ordenar a coleta de estatísticas para monitorar e armazenar informações sobre endereços IP Acesso de usuário ao Jogo e uso de arquivos de informações técnicas (cookies), colocados no PC do usuário. No caso de uma ação do usuário ter visto sinais de uma ofensa criminal, a Administração tem o direito de transferir seus dados de usuário existentes para agências de aplicação da lei. Além disso, a administração tem o direito de transferir os seus dados de utilizador existentes para as autoridades responsáveis pela aplicação da lei a pedido desta nos casos e formas prescritos por lei.</li>
+      	      </ol>
+        	    <h3><strong>4. Direitos e obrigações do Utilizador</strong></h3>
+        	    <ol>
+        	      <li>O Usuário concorda em cumprir o Contrato ea tempo de se familiarizar com a versão atual do Contrato.</li>
+        	      <li>Em caso de desacordo com um Membro do Acordo, o Usuário é obrigado a cessar a participação no Projeto.</li>
+        	      <li>O Usuário concorda em não divulgar ou transferir a terceiros os seus dados de identidade através dos quais a possível autorização do usuário em qualquer parte do Projeto.</li>
+        	      <li>O usuário concorda em não examinar o código.</li>
+        	      <li>O usuário tem o direito de realizar ações lógicas previstas, o uso das possibilidades técnicas para controlar objetos de jogo, itens e valores de compartilhamento de jogos com outros usuários postar suas mensagens e ler mensagens de outros usuários, e também compartilhar as mensagens pessoais do jogo com outros Usuários.</li>
+      	      </ol>
+        	    <h3><strong>5. É proibido aos utilizadores o seguinte:</strong></h3>
+        	    <ol>
+        	      <li>Use a Conta (conta do jogo) de outra pessoa, bem como para alienar ou de outra forma transferir o seu ou adquirir, inclusive através da troca ou receber um presente, Conta (conta do jogo) de outra pessoa.</li>
+        	      <li>Usar o projeto de qualquer maneira que possa interferir no funcionamento normal do projeto.</li>
+        	      <li>Use scripts automatizados para coletar informações ou outras interações com os objetos do Projeto.</li>
+        	      <li>Use as informações de contato para enviar informações não solicitadas (spam).</li>
+        	      <li>Colocação de objetos no Projeto de direitos exclusivos sem o consentimento de seus respectivos proprietários.</li>
+        	      <li>Colocar no rascunho informações pessoais de terceiros sem seu consentimento, incluindo endereços residenciais, números de telefone, detalhes de passaporte.</li>
+        	      <li>Colocar no rascunho de publicidade comercial, ofertas, informações de campanha e qualquer outra informação intrusiva, exceto nos casos em que a colocação de tais informações de acordo com a Administração.</li>
+        	      <li>Colocar nos materiais de rascunho insultando e degradando a honra ea dignidade de outros Usuários ou de terceiros, ou links para tal material.</li>
+        	      <li>Colocar no projecto palavras ou frases obscenas ou abusivas, incluindo a sua utilização em nome do Utilizador.</li>
+        	      <li>Para colocar no projecto de malware e hiperligações que podem ou podem conter malware.</li>
+        	      <li>Colocar no projecto de material pornográfico ou referências a eles.</li>
+        	      <li>Colocar no projecto de ameaças, incitamento à violência e comissão de actos ilícitos.</li>
+        	      <li>Colocar no projecto de materiais elementos de violência, crueldade, ódio racial, étnico ou religioso, bem como ligações a esse material.</li>
+        	      <li>Promover e demonstrar os atributos e símbolos do Projeto Nazista.</li>
+        	      <li>Promover a atividade criminosa do Projeto, estabelecer diretrizes para a prática de atos ilícitos.</li>
+        	      <li>Colocar no rascunho qualquer outra informação que, na opinião da Administração, seja indesejável, viola as normas de moralidade e ética, viola a lei aplicável.</li>
+        	      <li>Realizar quaisquer outros atos ilegais ou criminosos.</li>
+      	      </ol>
+        	    <h3><strong>6. Direitos exclusivos</strong></h3>
+        	    <ol>
+        	      <li>Os direitos exclusivos sobre a propriedade intelectual do Projeto pertencem ao proprietário do projeto. Todos os direitos reservados.</li>
+        	      <li>Os materiais e conteúdo de direitos autorais postados no projeto pertencem aos usuários que criaram seus legítimos proprietários ou de outra forma.</li>
+        	      <li>A administração fornece ao usuário o direito de usar os materiais de outros usuários visualizando, reproduzindo (incluindo backup), processando (incluindo cópias impressas) e outros direitos - o único propósito de uso não comercial, a menos que tal uso possa prejudicar os interesses do direito Protegido por lei.</li>
+      	      </ol>
+        	    <h3><strong>7. Sites e conteúdo de terceiros</strong></h3>
+        	    <ol>
+        	      <li>O projeto contém links para outros sites na Internet, bem como programas, fotos, vídeos, áudio, gráficos e materiais de texto pertencentes a terceiros.</li>
+        	      <li>Os links para websites ou materiais de terceiros no Projeto não implicam endosso, aprovação ou recomendação daqueles sites ou administração de materiais.</li>
+        	      <li>A Administração não é responsável por qualquer conteúdo de terceiros publicado no projeto ou em sites de terceiros acessíveis por links do Projeto, incluindo, mas não se limitando a, quaisquer opiniões ou declarações.</li>
+        	      <li>Seguindo links para sites de terceiros, instalação de software de terceiros ou qualquer outro uso do material usado para fazer terceiros por sua própria conta e risco.</li>
+        	      <li>Este Acordo não se aplica a quaisquer programas, materiais ou sites de terceiros.</li>
+      	      </ol>
+        	    <h3><strong>8. Responsabilidade das Partes</strong></h3>
+        	    <ol>
+        	      <li>O usuário é pessoalmente responsável por qualquer material ou outra informação, que ele coloque no Projeto ou de outra forma comunicada aos outros usuários, ou comunicar ao público.</li>
+        	      <li>O usuário é responsável perante a Administração e por terceiros pelo descumprimento dos termos deste Contrato.</li>
+        	      <li>O Usuário deverá indenizar a Administração e terceiros por quaisquer perdas incorridas em conexão com suas atividades, incluindo, mas não se limitando a violação deste Contrato, direitos autorais ou outros direitos exclusivos.</li>
+        	      <li>A Administração não é responsável de acordo com o parágrafo 5 da seção 2 eo parágrafo 3 da seção 7 deste Acordo.</li>
+        	      <li>A Administração não é responsável pela qualidade e rapidez do acesso do usuário à Internet. Para todas as questões técnicas relacionadas com a prestação de serviços de comunicações, o utilizador deve contactar a sua ligação de fornecedor de serviços.</li>
+        	      <li>A Administração não é responsável por qualquer conduta de usuários ou terceiros, incluindo, mas não se limitando a, roubo ou destruição ou acesso não autorizado aos Membros.</li>
+        	      <li>Administração e Proprietário do Projeto, bem como seus representantes, em nenhuma circunstância, serão responsáveis perante os usuários do projeto ou terceiros por qualquer dano indireto, acidental, não intencional, incluindo mas não limitado a perda de dados, danos à honra, Dignidade ou reputação comercial, benefícios de perda resultantes da utilização do Projecto, dos seus componentes e materiais, cujo acesso foi obtido pelo projecto, mesmo que a administração não aponte para a possibilidade de tais danos.</li>
+        	      <li>A administração fica isenta de responsabilidade por incumprimento total ou parcial das obrigações decorrentes do presente Acordo, se tal não resultar de um caso de força maior, ou seja, extraordinário e inevitável pelas partes nas condições dadas, incluindo motins, acções proibitivas do Desastres naturais, incêndios, acidentes e também por falhas nas redes de telecomunicações e energia, ações de programas maliciosos, bem como ações inescrupulosas de terceiros visando adulterar ou desabilitar hardware ou complexos.</li>
+      	      </ol>
+        	    <h3><strong>9.&nbsp;  Apoio</strong></h3>
+        	    <ol>
+        	      <li>O suporte está disponível em formato eletrônico e está disponível no jogo ou e-mail support@warofgalaxyz.com.
+        	      </li>
+      	      </ol>
+        	    <h3><strong>10. Reserva de Direitos</strong></h3>
+        	    <ol>
+        	      <li>Todos os outros direitos não mencionados explicitamente no Acordo, são reservados ao proprietário do projeto. </li>
+      	        </ol>
+        	    <h3><strong>11. Disposições Finais </strong></h3>
+        	    <ol>
+        	      <li>Este Contrato é um contrato entre o proprietário do projeto em face das administrações e usuários sobre as condições de participação do Usuário no jogo, o uso gratuito de suas oportunidades e serviços Jogos e utilizar os Jogos de Acessibilidade do Usuário em uma base reembolsável. & Nbsp; O presente Acordo entra em vigor após a sua adopção pelo Utilizador e é válido por tempo indeterminado.</li>
+        	      <li>No caso de uma violação por parte do Utilizador à reivindicação 1, Secção 5 deste Acordo, que prevê a proibição do uso da conta criada por outra pessoa, a alienação das suas contas ou conta de compra criada por outra pessoa, proprietário do projecto Em face da Administração terá o direito de recusar unilateralmente o cumprimento do presente.</li>
+        	      <li>As questões não abrangidas neste Acordo serão determinadas de acordo com a lei do país que é o país de incorporação (estabelecimento) Proprietário Projeto (República da Bielorrússia). As controvérsias relacionadas à celebração, execução e rescisão do presente Acordo serão resolvidas no tribunal do país, que é & nbsp; País de constituição do Proprietário do Projeto, de acordo com o direito substantivo e processual do foro. O Usuário reconhece que o país em que está familiarizado com o convite para celebrar este Contrato, bem como o país em que tomou as medidas para celebrar este Contrato, é o país de constituição do Proprietário do Projeto.</li>
+        	      <li>Se qualquer disposição deste Contrato for inválida ou inexeqüível, o não-executável implementado sob as leis de qualquer jurisdição que não afeta o:<br>
+        	        4.1. Validade, legalidade, a possibilidade de ser forçado Implementado nessa jurisdição as restantes disposições deste Acordo;<br>
+        	          4.2. Validade, legalidade, a possibilidade de ser forçado Implementado em qualquer outra jurisdição de todas as outras disposições deste Acordo.<br>
+      	          
+        	      </li>
+        	    </ol>
+        	  </div>
+              </div>
+        	</div>
+          <div class="clear"></div>
+        </div><!--/block_light-->

@@ -1,0 +1,114 @@
+html{	
+	background: #000111 url('//cdn.warofgalaxyz.com/styles/images/bg.jpg')repeat;
+}
+body{
+	background:none;
+	min-width:370px;
+	width:auto;
+}
+.login_body{
+	width:352px;
+}
+a{
+	text-decoration:none;
+}
+.login_mobail_fix{
+	width:352px;
+	-moz-border-radius: 4px;
+  	-webkit-border-radius: 4px;
+  	border-radius: 4px;
+	position:relative;
+	overflow:hidden;
+	margin:20px 0;
+}
+.login_logo{
+	width:200px;
+	display:block;
+	float:right; 
+	clear:both;
+}
+#login_mobail{
+	width:350px;
+	border:1px solid #000;
+	background:#12184E;
+	position:relative;
+	overflow:hidden;
+	background: #08182d url('//cdn.warofgalaxyz.com/styles/images/bg_left_menu.gif') repeat;
+	-moz-border-radius: 3px;
+  	-webkit-border-radius: 3px;
+  	border-radius: 3px;
+}
+input{
+	padding-top:0;
+	padding-bottom:0;
+	line-height:45px;
+	height:45px;
+	margin:0 !important;
+	background-color: #69b1c9;
+	clear:both;
+	float:none;
+	display:block;
+}
+.login_mobail_head{
+	height:40px;
+}
+.login_mobail_body{
+	padding:10px 10px 5px 10px;
+}
+#login_mobail .sel_uni_top{
+	margin:0;
+	width:330px;
+	height:40px;
+	line-height:45px;
+}
+#login_mobail label{
+	display:block;
+	margin-top:5px;
+	line-height:25px;
+	height:25px;
+	float:none;
+	clear:both;
+	font-weight:bold;
+	color:#B8A05E;
+}
+.head_title{
+	height:40px;
+	line-height:40px;
+	float:left;
+	color:#5889A3;
+	font-size:20px;
+	font-weight:bold;
+	width:180px;
+	text-align:center;	
+}
+.head_link{
+	display:block;
+	width:160px;
+	height:40px;
+	line-height:40px;
+	font-size:20px;
+	float:right;
+	font-weight:bold;
+	text-align:center;	
+	-moz-border-radius: 0px 2px 0px 3px;
+	-webkit-border-radius: 0px 2px 0px 3px;
+	border-radius: 0px 2px 0px 3px;
+	border-bottom:1px solid #000;
+	border-left:1px solid #000;
+	background:rgba(0,0,0,0.2);
+	color:#CCC;
+}
+.head_link:hover{
+	background:rgba(0,0,0,0.3);
+	color:#5ca6aa;
+}
+.login_mobail_link{
+	margin-top:5px;
+	line-height:22px;
+	color:#CCCCCC;
+	font-size:14px;
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.9);
+}
+.login_mobail_link:hover{
+	color:#5ca6aa;
+}

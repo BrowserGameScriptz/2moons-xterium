@@ -1,0 +1,11 @@
+<div class="left">
+	<h2>Information à l'appui de multiples univers</h2>
+	<p>2Moons peut soutenir de multiples univers, ce serveur doit être configuré correctement.</p>
+	<p>Les paramètres du serveur, vous pouvez trouver dans la section «Informations» sous «Informations sur le serveur". Si vous ne comprenez pas cela, il est préférable de demander à votre hôte.</p>
+	<h3>Apache</h3>
+	<p>Si vous avez un serveur Apache, vous devez supprimer la ligne 47-50 dans le fichier .htaccess, qui est situé dans le répertoire racine.</p>
+	<h3>Nginx</h3>
+	<p>Si vous avez un serveur Nginx, vous devez réécrire les règles:</p>
+	<p><code>{NGINX-CODE}</code></p>
+	<p>Collez ce code ci-dessous de la ligne "server_name".</p>
+</div>

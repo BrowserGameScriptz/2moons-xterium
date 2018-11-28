@@ -1,0 +1,123 @@
+<div class="body">
+            	<div id="docs">
+        	  <h1>Terms of use</h1>
+        	  <div>
+        	    <p>Version 1.0 of 11.21.2013</p>
+        	    <p>ANY USE PROJECT XTERIUM (<a href="http://xterium.space/">http://xterium.space/</a>) INDICATES THAT YOU FULLY READ, UNDERSTOOD AND AGREE TO THE TERMS OF THE AGREEMENT WRITTEN, AGREE TO BE BOUND BY THEM AND RESPONSIBLE FOR THEIR VIOLATION. USER AGREEMENT AND ANNEXES ARE ESSENTIAL AND MANDATORY FOR ALL PROJECT PARTICIPANTS.</p>
+        	    <h3><strong>1. Basic terms and definitions</strong></h3>
+        	    <ol>
+        	      <li>The Project Xterium - LLC "IT brain", legal address: Belgium, Bruxelles, Av. du roi,114.</li>
+        	      <li>The developer - the person who developed the various components of the Games.</li>
+        	      <li>Software - software components, both individual and collectively posted Administration or developer on the Site, third-party sites on the Internet, DVD and other media, and specially marked as components Xterium.</li>
+        	      <li>The site - a set of Web resources located on the Internet domains xterium.space and third-level subdomains, such as forum.xterium.space, wiki.xterium.space and other.</li>
+        	      <li>Content - photos, video, audio, graphics and text materials posted Administration or developer.</li>
+        	      <li>Materials - photo, video, audio, graphics and text materials posted by Users in the Game.</li>
+        	      <li>The game - a set of software, web content and material, which is a set of features, services, and services for personal, noncommercial use by the User.</li>
+        	      <li>The project - the essence, including the Game, users, moderators and administration.</li>
+        	      <li>User - any person, including fictional, are not covered legal restrictions on the use of online gaming services registered as participants in the game and entered into this Agreement.</li>
+        	      <li>Administration - the person authorized to use a special project on the Project, including management, and acting on behalf of the Project Owner, unless otherwise stated.</li>
+        	      <li>Moderator - a person authorized by the Administration to monitor the implementation of the user of this Agreement and other rules of the game and has the authority to apply to the user acts on behalf of the Administration under this Agreement.</li>
+        	      <li>Legislation - the legislation of the country, which is the country of registration (institutions) project owner and the legislation of the country of citizenship (registration) or domicile Member.</li>
+        	      <li>Register as a member of Games - the creation of a user account as a set of conventional user identity through which a user accesses the Game.</li>
+      	      </ol>
+        	    <h3><strong>2. General terms</strong></h3>
+        	    <ol>
+        	      <li>User guarantees that it is not subject to legal restrictions on the use of online services that he has all the necessary authority to enter into this Agreement and obtain the necessary permits required by law in the form of their parents or legal representatives.</li>
+        	      <li>This agreement with all annexes for brevity hereinafter referred to as the Agreement. All applications to the Agreement shall form an integral part of and be binding upon the parties. Annexes to the Agreement posted on the Site Administration, and include&nbsp;<a href="../index.php?page=rules" target="_blank">Rules of the game</a> и&nbsp;<a href="http://forum.xterium.space/index.php/topic/469-prava-i-obiazannosti-uchastnikov-na-forume/">Forum Rules</a>.</li>
+        	      <li>This Agreement may be amended or supplemented by the owner of the project at any time, including by posting (publishing) of its new edition. On amending and supplementing the Agreement by the Project Owner Administration notifies the user in any of the following ways: publication of a site hosted an informational message inside the game. After receiving such a message User agrees to immediately get acquainted with the recent changes and additions to the Agreement. Continued participation of the User in the game after receipt of the amendments and additions to the Agreement is the expression of the consent of the user with them.</li>
+        	      <li>The user uses the game at your own risk. The game is provided "as is", ie the user does not provide guarantees that game, as well as provided in-game features services and facilities:<br>
+        	        
+        	        4.1.&nbsp;will function smoothly, continuously, without errors;<br>
+        	        4.2.&nbsp;will meet the requirements and expectations of users.<br>
+        	        
+        	        The owner of the Project and the administration is not liable to the User for any loss or damage caused to the user, including his computer, software or other property in connection with the use or inability to use the Games, including in connection with the application to the user technical limitations use of the opportunities, services and services inside the game for violating the rules of this Agreement, the rules of the game and forum rules.</li>
+        	      <li>Project submitted by the owner or user administration access to participate in the game, the use of its capabilities and services are carried out free of charge.</li>
+        	      <li>Project submitted by the owner or user administration access to special features games performed on a reimbursable basis, for a fee, and a service. Services are not a prerequisite for participation of users in the game. Services available on request and the user. Service allows users to use the additional, enhanced, more accessible games. While the use of such additional features user receives in-game value (game currency, game assets, etc.), which contribute to more rapid development or comfortable in the game. Gaming Members values are provisional and may be used by users within games during gameplay. User agrees that services in the form of obtaining and using advanced features that user receives a fee, considered to be provided at the time of enrollment in-box at the user account in accordance with the instructions received from him. Cash used for the purchase of the User-game values, the owner of the Project and are not reimbursed by the Administration, including for non-use them in the course of the game or its termination.</li>
+      	      </ol>
+        	    <h3><strong>3. The rights and duties of the Administration</strong></h3>
+        	    <ol>
+        	      <li>In case of violation by the User of the Agreement: The administration has the right without notice to unilaterally fully or partially limit the functionality of or access users to the project, delete all the data, the Content and User Materials, as well as to deny the user in the future provision of services in the project are not responsible for any harm which may be caused by such action user.</li>
+        	      <li>The administration reserves the right to wholly or partially limit the functionality of the Project for the technical, technological, prophylactic or other reason in its sole discretion with prior notice or without.</li>
+        	      <li>All the features of the components of the project, as well as rules of their formation, including the parameters of game objects and game environment, prices, exchange rates, ratings and other features of the administration of the project are subject to change without obligation to notify Members, both before and after the changes.</li>
+        	      <li>Content posted by users in the project, in violation of this Agreement or applicable law, may be removed by the moderator or the Administration without informing the author and other users.</li>
+        	      <li>Materials and content to be placed in the draft, in any way violate the exclusive rights to the property of the author will be removed by the Administration at the request of the copyright owner.</li>
+        	      <li>The administration is entitled to order the collection of statistics to monitor and store information about IP-addresses User access to the Game and use of technical information files (cookies), placed on the user's PC. In the event that a user action seen signs of a criminal offense, the Administration is entitled to transfer her existing user data to law enforcement agencies. In addition, the administration has the right to transfer her existing user data to law enforcement authorities at the request of the latter in the cases and manner prescribed by law.</li>
+      	      </ol>
+        	    <h3><strong>4. Rights and obligations of the User</strong></h3>
+        	    <ol>
+        	      <li>The User agrees to abide by the Agreement and in time to get acquainted with the current version of the Agreement.</li>
+        	      <li>In case of disagreement with a Member of the Agreement, the User is obliged to cease participation in the Project.</li>
+        	      <li>The User agrees not to disclose or transfer to third parties of its identity data by which the possible authorization of the user in any part of the Project.</li>
+        	      <li>User agrees not to examine the code.</li>
+        	      <li>The user has the right to perform actions envisaged logic games, use of the technical possibilities to control game objects, items and game sharing values with other users post their messages and read messages from other users, and also share in the game personal messages with other users.</li>
+      	      </ol>
+        	    <h3><strong>5. Users are prohibited from the following::</strong></h3>
+        	    <ol>
+        	      <li>Use Account (game account) of another person, as well as to alienate or otherwise transfer his or acquire, including through the exchange or receive a gift, Account (game account) of another person.</li>
+        	      <li>Use project in any manner that could interfere with the normal functioning of the project.</li>
+        	      <li>Use automated scripts to collect information or other interactions with the objects of Project.</li>
+        	      <li>Use the contact information for the purpose of sending unsolicited information (spam).</li>
+        	      <li>Placing objects in the Project of exclusive rights without the consent of their respective owners.</li>
+        	      <li>To place in the draft personal information of third parties without their consent, including home addresses, phone numbers, passport details.</li>
+        	      <li>To place in the draft commercial advertising, offers, campaign information and any other intrusive information, except in cases where placement of such information in accord with the Administration.</li>
+        	      <li>To place in the draft materials insulting or degrading the honor and dignity of other Users or third parties, or links to such material.</li>
+        	      <li>To place in the draft obscene or abusive words or phrases, including their use in the name of the User.</li>
+        	      <li>To place in the draft malware and links that may or may contain malware.</li>
+        	      <li>To place in the draft pornographic materials or references to them.</li>
+        	      <li>To place in the draft threats, incitement to violence and the commission of unlawful acts.</li>
+        	      <li>To place in the draft materials with elements of violence, cruelty, racial, ethnic or religious hatred, as well as links to such material.</li>
+        	      <li>Promote and demonstrate the Project Nazi attributes and symbols.</li>
+        	      <li>Promote the Project criminal activity, place guidelines for the commission of unlawful acts.</li>
+        	      <li>To place in the draft any other information which, in the opinion of the Administration, is undesirable, it violates the norms of morality and ethics, violates applicable law.</li>
+        	      <li>Perform any other illegal or criminal acts.</li>
+      	      </ol>
+        	    <h3><strong>6. Exclusive rights</strong></h3>
+        	    <ol>
+        	      <li>Exclusive rights to the intellectual property of the Project belong to the project owner. All rights reserved.</li>
+        	      <li>Copyright materials and content posted in the project belong to users who created their rightful owners or otherwise.</li>
+        	      <li>АAdministration provides the user the right to use the Materials other users by viewing, playback (including backup), processing (including printing copies) and other rights - the sole purpose of non-commercial use, unless such use may harm the interests of the right holder, protected by law.</li>
+      	      </ol>
+        	    <h3><strong>7. Websites and third party content</strong></h3>
+        	    <ol>
+        	      <li>The project contains links to other sites on the Internet, as well as programs, photos, video, audio, graphics and text materials belonging to third parties.</li>
+        	      <li>Links to websites or third party materials in the Draft does not imply endorsement, approval or recommendation of those sites or materials administration.</li>
+        	      <li>Administration is not responsible for any third party content posted to the project or to third-party sites accessible by links from the Project, including, but not limited to, any opinions or statements.</li>
+        	      <li>Following links to third-party websites, third party software installation or any other use of the material users to make third parties at your own risk.</li>
+        	      <li>This Agreement shall not apply to any programs, materials or third-party websites.</li>
+      	      </ol>
+        	    <h3><strong>8. Liability of the Parties</strong></h3>
+        	    <ol>
+        	      <li>The user is personally responsible for any material or other information, which he places in the Project or otherwise communicate to the other users, or communicate to the public.</li>
+        	      <li>The user is responsible before the Administration and third parties for failure to comply with the terms of this Agreement.</li>
+        	      <li>User shall indemnify the Administration and third parties any losses incurred in connection with its activities, including, but not limited to a breach of this Agreement, copyright, or other exclusive rights.</li>
+        	      <li>Administration is not responsible in accordance with paragraph 5 of section 2 and paragraph 3 of section 7 of this Agreement.</li>
+        	      <li>Administration is not responsible for the quality and speed of user access to the Internet. For all technical issues related to the provision of communications services, the user should contact your service provider connection.</li>
+        	      <li>Administration is not responsible for any conduct of users or third parties, including but not limited to, theft or destruction or unauthorized access to the Members.</li>
+        	      <li>Administration and Owner of the Project, as well as their representatives under no circumstances be held liable to the users of the project or other third parties for any indirect, incidental, unintentional damage, including but not limited to, lost data, damage to honor, dignity or business reputation, loss benefits arising from the use of the Project, its components and materials, the access to which was obtained by the project, even if the administration does not point to the possibility of such damages.</li>
+        	      <li>The administration is released from liability for complete or partial failure to fulfill obligations under this Agreement if such failure will be the result of force majeure (force majeure), ie extraordinary and unavoidable by the parties under the given conditions, including riots prohibitive actions of the authorities, natural disasters, fires, accidents, and also due to failures in the telecommunications and energy networks, actions of malicious programs, as well as the unscrupulous actions of third parties aimed at tampering or disabling hardware or complex.</li>
+      	      </ol>
+        	    <h3><strong>9.&nbsp;  Support</strong></h3>
+        	    <ol>
+        	      <li>Support is available in electronic format and is available in the Game or email support@xterium.space.
+        	      </li>
+      	      </ol>
+        	    <h3><strong>10. Reservation of Rights</strong></h3>
+        	    <ol>
+        	      <li>All other rights not mentioned explicitly in the Agreement, are reserved to the owner of the project. </li>
+      	        </ol>
+        	    <h3><strong>11. Final Provisions </strong></h3>
+        	    <ol>
+        	      <li>This Agreement is a contract between the owner of the project in the face of administrations and users on the conditions of participation of the User in the game, free use of their opportunities and services Games and use the User accessibility Games on a reimbursable basis. & nbsp; This Agreement shall enter into force upon its adoption by the User and is valid for an indefinite time. </li>
+        	      <li>In the event of a breach by the User to claim 1, Section 5 of this Agreement providing for a ban on the use of the account created by another person, the alienation of their accounts or purchase account created by another person, owner of the project in the face of the Administration shall be entitled to refuse to perform this Agreement unilaterally .</li>
+        	      <li>The issues not covered in this Agreement shall be determined in accordance with the law of the country which is the country of incorporation (establishment) Owner Project (Republic of Belarus). Disputes related to the conclusion, execution and termination of this Agreement shall be resolved in the court of the country, which is & nbsp; country of incorporation (establishment) of the Project Owner, in accordance with the substantive and procedural law of the forum. The User acknowledges that the country in which he is acquainted with the invitation to enter into this Agreement, as well as the country in which it has taken action to conclude this Agreement is the country of incorporation (establishment) of the Project Owner.</li>
+        	      <li>If any provision of this Agreement is invalid or unenforceable, the unenforceable Implemented under the laws of any jurisdiction that does not affect the:<br>
+        	        4.1. validity, legality, the possibility of being forced Implemented in that jurisdiction of the remaining provisions of this Agreement;<br>
+        	          4.2. validity, legality, the possibility of being forced Implemented in any other jurisdiction of all other provisions of this Agreement.<br>
+      	          
+        	      </li>
+        	    </ol>
+        	  </div>
+              </div>
+        	</div>
+          <div class="clear"></div>
+        </div><!--/block_light-->

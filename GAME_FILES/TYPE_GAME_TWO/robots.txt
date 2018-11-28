@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /includes/
+Disallow: /cache/
+Sitemap: https://warofgalaxyz.com/warofgalaxyz.com.xml

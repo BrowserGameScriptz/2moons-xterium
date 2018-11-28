@@ -1,0 +1,17 @@
+Bonjour, {USERNAME}!
+
+Merci de votre inscription dans le jeu {GAMENAME}. Pour terminer l'enregistrement, vous devez activer votre compte.
+
+S'il vous plaît noter que l'activation du compte est nécessaire afin de commencer à jouer. Pour activer le compte cliquez le lien suivant.
+
+{VERTIFYURL}
+
+Vos données:
+
+Nom d'utilisateur: {USERNAME}
+Mot de passe: {PASSWORD}
+
+Si vous avez des problèmes avec l'inscription, vous pouvez contacter l'administration à l'adresse e-mail suivante: {GAMEMAIL}
+
+Sincèrement,
+l'administration {GAMENAME}.

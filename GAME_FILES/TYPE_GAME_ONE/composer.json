@@ -1,0 +1,21 @@
+{
+    "name": "2moons/2moons",
+    "description": "Online browser game.",
+    "type": "project",
+    "require-dev": {
+        "raveren/kint": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jan-Otto Kroëpke",
+            "email": "kroepke@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+	
+	"require": {
+    "statickidz/php-google-translate-free": "^1.0",
+        "sebastianwalker/paysafecard-php-api": "^1.0"
+	}
+}

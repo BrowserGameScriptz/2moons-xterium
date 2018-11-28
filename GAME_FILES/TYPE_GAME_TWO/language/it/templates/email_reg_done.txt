@@ -1,0 +1,9 @@
+Ciao {USERNAME},
+
+Grazie per esserti registrato a {GAMENAME}
+
+Siamo felici che anche tu sei entrato nella nostra community e ti auguriamo di divertirti.
+Le porte dell`universo si spalancheranno per te!
+
+Saluti,
+{GAMENAME} - Team
