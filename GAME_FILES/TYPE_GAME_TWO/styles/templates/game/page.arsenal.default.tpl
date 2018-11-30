@@ -22,7 +22,7 @@
             </div>
        		<div class="content_box">
                 <div class="image">
-                   <img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/up/{$Element.CustomVar}.jpg" alt="{$LNG.tech.$ID}">
+                   <img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/up/{$Element.CustomVar}.jpg" alt="{$LNG.tech.$ID}">
                 </div>
                 <div class="prices">
                 	<div class="price">

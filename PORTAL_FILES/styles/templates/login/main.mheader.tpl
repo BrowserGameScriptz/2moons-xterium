@@ -4,7 +4,7 @@
 		<meta name="msvalidate.01" content="CB06DFA12CAEECB50608780CA7249728" />
         <meta property="og:image" content="images/social.jpg">
        
-	<base href="//www.warofgalaxyz.com/media/">
+	<base href="//www.{$my_game_url}/media/">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>{block name="title"}{/block}</title>
 	<meta name="description" content="{$LNG.main_nav_30}">
@@ -20,16 +20,16 @@
 	<meta name="MobileOptimized" content="370">
 	<meta name="HandheldFriendly" content="true">
 	<link type="image/x-icon" href="images/favicon.ico" rel="shortcut icon">
-	<link href="//static.warofgalaxyz.com/media/css/style.css" rel="stylesheet" type="text/css">      
-	<link href="//static.warofgalaxyz.com/media/css/login.css" rel="stylesheet" type="text/css">      
-    <link rel="image_src" href="//forum.warofgalaxyz.com/public/style_images/master/meta_image.png">
+	<link href="//static.{$my_game_url}/media/css/style.css" rel="stylesheet" type="text/css">      
+	<link href="//static.{$my_game_url}/media/css/login.css" rel="stylesheet" type="text/css">      
+    <link rel="image_src" href="//forum.{$my_game_url}/public/style_images/master/meta_image.png">
 	
-	<script type="text/javascript" src="//static.warofgalaxyz.com/media/js/jquery.js"></script> 
-	<script type="text/javascript" src="//static.warofgalaxyz.com/media/js/jquery.cookie.js"></script> 
-	<script src="//static.warofgalaxyz.com/media/js/ajax.js" type="text/javascript"></script> 
-	<script src="//static.warofgalaxyz.com/media/js/jquery-1.7.1.min.js" type="text/javascript"></script>
-	<script src="//static.warofgalaxyz.com/media/js/validate.min.js" type="text/javascript"></script>
-	<script src="//static.warofgalaxyz.com/media/js/main.js" type="text/javascript"></script>            
+	<script type="text/javascript" src="//static.{$my_game_url}/media/js/jquery.js"></script> 
+	<script type="text/javascript" src="//static.{$my_game_url}/media/js/jquery.cookie.js"></script> 
+	<script src="//static.{$my_game_url}/media/js/ajax.js" type="text/javascript"></script> 
+	<script src="//static.{$my_game_url}/media/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+	<script src="//static.{$my_game_url}/media/js/validate.min.js" type="text/javascript"></script>
+	<script src="//static.{$my_game_url}/media/js/main.js" type="text/javascript"></script>            
 	
 	<script src="https://clientcdn.pushengage.com/core/8553.js"></script>
 	<script>

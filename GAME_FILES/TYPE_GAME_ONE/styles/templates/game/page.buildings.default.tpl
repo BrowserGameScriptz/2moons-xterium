@@ -92,14 +92,14 @@
     			<div id="build_{$ID}" class="build_box {if !$Element.techacc}required{/if}">
             <div class="head">
                 <a href="#" onclick="return Dialog.info({$ID})" class="interrogation">?</a>                
-                <a href="#" onclick="return Dialog.fullControll({$ID});" class="interrogation" style="right:5px;background:url('//static.warofgalaxyz.com/media/gamemedia/media/img/controll.png');"></a>            
+                <a href="#" onclick="return Dialog.fullControll({$ID});" class="interrogation" style="right:5px;background:url('//static.{$my_game_url}/media/gamemedia/media/img/controll.png');"></a>            
                 <a href="#" onclick="return Dialog.info({$ID})" class="title">
                 	{$LNG.tech.{$ID}} {if $Element.level > 0} ({$LNG.bd_lvl} {$Element.level}{if $Element.maxLevel != 255}/{$Element.maxLevel}{/if}){/if}                </a>
             </div>
                         <div class="content_box">
                 <div class="image">
 
-                   <a href="#" onclick="return Dialog.info({$ID})"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$ID}.{if $userID != 10283}gif{else}png{/if}" alt="{$LNG.tech.{$ID}}" /></a>
+                   <a href="#" onclick="return Dialog.info({$ID})"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$ID}.{if $userID != 10283}gif{else}png{/if}" alt="{$LNG.tech.{$ID}}" /></a>
                 </div>
       {if !$Element.techacc}<div class="prices"><div class="price"> {$LNG.Nece}
             </div>  
@@ -112,7 +112,7 @@
 			   {if $NeedLevel.count > $NeedLevel.own}
 			    <div class="required_block  required_smal_text">
            <a href="#" onclick="return Dialog.info({$requireID})" class="tooltip" data-tooltip-content="{$LNG.academy_39}:<br />{$LNG.tech.{$requireID}} lvl.  {$NeedLevel.count} ">
-                    <img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $requireID >=600 && $requireID <= 699}jpg{else}{if $userID != 10283}gif{else}png{/if}{/if}" alt="{$LNG.tech.{$requireID}}">
+                    <img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $requireID >=600 && $requireID <= 699}jpg{else}{if $userID != 10283}gif{else}png{/if}{/if}" alt="{$LNG.tech.{$requireID}}">
                     <div class="text">{$NeedLevel.count}</div>
                 </a>           
         </div>
@@ -195,7 +195,7 @@
                 <table class='tooltip_class_table'>
             	<tr><th colspan='2'><span style='color:#00FF00'>{$LNG.build_destroy}</span><br> {$LNG.tech.{$ID}} {$Element.level}</th></tr>
                 <tr>
-                	<td class='tooltip_class_td_img'><img src='//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$ID}.{if $userID != 10283}gif{else}png{/if}' alt='{$LNG.tech.{$ID}}' /></td>
+                	<td class='tooltip_class_td_img'><img src='//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$ID}.{if $userID != 10283}gif{else}png{/if}' alt='{$LNG.tech.{$ID}}' /></td>
                 	<td class='tooltip_class_table_text_left'>
 					{foreach $Element.destroyResources as $ResType => $ResCount}
                     	                    	<span>{$LNG.tech.{$ResType}}:</span> <span class='tooltip_class_{$ResType}'>{$ResCount|number}</span><br />

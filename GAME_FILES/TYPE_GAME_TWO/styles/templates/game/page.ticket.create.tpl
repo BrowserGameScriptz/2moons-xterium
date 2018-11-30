@@ -13,7 +13,7 @@
     <input name="id" value="0" type="hidden">
         <div class="gray_stripe">
             <label for="category">{$LNG.ti_category}:</label><select id="category" name="category">{html_options options=$categoryList}
-			<option onclick="location.href='https://forum.warofgalaxyz.com/forum/21-suggestions/';">Suggestion ?</option></select>
+			<option onclick="location.href='https://forum.{$my_game_url}/forum/21-suggestions/';">Suggestion ?</option></select>
             <label for="subject" style="margin-left:20px;">{$LNG.ti_subject}:</label> <input id="subject" name="subject" size="40" maxlength="255" type="text">
         </div>
         <textarea placeholder="{$LNG.mg_message}" class="ticket_message_send_text" id="message" name="message" row="60" cols="8" style="height:100px;"></textarea>

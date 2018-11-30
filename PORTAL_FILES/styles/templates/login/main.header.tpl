@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="{$choosen_lang}"><head>
 		
-    <meta property="og:image" content="//static.warofgalaxyz.com/media/images/social.jpg">
-	<base href="//www.warofgalaxyz.com/media/">
+    <meta property="og:image" content="//static.{$my_game_url}/media/images/social.jpg">
+	<base href="//www.{$my_game_url}/media/">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>{block name="title"}{/block}</title>
 	<meta name="description" content="{$LNG.main_nav_30}">
@@ -14,20 +14,20 @@
     <meta name="Expires" content="never" />
     <meta name="robots" content="index,follow" />
     <meta name="Revisit" content="After 14 days" />
-	<link type="image/x-icon" href="//static.warofgalaxyz.com/media/images/favicon.ico" rel="shortcut icon">
-	<link href="//static.warofgalaxyz.com/media/css/style.css" rel="stylesheet" type="text/css">      
+	<link type="image/x-icon" href="//static.{$my_game_url}/media/images/favicon.ico" rel="shortcut icon">
+	<link href="//static.{$my_game_url}/media/css/style.css" rel="stylesheet" type="text/css">      
 	<!-- Include Print CSS -->
-	<link rel="stylesheet" href="//static.warofgalaxyz.com/media/css/print.css" type="text/css" media="print" />
+	<link rel="stylesheet" href="//static.{$my_game_url}/media/css/print.css" type="text/css" media="print" />
 
-    <link rel="image_src" href="//forum.warofgalaxyz.com/public/style_images/master/meta_image.png">
+    <link rel="image_src" href="//forum.{$my_game_url}/public/style_images/master/meta_image.png">
         
                 
-		<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/js/jquery.js"></script> 
-		<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/js/jquery.cookie.js"></script> 
-        {*<script charset="UTF-8" src="//static.warofgalaxyz.com/media/js/ajax.js" type="text/javascript"></script>*}
-        <script charset="UTF-8" src="//static.warofgalaxyz.com/media/js/jquery-1.7.1.min.js" type="text/javascript"></script>
-		<script charset="UTF-8" src="//static.warofgalaxyz.com/media/js/validate.min.js" type="text/javascript"></script>
-        <script charset="UTF-8" src="//static.warofgalaxyz.com/media/js/main.js" type="text/javascript"></script>       
+		<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/js/jquery.js"></script> 
+		<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/js/jquery.cookie.js"></script> 
+        {*<script charset="UTF-8" src="//static.{$my_game_url}/media/js/ajax.js" type="text/javascript"></script>*}
+        <script charset="UTF-8" src="//static.{$my_game_url}/media/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+		<script charset="UTF-8" src="//static.{$my_game_url}/media/js/validate.min.js" type="text/javascript"></script>
+        <script charset="UTF-8" src="//static.{$my_game_url}/media/js/main.js" type="text/javascript"></script>       
 		
 		<script>{if isset($code)}var loginError = {$code|json};{/if}</script>
 		{block name="script"}{/block}	

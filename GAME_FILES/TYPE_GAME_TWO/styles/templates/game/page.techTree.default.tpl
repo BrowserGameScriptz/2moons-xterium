@@ -38,7 +38,7 @@
     	            <div class="record_rows">
             <div class="record_img_utits">
                 <a href="#" onclick="return Dialog.info({$elementID})">
-                	<img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.{if $elementID >=600 && $elementID <= 699}jpg{else}gif{/if}">
+                	<img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.{if $elementID >=600 && $elementID <= 699}jpg{else}gif{/if}">
                 </a>
             </div>
             <div class="record_name_utits">
@@ -50,7 +50,7 @@
 		{foreach $requireList as $requireID => $NeedLevel}
                                 <div class="required_block required_smal_text">
                     <a href="#" onclick="return Dialog.info({$requireID})" class="tooltip" data-tooltip-content="<span style='color:{if $NeedLevel.own < $NeedLevel.count}red{else}lime{/if};'>{$LNG.tech_build}:<br /> {$LNG.tech.$requireID} {$LNG.tt_lvl}  {$NeedLevel.count} ({$NeedLevel.own} / {$NeedLevel.count})</span>">
-                        <img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $requireID >=600 && $requireID <= 699}jpg{else}gif{/if}" alt="{$LNG.tech.$requireID}" />
+                        <img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $requireID >=600 && $requireID <= 699}jpg{else}gif{/if}" alt="{$LNG.tech.$requireID}" />
                         <div class="text" style="color:{if $NeedLevel.own < $NeedLevel.count}red{else}lime{/if};">{$NeedLevel.count}</div>
                     </a>            
                 </div>
@@ -80,7 +80,7 @@
     	            <div class="record_rows">
             <div class="record_img_utits">
                 <a href="#" onclick="return Dialog.info({$elementID})">
-                	<img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.{if $elementID >=600 && $elementID <= 699}jpg{else}gif{/if}">
+                	<img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.{if $elementID >=600 && $elementID <= 699}jpg{else}gif{/if}">
                 </a>
             </div>
             <div class="record_name_utits">
@@ -92,7 +92,7 @@
 		{foreach $requireList as $requireID => $NeedLevel}
                                 <div class="required_block required_smal_text">
                     <a href="#" onclick="return Dialog.info({$requireID})" class="tooltip" data-tooltip-content="<span style='color:{if $NeedLevel.own < $NeedLevel.count}red{else}lime{/if};'>{$LNG.tech_build}:<br /> {$LNG.tech.$requireID} {$LNG.tt_lvl}  {$NeedLevel.count} ({$NeedLevel.own} / {$NeedLevel.count})</span>">
-                        <img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $requireID >=600 && $requireID <= 699}jpg{else}gif{/if}" alt="{$LNG.tech.$requireID}" />
+                        <img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $requireID >=600 && $requireID <= 699}jpg{else}gif{/if}" alt="{$LNG.tech.$requireID}" />
                         <div class="text" style="color:{if $NeedLevel.own < $NeedLevel.count}red{else}lime{/if};">{$NeedLevel.count}</div>
                     </a>            
                 </div>
@@ -119,7 +119,7 @@
     	            <div class="record_rows">
             <div class="record_img_utits">
                 <a href="#" onclick="return Dialog.info({$elementID})">
-                	<img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.{if $elementID >=600 && $elementID <= 699}jpg{else}gif{/if}">
+                	<img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.{if $elementID >=600 && $elementID <= 699}jpg{else}gif{/if}">
                 </a>
             </div>
             <div class="record_name_utits">
@@ -131,7 +131,7 @@
 		{foreach $requireList as $requireID => $NeedLevel}
                                 <div class="required_block required_smal_text">
                     <a href="#" onclick="return Dialog.info({$requireID})" class="tooltip" data-tooltip-content="<span style='color:{if $NeedLevel.own < $NeedLevel.count}red{else}lime{/if};'>{$LNG.tech_build}:<br /> {$LNG.tech.$requireID} {$LNG.tt_lvl}  {$NeedLevel.count} ({$NeedLevel.own} / {$NeedLevel.count})</span>">
-                        <img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $requireID >=600 && $requireID <= 699}jpg{else}gif{/if}" alt="{$LNG.tech.$requireID}" />
+                        <img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $requireID >=600 && $requireID <= 699}jpg{else}gif{/if}" alt="{$LNG.tech.$requireID}" />
                         <div class="text" style="color:{if $NeedLevel.own < $NeedLevel.count}red{else}lime{/if};">{$NeedLevel.count}</div>
                     </a>            
                 </div>
@@ -158,7 +158,7 @@
     	            <div class="record_rows">
             <div class="record_img_utits">
                 <a href="#" onclick="return Dialog.info({$elementID})">
-                	<img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.{if $elementID >=600 && $elementID <= 699}jpg{else}gif{/if}">
+                	<img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.{if $elementID >=600 && $elementID <= 699}jpg{else}gif{/if}">
                 </a>
             </div>
             <div class="record_name_utits">
@@ -170,7 +170,7 @@
 		{foreach $requireList as $requireID => $NeedLevel}
                                 <div class="required_block required_smal_text">
                     <a href="#" onclick="return Dialog.info({$requireID})" class="tooltip" data-tooltip-content="<span style='color:{if $NeedLevel.own < $NeedLevel.count}red{else}lime{/if};'>{$LNG.tech_build}:<br /> {$LNG.tech.$requireID} {$LNG.tt_lvl}  {$NeedLevel.count} ({$NeedLevel.own} / {$NeedLevel.count})</span>">
-                        <img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $requireID >=600 && $requireID <= 699}jpg{else}gif{/if}" alt="{$LNG.tech.$requireID}" />
+                        <img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $requireID >=600 && $requireID <= 699}jpg{else}gif{/if}" alt="{$LNG.tech.$requireID}" />
                         <div class="text" style="color:{if $NeedLevel.own < $NeedLevel.count}red{else}lime{/if};">{$NeedLevel.count}</div>
                     </a>            
                 </div>
@@ -197,7 +197,7 @@
     	            <div class="record_rows">
             <div class="record_img_utits">
                 <a href="#" onclick="return Dialog.info({$elementID})">
-                	<img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.{if $elementID >=600 && $elementID <= 699}jpg{else}gif{/if}">
+                	<img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.{if $elementID >=600 && $elementID <= 699}jpg{else}gif{/if}">
                 </a>
             </div>
             <div class="record_name_utits">
@@ -209,7 +209,7 @@
 		{foreach $requireList as $requireID => $NeedLevel}
                                 <div class="required_block required_smal_text">
                     <a href="#" onclick="return Dialog.info({$requireID})" class="tooltip" data-tooltip-content="<span style='color:{if $NeedLevel.own < $NeedLevel.count}red{else}lime{/if};'>{$LNG.tech_build}:<br /> {$LNG.tech.$requireID} {$LNG.tt_lvl}  {$NeedLevel.count} ({$NeedLevel.own} / {$NeedLevel.count})</span>">
-                        <img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $elementID >=600 && $elementID <= 699}jpg{else}gif{/if}" alt="{$LNG.tech.$requireID}" />
+                        <img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $elementID >=600 && $elementID <= 699}jpg{else}gif{/if}" alt="{$LNG.tech.$requireID}" />
                         <div class="text" style="color:{if $NeedLevel.own < $NeedLevel.count}red{else}lime{/if};">{$NeedLevel.count}</div>
                     </a>            
                 </div>

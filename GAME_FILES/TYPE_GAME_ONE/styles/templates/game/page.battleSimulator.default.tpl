@@ -39,7 +39,7 @@
             <table class="battlesim_table battlesim_table_left">
                 <tbody><tr>
                     <th colspan="2">{$LNG.bs_techno}</th>
-                    <th>{$LNG.bs_atter}<!--<a onclick="window.location = '?page=battleSimulator{if $Mode == 'switchside'}{else}&amp;mode=switchside{/if}';" class="tooltip" data-tooltip-content="{$LNG.pla_attack_8}"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/frecciesim.png" style="margin-left: 5px;width: 12px;height: 12px; " value="{$LNG.pla_attack_8}"></a>--></th>
+                    <th>{$LNG.bs_atter}<!--<a onclick="window.location = '?page=battleSimulator{if $Mode == 'switchside'}{else}&amp;mode=switchside{/if}';" class="tooltip" data-tooltip-content="{$LNG.pla_attack_8}"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/frecciesim.png" style="margin-left: 5px;width: 12px;height: 12px; " value="{$LNG.pla_attack_8}"></a>--></th>
                     <th>{$LNG.bs_deffer}</th>
                 </tr>
                 <tr>
@@ -48,43 +48,43 @@
                     <td><span class="reset">{$LNG.bs_reset}</span></td>
                 </tr>
                 <tr>
-                    <td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/109.gif" alt="{$LNG.tech.109}"></td>
+                    <td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/109.gif" alt="{$LNG.tech.109}"></td>
                     <td class="battlesim_name_ship">{$LNG.tech.109}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.109)}{$battleinput.{$smarty.section.content.index}.0.109}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][109]" type="text"></td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.1.109)}{$battleinput.{$smarty.section.content.index}.1.109}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][1][109]" type="text"></td>
                 </tr> 
                 <tr>
-                    <td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/110.gif" alt="{$LNG.tech.110}"></td>
+                    <td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/110.gif" alt="{$LNG.tech.110}"></td>
                     <td class="battlesim_name_ship">{$LNG.tech.110}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.110)}{$battleinput.{$smarty.section.content.index}.0.110}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][110]" type="text"></td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.1.110)}{$battleinput.{$smarty.section.content.index}.1.110}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][1][110]" type="text"></td>
                 </tr>
                 <tr>
-                    <td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/111.gif" alt="{$LNG.tech.111}"></td>
+                    <td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/111.gif" alt="{$LNG.tech.111}"></td>
                     <td class="battlesim_name_ship">{$LNG.tech.111}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.111)}{$battleinput.{$smarty.section.content.index}.0.111}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][111]" type="text"></td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.1.111)}{$battleinput.{$smarty.section.content.index}.1.111}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][1][111]" type="text"></td>
                 </tr>
                 <tr>
-                    <td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/120.gif" alt="{$LNG.tech.120}"></td>
+                    <td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/120.gif" alt="{$LNG.tech.120}"></td>
                     <td class="battlesim_name_ship">{$LNG.tech.120}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.120)}{$battleinput.{$smarty.section.content.index}.0.120}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][120]" type="text"></td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.1.120)}{$battleinput.{$smarty.section.content.index}.1.120}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][1][120]" type="text"></td>
                 </tr>
                 <tr>
-                    <td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/121.gif" alt="{$LNG.tech.121}"></td>
+                    <td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/121.gif" alt="{$LNG.tech.121}"></td>
                     <td class="battlesim_name_ship">{$LNG.tech.121}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.121)}{$battleinput.{$smarty.section.content.index}.0.121}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][121]" type="text"></td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.1.121)}{$battleinput.{$smarty.section.content.index}.1.121}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][1][121]" type="text"></td>
                 </tr>
                 <tr>
-                    <td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/122.gif" alt="{$LNG.tech.122}"></td>
+                    <td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/122.gif" alt="{$LNG.tech.122}"></td>
                     <td class="battlesim_name_ship">{$LNG.tech.122}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.122)}{$battleinput.{$smarty.section.content.index}.0.122}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][122]" type="text"></td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.1.122)}{$battleinput.{$smarty.section.content.index}.1.122}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][1][122]" type="text"></td>
                 </tr>
                 <tr>
-                    <td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/199.gif" alt="{$LNG.tech.199}"></td>
+                    <td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/199.gif" alt="{$LNG.tech.199}"></td>
                     <td class="battlesim_name_ship">{$LNG.tech.199}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.199)}{$battleinput.{$smarty.section.content.index}.0.199}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][199]" type="text"></td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.1.199)}{$battleinput.{$smarty.section.content.index}.1.199}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][1][199]" type="text"></td>
@@ -96,7 +96,7 @@
                     	{$LNG.lm_academy} 
                         <span style="color:#666; float:right; cursor:pointer;" onclick="$('.battlesim_skils_hiden').toggle();">[{$LNG.raport_2}]</span>
                     </th>
-                   <th>{$LNG.bs_atter}<!--<a onclick="window.location = '?page=battleSimulator{if $Mode == 'switchside'}{else}&amp;mode=switchside{/if}';" class="tooltip" data-tooltip-content="{$LNG.pla_attack_8}"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/frecciesim.png" style="margin-left: 5px;width: 12px;height: 12px; " value="{$LNG.pla_attack_8}"></a>--></th>
+                   <th>{$LNG.bs_atter}<!--<a onclick="window.location = '?page=battleSimulator{if $Mode == 'switchside'}{else}&amp;mode=switchside{/if}';" class="tooltip" data-tooltip-content="{$LNG.pla_attack_8}"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/frecciesim.png" style="margin-left: 5px;width: 12px;height: 12px; " value="{$LNG.pla_attack_8}"></a>--></th>
                     <th>{$LNG.bs_deffer}</th>
                 </tr>
                 <tr>
@@ -106,7 +106,7 @@
                 </tr>
 					<tr>
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1101.jpg" alt="{$LNG.academy_title.1101}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1101.jpg" alt="{$LNG.academy_title.1101}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1101}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1101)}{$battleinput.{$smarty.section.content.index}.0.1101}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1101]" type="text"></td>
@@ -114,7 +114,7 @@
                 </tr>
 					<tr>
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1102.jpg" alt="{$LNG.academy_title.1102}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1102.jpg" alt="{$LNG.academy_title.1102}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1102}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1102)}{$battleinput.{$smarty.section.content.index}.0.1102}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1102]" type="text"></td>
@@ -122,7 +122,7 @@
                 </tr>
                 <tr>
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1103.jpg" alt="{$LNG.academy_19}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1103.jpg" alt="{$LNG.academy_19}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_19}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1103)}{$battleinput.{$smarty.section.content.index}.0.1103}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1103]" type="text"></td>
@@ -130,7 +130,7 @@
                 </tr>
 					<tr>
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1112.jpg" alt="{$LNG.academy_title.1112}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1112.jpg" alt="{$LNG.academy_title.1112}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1112}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1112)}{$battleinput.{$smarty.section.content.index}.0.1112}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1112]" type="text"></td>
@@ -138,14 +138,14 @@
                 </tr>
 					<tr>
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1301.jpg" alt="{$LNG.academy_title.1301}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1301.jpg" alt="{$LNG.academy_title.1301}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1301}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1301)}{$battleinput.{$smarty.section.content.index}.0.1301}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1301]" type="text"></td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.1.1301)}{$battleinput.{$smarty.section.content.index}.1.1301}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][1][1301]" type="text"></td>
                 </tr><tr>
 					<td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1302.jpg" alt="{$LNG.academy_title.1302}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1302.jpg" alt="{$LNG.academy_title.1302}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1302}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1302)}{$battleinput.{$smarty.section.content.index}.0.1302}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1302]" type="text"></td>
@@ -153,7 +153,7 @@
                 </tr> 
 					<tr>
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1303.jpg" alt="{$LNG.academy_title.1303}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1303.jpg" alt="{$LNG.academy_title.1303}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1303}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1303)}{$battleinput.{$smarty.section.content.index}.0.1303}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1303]" type="text"></td>
@@ -161,7 +161,7 @@
                 </tr>
 					 <tr class="battlesim_skils_hiden">
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1304.jpg" alt="{$LNG.academy_title.1304}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1304.jpg" alt="{$LNG.academy_title.1304}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1304}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1304)}{$battleinput.{$smarty.section.content.index}.0.1304}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1304]" type="text"></td>
@@ -169,7 +169,7 @@
                 </tr>
 					<tr class="battlesim_skils_hiden">
 					<td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1305.jpg" alt="{$LNG.academy_title.1305}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1305.jpg" alt="{$LNG.academy_title.1305}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1305}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1305)}{$battleinput.{$smarty.section.content.index}.0.1305}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1305]" type="text"></td>
@@ -177,7 +177,7 @@
                 </tr>
 					<tr class="battlesim_skils_hiden">
 					<td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1306.jpg" alt="{$LNG.academy_title.1306}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1306.jpg" alt="{$LNG.academy_title.1306}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1306}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1306)}{$battleinput.{$smarty.section.content.index}.0.1306}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1306]" type="text"></td>
@@ -185,7 +185,7 @@
                 </tr>
                 <!--<tr>
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1108.jpg" alt="{$LNG.academy_26}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1108.jpg" alt="{$LNG.academy_26}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_26}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1108)}{$battleinput.{$smarty.section.content.index}.0.1108}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1108]" type="text"></td>
@@ -193,7 +193,7 @@
                 </tr>
                 <tr>
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1109.jpg" alt="{$LNG.academy_28}" class="tooltip" data-tooltip-content="Шанс уничтожения дополнительной боевой единицы того же типа без потери урона. Убитых цепной реакцией за раунд не может быть больше чем убитых без неё.">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1109.jpg" alt="{$LNG.academy_28}" class="tooltip" data-tooltip-content="Шанс уничтожения дополнительной боевой единицы того же типа без потери урона. Убитых цепной реакцией за раунд не может быть больше чем убитых без неё.">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_28}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1109)}{$battleinput.{$smarty.section.content.index}.0.1109}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1109]" type="text"></td>
@@ -201,7 +201,7 @@
                 </tr>
                 <tr>
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1110.jpg" alt="{$LNG.academy_30}" class="tooltip" data-tooltip-content="Увеличивает количество уничтоженных единиц при срабатывании цепной реакции. Убитых цепной реакцией не может быть больше чем убитых без неё за раунд. ">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1110.jpg" alt="{$LNG.academy_30}" class="tooltip" data-tooltip-content="Увеличивает количество уничтоженных единиц при срабатывании цепной реакции. Убитых цепной реакцией не может быть больше чем убитых без неё за раунд. ">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_30}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1110)}{$battleinput.{$smarty.section.content.index}.0.1110}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1110]" type="text"></td>
@@ -209,7 +209,7 @@
                 </tr>
                 <tr>
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1111.jpg" alt="{$LNG.academy_35}" class="tooltip" data-tooltip-content="Позволяет сфокусироваться на уже поврежденных целях для их полного уничтожения, а не тратить урон на другие целей. По умолчанию рассеивается 30% урона.">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1111.jpg" alt="{$LNG.academy_35}" class="tooltip" data-tooltip-content="Позволяет сфокусироваться на уже поврежденных целях для их полного уничтожения, а не тратить урон на другие целей. По умолчанию рассеивается 30% урона.">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_35}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1111)}{$battleinput.{$smarty.section.content.index}.0.1111}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1111]" type="text"></td>
@@ -218,7 +218,7 @@
                
                 <tr>
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1308.jpg" alt="{$LNG.academy_title.1308}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1308.jpg" alt="{$LNG.academy_title.1308}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1308}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1308)}{$battleinput.{$smarty.section.content.index}.0.1308}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1308]" type="text"></td>
@@ -226,7 +226,7 @@
                 </tr>
                 <tr class="battlesim_skils_hiden">
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1311.jpg" alt="{$LNG.academy_title.1311}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1311.jpg" alt="{$LNG.academy_title.1311}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1311}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1311)}{$battleinput.{$smarty.section.content.index}.0.1311}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1311]" type="text"></td>
@@ -235,7 +235,7 @@
                 
                 <tr class="battlesim_skils_hiden">
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1113.jpg" alt="{$LNG.academy_37}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1113.jpg" alt="{$LNG.academy_37}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_37}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1113)}{$battleinput.{$smarty.section.content.index}.0.1113}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1113]" type="text"></td>
@@ -244,7 +244,7 @@
                
                <tr class="battlesim_skils_hiden">
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1312.jpg" alt="{$LNG.academy_title.1312}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1312.jpg" alt="{$LNG.academy_title.1312}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1312}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1312)}{$battleinput.{$smarty.section.content.index}.0.1312}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1312]" type="text"></td>
@@ -252,7 +252,7 @@
                 </tr>
                 <tr class="battlesim_skils_hiden">
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1313.jpg" alt="{$LNG.academy_title.1313}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1313.jpg" alt="{$LNG.academy_title.1313}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1313}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1313)}{$battleinput.{$smarty.section.content.index}.0.1313}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1313]" type="text"></td>
@@ -260,7 +260,7 @@
                 </tr>
                 <tr class="battlesim_skils_hiden">
                     <td class="battlesim_img_ship">
-                    	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/1314.jpg" alt="{$LNG.academy_title.1314}">
+                    	<img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/1314.jpg" alt="{$LNG.academy_title.1314}">
                     </td>
                     <td class="battlesim_name_ship">{$LNG.academy_title.1314}</td>
                     <td><input size="10" value="{if isset($battleinput.{$smarty.section.content.index}.0.1314)}{$battleinput.{$smarty.section.content.index}.0.1314}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][0][1314]" type="text"></td>
@@ -271,7 +271,7 @@
             <table class="battlesim_table battlesim_table_left">
                 <tbody><tr>
                     <th colspan="2">{$LNG.bs_names}</th>
-					<th>{$LNG.bs_atter}<!--<a onclick="window.location = '?page=battleSimulator{if $Mode == 'switchside'}{else}&amp;mode=switchside{/if}';" class="tooltip" data-tooltip-content="{$LNG.pla_attack_8}"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/frecciesim.png" style="margin-left: 5px;width: 12px;height: 12px; " value="{$LNG.pla_attack_8}">--></a></th>
+					<th>{$LNG.bs_atter}<!--<a onclick="window.location = '?page=battleSimulator{if $Mode == 'switchside'}{else}&amp;mode=switchside{/if}';" class="tooltip" data-tooltip-content="{$LNG.pla_attack_8}"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/frecciesim.png" style="margin-left: 5px;width: 12px;height: 12px; " value="{$LNG.pla_attack_8}">--></a></th>
 					<th>{$LNG.bs_deffer}</th>
                 </tr>
                 <tr>
@@ -281,7 +281,7 @@
                 </tr>
                                {foreach $fleetList as $id}     
 									<tr>
-                	<td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$id}.gif" alt="{$LNG.tech.$id}"></td>
+                	<td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$id}.gif" alt="{$LNG.tech.$id}"></td>
                     <td class="battlesim_name_ship">{if $id == 224 || $id == 229 || $id == 230}<span style="color:#32CD32">{$LNG.tech.$id}</span>{else}{$LNG.tech.$id}{/if}</td>
                     <td>
 					{if $id != 212}
@@ -304,7 +304,7 @@
                 </tr>
 				{foreach $defensiveList as $id}
                                                 <tr>
-                	<td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$id}.gif" alt="{$LNG.tech.$id}"></td>
+                	<td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$id}.gif" alt="{$LNG.tech.$id}"></td>
                     <td class="battlesim_name_ship">{if $id == 420 || $id == 421 || $id == 422}<span style="color:#32CD32">{$LNG.tech.$id}</span>{else}{$LNG.tech.$id}{/if}</td>
                     <td><input class="fleetDefCountBS" size="10" value="{if isset($battleinput.{$smarty.section.content.index}.1.$id)}{$battleinput.{$smarty.section.content.index}.1.$id}{else}0{/if}" name="battleinput[{$smarty.section.content.index}][1][{$id}]" type="text"></td>
                 </tr>{/foreach}

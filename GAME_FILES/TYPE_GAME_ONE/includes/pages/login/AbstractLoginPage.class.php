@@ -121,6 +121,7 @@ abstract class AbstractLoginPage
 			'REV'					=> substr($config->VERSION, -4),
 			'languages'				=> Language::getAllowedLangs(false),
 			'ShowMode'				=> $ShowMode,
+			'my_game_url'			=> 'MYGAMEURL.COM'; //without https or www
 		));
 	}
 	

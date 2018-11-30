@@ -16,7 +16,7 @@
 	<link type="image/x-icon" href="images/favicon.ico" rel="shortcut icon">
 	<link href="css/style.css" rel="stylesheet" type="text/css">      
 
-    <link rel="image_src" href="//forum.warofgalaxyz.com/public/style_images/master/meta_image.png">
+    <link rel="image_src" href="//forum.{$my_game_url}/public/style_images/master/meta_image.png">
         
                 
 		<script charset="UTF-8" type="text/javascript" src="js/jquery.js"></script> 

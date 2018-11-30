@@ -2,7 +2,7 @@
 		  <div id="header">
               <div id="top_nav" class="otopnav">
                  
-				 <a title="{$LNG.lm_overview}" href="game.php?page=overview"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/logoxterium.png" class="logoxterium"></a>
+				 <a title="{$LNG.lm_overview}" href="game.php?page=overview"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/logoxterium.png" class="logoxterium"></a>
 				 <div style="display:none;">					
 				  <select id="lstPlaneta" name="lstPlaneta" onchange="document.location = $(this).val();">
 				 {html_options options=$PlanetSelect selected=$current_pids}
@@ -16,7 +16,7 @@
                     
                     <div id="planet_select" style="margin: auto;left: 0;right: 0;top:46px;">
 					<div class="active_panet">
-				    <div class="name_palnet" style="padding-left: 1px;width: 96px;"><img src='//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/small/s_{$planetImage}.png' style="float:left;height: 22px;padding-top:3px;margin-right: 5px;">{$planetName}</div> 
+				    <div class="name_palnet" style="padding-left: 1px;width: 96px;"><img src='//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/small/s_{$planetImage}.png' style="float:left;height: 22px;padding-top:3px;margin-right: 5px;">{$planetName}</div> 
 					<span class="ico_build"></span>                            
 					<div class="coordinates_palnet">[{$planetGalaxy}:{$planetSystem}:{$planetPlanet}]</div>
 					<div class="clear"></div>
@@ -27,30 +27,30 @@
                      
                             <div class="palnet_row {if $current_pid == $ID}active_palnet_row{/if}">
 							<div class="fleet_indicators">
-                                	<img id="{$ID}m1" {if $Element.totalAttacks == 0}style="display:none;"{/if} src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/p_select_attack.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_1}" />                                    
-                                    <img id="{$ID}m12" style="display:none;" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/p_select_grab.png" alt="" class="tooltip" data-tooltip-content="Планету захватывают" />
-                                    <img id="{$ID}m6" {if $Element.totalSpio == 0}style="display:none;"{/if} src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/p_select_spio.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_2}" />
-                                    <img id="{$ID}m10" {if $Element.totalRockets == 0}style="display:none;"{/if} src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/p_select_rocket.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_3}" />
+                                	<img id="{$ID}m1" {if $Element.totalAttacks == 0}style="display:none;"{/if} src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/p_select_attack.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_1}" />                                    
+                                    <img id="{$ID}m12" style="display:none;" src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/p_select_grab.png" alt="" class="tooltip" data-tooltip-content="Планету захватывают" />
+                                    <img id="{$ID}m6" {if $Element.totalSpio == 0}style="display:none;"{/if} src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/p_select_spio.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_2}" />
+                                    <img id="{$ID}m10" {if $Element.totalRockets == 0}style="display:none;"{/if} src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/p_select_rocket.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_3}" />
                                      {if $Element.luna !=0}  
-                                    <img id="{$Element.luna}m1" {if $Element.totalAttackLuna == 0}style="display:none;"{/if} src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/p_select_moon_attack.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_4}" />
-                                    <img id="{$Element.luna}m6" {if $Element.totalRocketsLuna == 0}style="display:none;"{/if} src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/p_select_moon_spio.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_5}" />       
-                                    <img id="{$Element.luna}m9" style="display:none;" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/p_select_destrued.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_6}" />
-                                    <img id="{$Element.luna}m10" {if $Element.totalSpioLuna == 0}style="display:none;"{/if} src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/p_select_moon_rocket.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_7}" />                         
+                                    <img id="{$Element.luna}m1" {if $Element.totalAttackLuna == 0}style="display:none;"{/if} src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/p_select_moon_attack.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_4}" />
+                                    <img id="{$Element.luna}m6" {if $Element.totalRocketsLuna == 0}style="display:none;"{/if} src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/p_select_moon_spio.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_5}" />       
+                                    <img id="{$Element.luna}m9" style="display:none;" src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/p_select_destrued.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_6}" />
+                                    <img id="{$Element.luna}m10" {if $Element.totalSpioLuna == 0}style="display:none;"{/if} src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/p_select_moon_rocket.png" alt="" class="tooltip" data-tooltip-content="{$LNG.pla_attack_7}" />                         
 									{/if}
                                     <div class="clear"></div>
 						   </div>
 						   
                             	<span class="{if $current_pid == $ID}active_urlpalnet{else}urlpalnet{/if}" url="cp={$ID}">
-								<img src='//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/small/s_{$Element.image}.png' style="float:left;height: 22px;padding-top: 5px;">
+								<img src='//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/small/s_{$Element.image}.png' style="float:left;height: 22px;padding-top: 5px;">
                                 <span class="name_palnet"  style="padding-top: 5px;padding-left: 5px;width: 70px; {if $Element.last_relocate == 0}color:#ff5252 !important;"{elseif $Element.isGal6Mod == 1}color:#f7fe2e !important;"{/if}">{$Element.name}</span>
                                   
 
 								  <span class="ico_build">
 								  {if $Element.buildInfo.buildings}
-                                                                        	<img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/p_select_build.png" alt="" class="tooltip" data-tooltip-content="
+                                                                        	<img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/p_select_build.png" alt="" class="tooltip" data-tooltip-content="
                                         <table class='reducefleet_table'>
                                             <tr>
-                                            <td rowspan='2'><img alt='' src='//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$Element.buildInfo.buildings['id']}.gif' width='35' height='35'></td>
+                                            <td rowspan='2'><img alt='' src='//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$Element.buildInfo.buildings['id']}.gif' width='35' height='35'></td>
                                             <td>{$LNG.tech[$Element.buildInfo.buildings['id']]} ({$Element.buildInfo.buildings['level']|number})</td>
                                             </tr>
                                             <tr><td>{pretty_time($Element.buildInfo.buildings['timeleft'])} </td></tr>
@@ -58,10 +58,10 @@
                                         " />
 										{/if}
 										{if $Element.buildInfo.fleet}
-                                             <img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/p_select_ship.png" alt="" class="tooltip" data-tooltip-content="
+                                             <img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/p_select_ship.png" alt="" class="tooltip" data-tooltip-content="
                                         <table class='reducefleet_table'>
                                             <tr>
-                                            <td rowspan='2'><img alt='' src='//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$Element.buildInfo.fleet['id']}.gif' width='35' height='35'></td>
+                                            <td rowspan='2'><img alt='' src='//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$Element.buildInfo.fleet['id']}.gif' width='35' height='35'></td>
                                             <td>{$LNG.tech[$Element.buildInfo.fleet['id']]}</td>
                                             </tr>
                                             <tr><td>{$Element.buildInfo.fleet['level']|number}</td></tr>
@@ -69,10 +69,10 @@
                                         " /> 
 										{/if}
 										{if $Element.buildInfo.tech}
-																			<img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/p_select_tech.png" alt="" class="tooltip" data-tooltip-content="
+																			<img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/p_select_tech.png" alt="" class="tooltip" data-tooltip-content="
                                         <table class='reducefleet_table'>
                                             <tr>
-                                            <td rowspan='2'><img alt='' src='//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$Element.buildInfo.tech['id']}.gif' width='35' height='35'></td>
+                                            <td rowspan='2'><img alt='' src='//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$Element.buildInfo.tech['id']}.gif' width='35' height='35'></td>
                                             <td>{$LNG.tech[$Element.buildInfo.tech['id']]} ({$Element.buildInfo.tech['level']|number})</td>
                                             </tr>
                                             <tr><td>{pretty_time($Element.buildInfo.tech['timeleft'])} </td></tr>
@@ -157,15 +157,15 @@
 			
 			 <div class="antimateria" id="res_block_antimatter"> <span class="tooltip_sticky" data-tooltip-content="
                     	<span class='p_res'>{$LNG.tech.922}</span><div style='border-bottom:1px dashed #666; margin:7px 0 4px 0;'></div>
-                    	<a class='nuovomenusinistra' href='game.php?page=trader&amp;mode=obmen' style='width: 65px;float: left;'><img src='//static.warofgalaxyz.com/media/gamemedia/styles/images/amvsdm.png' style='margin-top:-3px;'></a>
-                    	{*<a class='nuovomenusinistra' href='game.php?page=trader&amp;mode=honor' style='width: 65px;float: left;'><img src='//static.warofgalaxyz.com/media/gamemedia/styles/images/amvshonor.png' style='margin-top:-3px;'></a>*}
+                    	<a class='nuovomenusinistra' href='game.php?page=trader&amp;mode=obmen' style='width: 65px;float: left;'><img src='//static.{$my_game_url}/media/gamemedia/styles/images/amvsdm.png' style='margin-top:-3px;'></a>
+                    	{*<a class='nuovomenusinistra' href='game.php?page=trader&amp;mode=honor' style='width: 65px;float: left;'><img src='//static.{$my_game_url}/media/gamemedia/styles/images/amvshonor.png' style='margin-top:-3px;'></a>*}
                         <a class='oamlink' href='game.php?page=donation' style='width: 65px;float: left;'>{$LNG.top_purchase}</a>
                         <div style='border-bottom:1px dashed #666; margin:35px 0 4px 0;'></div> <span style='color:#999'>{$LNG.top_avaibel}: {$antimatter|number}</span>" id="current_antimatter">{$antimatter|number}<span class="antimg"></span>
                     </span></div>
 					  
            <div class="materiaoscura" id="res_block_darkmatter">  <span class="tooltip_sticky" data-tooltip-content="
                     	<span class='p_res'>{$LNG.tech.921}</span><div style='border-bottom:1px dashed #666; margin:7px 0 4px 0;'></div>
-                    	<a class='tooltip_class_a_bigbtn' href='game.php?page=trader&mode=tradetm'><img src='//static.warofgalaxyz.com/media/gamemedia/styles/images/dmvsresources.png' style='margin-top:-2px;'></a>
+                    	<a class='tooltip_class_a_bigbtn' href='game.php?page=trader&mode=tradetm'><img src='//static.{$my_game_url}/media/gamemedia/styles/images/dmvsresources.png' style='margin-top:-2px;'></a>
                         <div style='border-bottom:1px dashed #666; margin:7px 0 4px 0;'></div> <span style='color:#999'>{$LNG.top_avaibel}: {$darkmatter|number}</span>" id="current_darkmatter" name="">{$darkmatter|number}
                     </span><span class="darkimg"></span></div>
 			

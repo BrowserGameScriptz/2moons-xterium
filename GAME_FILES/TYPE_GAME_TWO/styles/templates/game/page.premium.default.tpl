@@ -16,7 +16,7 @@
                 <span id="open_btn_box" class="prem_open_btn">+</span>
             </div>
          	<div id="box_box" class="content_box">   
-            	<img class="pren_img" alt="{$LNG.premium_14}" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_box.jpg">
+            	<img class="pren_img" alt="{$LNG.premium_14}" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_box.jpg">
                 <form action="game.php?page=premium" method="post">
                 <input name="mode" value="buybox" type="hidden">
             	<div class="content_form">	                	
@@ -40,7 +40,7 @@
 			</div>	
            	<div id="box_prem_res" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_res.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_res.jpg">
                 	<input name="item" value="prem_res" type="hidden">
 					{if !empty($prem_res_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_res')" data-tooltip-content="{$LNG.premium_62}">⇓</span>{/if}  
             	               		<div class="content_form">
@@ -75,7 +75,7 @@
 			</div>	
            	<div id="box_prem_storage" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_storage.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_storage.jpg">
                 	<input name="item" value="prem_storage" type="hidden">
 					{if !empty($prem_storage_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_storage')" data-tooltip-content="{$LNG.premium_62}">⇓</span>  {/if}
             	               		<div class="content_form">
@@ -110,7 +110,7 @@
 			</div>	
            	<div id="box_prem_s_build" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_s_build.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_s_build.jpg">
                 	<input name="item" value="prem_s_build" type="hidden">
 					{if !empty($prem_s_build_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_s_build')" data-tooltip-content="{$LNG.premium_62}">⇓</span> {/if} 
             	               		<div class="content_form">
@@ -145,7 +145,7 @@
 			</div>	
            	<div id="box_prem_o_build" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_o_build.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_o_build.jpg">
                 	<input name="item" value="prem_o_build" type="hidden">
 					{if !empty($prem_o_build_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_o_build')" data-tooltip-content="{$LNG.premium_62}">⇓</span> {/if} 
             	               		<div class="content_form">
@@ -180,7 +180,7 @@
 			</div>	
            	<div id="box_prem_fuel_consumption" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_fuel_consumption.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_fuel_consumption.jpg">
                 	<input name="item" value="prem_fuel_consumption" type="hidden">
 					{if !empty($prem_fuel_consumption_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_fuel_consumption')" data-tooltip-content="{$LNG.premium_62}">⇓</span>  {/if}
             	               		<div class="content_form">
@@ -216,7 +216,7 @@
 			</div>	
            	<div id="box_prem_prime_units" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_prime_units.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_prime_units.jpg">
                 	<input name="item" value="prem_prime_units" type="hidden">
 					{if !empty($prem_prime_units_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_prime_units')" data-tooltip-content="{$LNG.premium_62}">⇓</span> {/if} 
             	               		<div class="content_form">
@@ -247,7 +247,7 @@
 			</div>	
            	<div id="box_prem_button" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_button.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_button.jpg">
                 	<input name="item" value="prem_button" type="hidden">
 					{if !empty($prem_button_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_button')" data-tooltip-content="{$LNG.premium_62}">⇓</span>  {/if}
             	               		<div class="content_form">
@@ -282,7 +282,7 @@
 			</div>	
            	<div id="box_prem_speed_button" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_speed_button.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_speed_button.jpg">
                 	<input name="item" value="prem_speed_button" type="hidden">
 					{if !empty($prem_speed_button_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_speed_button')" data-tooltip-content="{$LNG.premium_62}">⇓</span> {/if}
             	               		<div class="content_form">
@@ -317,7 +317,7 @@
 			</div>	
            	<div id="box_prem_expedition" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_expedition.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_expedition.jpg">
                 	<input name="item" value="prem_expedition" type="hidden">
 					{if !empty($prem_expedition_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_expedition')" data-tooltip-content="{$LNG.premium_62}">⇓</span>  {/if}
             	               		<div class="content_form">
@@ -352,7 +352,7 @@
 			</div>	
            	<div id="box_prem_count_expiditeon" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_count_expiditeon.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_count_expiditeon.jpg">
                 	<input name="item" value="prem_count_expiditeon" type="hidden">
 					{if !empty($prem_count_expiditeon_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_count_expiditeon')" data-tooltip-content="{$LNG.premium_62}">⇓</span>{/if} 
             	               		<div class="content_form">
@@ -387,7 +387,7 @@
 			</div>	
            	<div id="box_prem_speed_expiditeon" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_speed_expiditeon.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_speed_expiditeon.jpg">
                 	<input name="item" value="prem_speed_expiditeon" type="hidden">
 					{if !empty($prem_speed_expiditeon_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_speed_expiditeon')" data-tooltip-content="{$LNG.premium_62}">⇓</span>  {/if}
             	               		<div class="content_form">
@@ -422,7 +422,7 @@
 			</div>	
            	<div id="box_prem_moon_dextruct" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_moon_dextruct.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_moon_dextruct.jpg">
                 	<input name="item" value="prem_moon_dextruct" type="hidden">
 					{if !empty($prem_moon_dextruct_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_moon_dextruct')" data-tooltip-content="{$LNG.premium_62}">⇓</span> {/if} 
             	               		<div class="content_form">
@@ -457,7 +457,7 @@
 			</div>	
            	<div id="box_prem_leveling" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_leveling.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_leveling.jpg">
                 	<input name="item" value="prem_leveling" type="hidden">
 					{if !empty($prem_leveling_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_leveling')" data-tooltip-content="{$LNG.premium_62}">⇓</span>  {/if}
             	               		<div class="content_form">
@@ -492,7 +492,7 @@
 			</div>	
            	<div id="box_prem_batle_leveling" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_batle_leveling.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_batle_leveling.jpg">
                 	<input name="item" value="prem_batle_leveling" type="hidden">
 					{if !empty($prem_batle_leveling_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_batle_leveling')" data-tooltip-content="{$LNG.premium_62}">⇓</span>{/if}  
             	               		<div class="content_form">
@@ -527,7 +527,7 @@
 			</div>	
            	<div id="box_prem_bank_ally" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_bank_ally.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_bank_ally.jpg">
                 	<input name="item" value="prem_bank_ally" type="hidden">
 					{if !empty($prem_bank_ally_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_bank_ally')" data-tooltip-content="{$LNG.premium_62}">⇓</span>  {/if}
             	               		<div class="content_form">
@@ -562,7 +562,7 @@
 			</div>	
            	<div id="box_prem_conveyors_l" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_conveyors_l.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_conveyors_l.jpg">
                 	<input name="item" value="prem_conveyors_l" type="hidden">
 					{if !empty($prem_conveyors_l_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_conveyors_l')" data-tooltip-content="{$LNG.premium_62}">⇓</span> {/if} 
             	               		<div class="content_form">
@@ -597,7 +597,7 @@
 			</div>	
            	<div id="box_prem_conveyors_s" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_conveyors_s.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_conveyors_s.jpg">
                 	<input name="item" value="prem_conveyors_s" type="hidden">
 					{if !empty($prem_conveyors_s_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_conveyors_s')" data-tooltip-content="{$LNG.premium_62}">⇓</span> {/if}
             	               		<div class="content_form">
@@ -632,7 +632,7 @@
 			</div>	
            	<div id="box_prem_conveyors_t" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_conveyors_t.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_conveyors_t.jpg">
                 	<input name="item" value="prem_conveyors_t" type="hidden">
 					{if !empty($prem_conveyors_t_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_conveyors_t')" data-tooltip-content="{$LNG.premium_62}">⇓</span>  {/if}
             	               		<div class="content_form">
@@ -668,7 +668,7 @@
 			</div>	
            	<div id="box_prem_prod_from_colly" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_prod_from_colly.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_prod_from_colly.jpg">
                 	<input name="item" value="prem_prod_from_colly" type="hidden">
 					{if !empty($prem_prod_from_colly_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_prod_from_colly')" data-tooltip-content="{$LNG.premium_62}">⇓</span>  {/if}
             	               		<div class="content_form">
@@ -703,7 +703,7 @@
 			</div>	
            	<div id="box_prem_moon_creat" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_moon_creat.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_moon_creat.jpg">
                 	<input name="item" value="prem_moon_creat" type="hidden">
 					{if !empty($prem_moon_creat_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_moon_creat')" data-tooltip-content="{$LNG.premium_62}">⇓</span>  {/if}
             	               		<div class="content_form">
@@ -739,7 +739,7 @@
 			</div>	
            	<div id="box_prem_transate_player" class="content_box">
             	<form action="game.php?page=premium" method="post">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/prem_transate_player.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/prem_transate_player.jpg">
                 	<input name="item" value="prem_transate_player" type="hidden">
 					{if !empty($prem_transate_player_days)}<span class="tooltip prem_reset" onclick="resetBonus('prem_transate_player')" data-tooltip-content="{$LNG.premium_62}">⇓</span> {/if} 
             	               		<div class="content_form">
@@ -767,7 +767,7 @@
                 <span id="open_btn_stardust" class="prem_open_btn">+</span>
             </div>
          	<div id="box_stardust" class="content_box" style="display: none;">   
-            	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/stardust.jpg">
+            	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/stardust.jpg">
                 <form action="game.php?page=premium" method="post">
                 <input name="mode" value="buystardust" type="hidden">
             	<div class="content_form">	                	

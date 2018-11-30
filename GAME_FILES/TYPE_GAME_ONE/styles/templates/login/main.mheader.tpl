@@ -1,7 +1,7 @@
 <html lang="en"><head>
 
        
-	<base href="//www.warofgalaxyz.com/media/">
+	<base href="//www.{$my_game_url}/media/">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>{block name="title"}{/block}</title>
 	<meta name="description" content="{$LNG.main_nav_30}">
@@ -20,7 +20,7 @@
 		<link href="css/style.css" rel="stylesheet" type="text/css">      
 	<link href="css/login.css" rel="stylesheet" type="text/css">      
 
-    <link rel="image_src" href="//forum.warofgalaxyz.com/public/style_images/master/meta_image.png">
+    <link rel="image_src" href="//forum.{$my_game_url}/public/style_images/master/meta_image.png">
         
                 
       <script type="text/javascript" src="js/jquery.js"></script> 

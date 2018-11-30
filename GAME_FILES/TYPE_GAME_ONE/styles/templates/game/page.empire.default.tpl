@@ -219,7 +219,7 @@
              imper_{if $planetRow.isAlliancePlanet != 0}all_planet{elseif $planetRow.isgal6module == 1}pg2{elseif $planetRow.type == 1}planet{else}moon{/if}
                     ">
        <div class="imper_block_vertical">           
-            <div class="imper_block_image" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/small/s_{$planetRow.image}.png);">
+            <div class="imper_block_image" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/small/s_{$planetRow.image}.png);">
                 <div class="gradient_block_image"></div>
                 <div class="imper_block_info_text"><a href="game.php?page=overview&amp;cp={$planetRow.id}">{$planetRow.name}</a></div>
                 <div class="imper_block_info_text">

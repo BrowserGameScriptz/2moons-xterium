@@ -13,7 +13,7 @@
 		
 		{foreach $FleetsOnPlanetBattle as $FleetRow}
                         <tr class="fl_fllets_rows">
-            <td class="fl_fllets_rows_img_td"><a href="#" onclick="return Dialog.info({$FleetRow.id})"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$FleetRow.id}.gif" alt="{$LNG.tech.{$FleetRow.id}}"></a></td>
+            <td class="fl_fllets_rows_img_td"><a href="#" onclick="return Dialog.info({$FleetRow.id})"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$FleetRow.id}.gif" alt="{$LNG.tech.{$FleetRow.id}}"></a></td>
             <td> {if $FleetRow.speed != 0}<span class="tooltip" data-tooltip-content="{$LNG.fl_speed_title} {$FleetRow.speed}" style="cursor:help;">{$LNG.tech.{$FleetRow.id}}</span>{else}{$LNG.tech.{$FleetRow.id}}{/if}</td>
             <td id="ship{$FleetRow.id}_value">{$FleetRow.count|number}</td>
             <td class="fl_fllets_rows_input_td">
@@ -37,7 +37,7 @@
         </tr>{/if}
                        {foreach $FleetsOnPlanetTransport as $FleetRow}
                         <tr class="fl_fllets_rows">
-            <td class="fl_fllets_rows_img_td"><a href="#" onclick="return Dialog.info({$FleetRow.id})"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$FleetRow.id}.gif" alt="{$LNG.tech.{$FleetRow.id}}"></a></td>
+            <td class="fl_fllets_rows_img_td"><a href="#" onclick="return Dialog.info({$FleetRow.id})"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$FleetRow.id}.gif" alt="{$LNG.tech.{$FleetRow.id}}"></a></td>
             <td> {if $FleetRow.speed != 0}<span class="tooltip" data-tooltip-content="{$LNG.fl_speed_title} {$FleetRow.speed}" style="cursor:help;">{$LNG.tech.{$FleetRow.id}}</span>{else}{$LNG.tech.{$FleetRow.id}}{/if}</td>
             <td id="ship{$FleetRow.id}_value">{$FleetRow.count|number}</td>
             <td class="fl_fllets_rows_input_td">
@@ -61,7 +61,7 @@
         </tr>{/if}
                        {foreach $FleetsOnPlanetProcessorcs as $FleetRow}
                         <tr class="fl_fllets_rows">
-            <td class="fl_fllets_rows_img_td"><a href="#" onclick="return Dialog.info({$FleetRow.id})"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$FleetRow.id}.gif" alt="{$LNG.tech.{$FleetRow.id}}"></a></td>
+            <td class="fl_fllets_rows_img_td"><a href="#" onclick="return Dialog.info({$FleetRow.id})"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$FleetRow.id}.gif" alt="{$LNG.tech.{$FleetRow.id}}"></a></td>
             <td> {if $FleetRow.speed != 0}<span class="tooltip" data-tooltip-content="{$LNG.fl_speed_title} {$FleetRow.speed}" style="cursor:help;">{$LNG.tech.{$FleetRow.id}}</span>{else}{$LNG.tech.{$FleetRow.id}}{/if}</td>
             <td id="ship{$FleetRow.id}_value">{$FleetRow.count|number}</td>
             <td class="fl_fllets_rows_input_td">

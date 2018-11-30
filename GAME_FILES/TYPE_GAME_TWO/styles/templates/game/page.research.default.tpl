@@ -88,7 +88,7 @@
             </div>
                         <div class="content_box">
                 <div class="image">
-                   <a href="#" onclick="return Dialog.info({$ID})"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$ID}.gif" alt="{$LNG.tech.{$ID}}" /></a>
+                   <a href="#" onclick="return Dialog.info({$ID})"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$ID}.gif" alt="{$LNG.tech.{$ID}}" /></a>
                 </div>
       {if !$Element.techacc}<div class="prices"><div class="price"> {$LNG.Nece}
             </div>  

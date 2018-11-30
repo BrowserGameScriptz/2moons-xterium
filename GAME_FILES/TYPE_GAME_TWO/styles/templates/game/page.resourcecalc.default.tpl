@@ -41,7 +41,7 @@
                                   {foreach $elementId as $id}
                                                 <tr>
                     <td></td>                            
-                	<td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$id}.gif" alt="{$LNG.tech.$id}"></td>
+                	<td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$id}.gif" alt="{$LNG.tech.$id}"></td>
                     <td class="battlesim_name_ship">{if $id == 420 || $id == 421 || $id == 422|| $id == 224|| $id == 229|| $id == 230}<span style="color:#32CD32">{$LNG.tech.$id}</span>{else}{$LNG.tech.$id}{/if}</td>
                     {if $options < 200}<td><input class="fleetDefCountBS" id="s{$id}" size="10" value="0" onBlur="chkval(this)" onKeyUp="chkint(this);berechne('{$id}');" type="text"></td>{/if}
                     <td><input class="fleetDefCountBS" id="i{$id}" size="10" value="0" onBlur="chkval(this)" onKeyUp="chkint(this);berechne('{$id}');" type="text"></td>

@@ -29,10 +29,10 @@
                     <img src="userpic.php?id={$userID}" alt="" id="userpic" height="95" width="590">
                     <br><br>
                     <table style="width:100%;"><tbody><tr><td class="transparent">HTML:</td><td class="transparent">
-                        <input value="<a href=&quot;https://warofgalaxyz.com/{if $ref_active}index.php?page=register&referralID={$userID}{/if}&quot;><img src=&quot;https://play.warofgalaxyz.com/userpic.php?id={$userID}&quot;></a>" readonly="readonly" style="width:550px;" type="text">
+                        <input value="<a href=&quot;https://warofgalaxyz.com/{if $ref_active}index.php?page=register&referralID={$userID}{/if}&quot;><img src=&quot;https://play.{$my_game_url}/userpic.php?id={$userID}&quot;></a>" readonly="readonly" style="width:550px;" type="text">
                     </td></tr>
                     <tr><td class="transparent">BBCode:</td><td class="transparent">
-                        <input value="[url=https://warofgalaxyz.com/{if $ref_active}index.php?page=register&referralID={$userID}{/if}][img]https://play.warofgalaxyz.com/userpic.php?id={$userID}[/img][/url]"" readonly="readonly" style="width:550px;" type="text">
+                        <input value="[url=https://warofgalaxyz.com/{if $ref_active}index.php?page=register&referralID={$userID}{/if}][img]https://play.{$my_game_url}/userpic.php?id={$userID}[/img][/url]"" readonly="readonly" style="width:550px;" type="text">
                     </td></tr>                
                 </tbody></table>
                 </div>

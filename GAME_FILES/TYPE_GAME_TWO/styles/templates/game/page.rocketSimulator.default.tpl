@@ -17,10 +17,10 @@
                     <th></th>
                 </tr>
                 <tr>
-                    <td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/503.gif" alt="{$LNG.tech.503}"></td>
+                    <td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/503.gif" alt="{$LNG.tech.503}"></td>
                     <td class="battlesim_name_ship">{$LNG.tech.503}</td>
                     <td><input class="countdots fl_fllets_rows_input_countdots" size="10" value="{$totalMissiles|number}" name="missile503" type="text"></td>
-					<td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/502.gif" alt="{$LNG.tech.502}"></td>
+					<td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/502.gif" alt="{$LNG.tech.502}"></td>
 					<td class="battlesim_name_ship">{$LNG.tech.502}</td>
                     <td><input class="countdots fl_fllets_rows_input_countdots" size="10" value="0" name="missile502" type="text"></td>
                 </tr>
@@ -38,10 +38,10 @@
                     
                 </tr>
                 <tr>
-                    <td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/109.gif" alt="{$LNG.tech.109}"></td>
+                    <td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/109.gif" alt="{$LNG.tech.109}"></td>
                     <td class="battlesim_name_ship">{$LNG.tech.109}</td>
                     <td><input class="countdots fl_fllets_rows_input_countdots" size="10" value="{$attackerTech}" name="research109" type="text"></td>
-					<td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/110.gif" alt="{$LNG.tech.109}"></td>
+					<td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/110.gif" alt="{$LNG.tech.109}"></td>
                     <td class="battlesim_name_ship">{$LNG.tech.110}</td>
                     <td><input class="countdots fl_fllets_rows_input_countdots" size="10" value="0" name="research110" type="text"></td>
                     
@@ -68,7 +68,7 @@
 				{foreach $defensiveList as $id}
                                                 <tr>
                     <td></td>                            
-                	<td class="battlesim_img_ship"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$id}.gif" alt="{$LNG.tech.$id}"></td>
+                	<td class="battlesim_img_ship"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$id}.gif" alt="{$LNG.tech.$id}"></td>
                     <td class="battlesim_name_ship">{if $id == 420 || $id == 421 || $id == 422}<span style="color:#32CD32">{$LNG.tech.$id}</span>{else}{$LNG.tech.$id}{/if}</td>
                     <td><input class="countdots fl_fllets_rows_input_countdots" size="10" value="0" name="defense_{$id}" type="text"></td>
                     <td id="unitlost_{$id}">-</td>

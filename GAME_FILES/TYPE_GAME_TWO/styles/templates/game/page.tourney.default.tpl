@@ -73,7 +73,7 @@
                 	<img alt="" src="http://icons.iconarchive.com/icons/umar123/build/48/0041-Medal-Gold-icon.png">
             </div>
            
-					   <div class="record_name_utits" style="line-height: 40px;color: #a52d29;float: none;width: 135px;">{$tourneyDetail.priceOne|number} units<img src="https://play.warofgalaxyz.com/styles/images/atm.gif" style="
+					   <div class="record_name_utits" style="line-height: 40px;color: #a52d29;float: none;width: 135px;">{$tourneyDetail.priceOne|number} units<img src="https://play.{$my_game_url}/styles/images/atm.gif" style="
     height: 10px;
     width: 10px;
     border-radius: 5px;
@@ -96,7 +96,7 @@
                <div class="record_img_utits" style="padding: 5px;">        
                 	<img alt="" src="http://icons.iconarchive.com/icons/umar123/build/48/0040-Medal-Silver-icon.png">
             </div>
-            <div class="record_name_utits" style="line-height: 40px;color: #a52d29;float: none;width: 135px;">{$tourneyDetail.priceTwo|number} units<img src="https://play.warofgalaxyz.com/styles/images/atm.gif" style="
+            <div class="record_name_utits" style="line-height: 40px;color: #a52d29;float: none;width: 135px;">{$tourneyDetail.priceTwo|number} units<img src="https://play.{$my_game_url}/styles/images/atm.gif" style="
     height: 10px;
     width: 10px;
     border-radius: 5px;
@@ -116,7 +116,7 @@
                <div class="record_img_utits" style="padding: 5px;">        
                 	<img alt="" src="http://icons.iconarchive.com/icons/umar123/build/48/0039-Medal-Bronze-icon.png">
             </div>
-            <div class="record_name_utits" style="line-height: 40px;color: #a52d29;float: none;width: 135px;">{$tourneyDetail.priceThree|number} units<img src="https://play.warofgalaxyz.com/styles/images/atm.gif" style="
+            <div class="record_name_utits" style="line-height: 40px;color: #a52d29;float: none;width: 135px;">{$tourneyDetail.priceThree|number} units<img src="https://play.{$my_game_url}/styles/images/atm.gif" style="
     height: 10px;
     width: 10px;
     border-radius: 5px;

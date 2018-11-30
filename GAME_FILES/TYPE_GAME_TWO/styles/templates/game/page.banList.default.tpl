@@ -28,7 +28,7 @@
             <td>{$banRow.from}</td>
 		<td>{$banRow.to}</td>
 		<td>{$banRow.player}</td>
-		<td><a href="https://forum.warofgalaxyz.com/forum/13-account-lockout/" title="{$banRow.info}">{$banRow.admin}</a></td>
+		<td><a href="https://forum.{$my_game_url}/forum/13-account-lockout/" title="{$banRow.info}">{$banRow.admin}</a></td>
 		<td>{$banRow.theme}</td>
         </tr>
 		{/foreach}

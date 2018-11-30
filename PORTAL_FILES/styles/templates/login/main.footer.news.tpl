@@ -22,7 +22,7 @@
                	<div id="fresh_forum" class="right">
     
 	
-        <a title="" href="http://forum.warofgalaxyz.com/" class="latest_articles_button" target="_blank">{$LNG.main_nav_27}</a> 
+        <a title="" href="http://forum.{$my_game_url}/" class="latest_articles_button" target="_blank">{$LNG.main_nav_27}</a> 
     <div class="clear"></div>
     <br>
 <script>(function(d, s, id) {
@@ -61,7 +61,7 @@
 			</div>
 			<div class="block">
 				<span>{$LNG.main_nav_20}</span> 
-				<a href="//forum.warofgalaxyz.com">{$LNG.main_nav_10}</a><br> 
+				<a href="//forum.{$my_game_url}">{$LNG.main_nav_10}</a><br> 
 				<a href="../index.php?page=disclamer">{$LNG.siteTitleDisclamer}</a> <br>
 				<a href="../sitemap.html">Sitemap</a> <br>
 				

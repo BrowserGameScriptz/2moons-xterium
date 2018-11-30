@@ -20,7 +20,7 @@
                             </div>
             <div class="content_box">
                 <div class="image">
-                       <img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$ID}.png" alt="{$LNG.tech.{$ID}}">
+                       <img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$ID}.png" alt="{$LNG.tech.{$ID}}">
                     </div>
                     <div class="prices">
                         <br>
@@ -121,5 +121,5 @@
         </div><!--/body-->
 {/block}
 {block name="script"}
-<script src="//static.warofgalaxyz.com/media/gamemedia/scripts/game/gubernators.js"></script>
+<script src="//static.{$my_game_url}/media/gamemedia/scripts/game/gubernators.js"></script>
 {/block}

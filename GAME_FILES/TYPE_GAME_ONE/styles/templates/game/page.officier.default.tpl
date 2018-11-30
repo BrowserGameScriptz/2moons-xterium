@@ -18,7 +18,7 @@
             </div>
                         <div class="content_box">
                 <div class="image">
-                   <a href="#" onclick="return Dialog.info({$ID})"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$ID}.jpg" alt="{$LNG.tech.{$ID}}"></a>
+                   <a href="#" onclick="return Dialog.info({$ID})"><img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$ID}.jpg" alt="{$LNG.tech.{$ID}}"></a>
                 </div>
 				
 				 {if !$Element.techacc}<div class="prices"><div class="price"> {$LNG.Nece}
@@ -32,7 +32,7 @@
 			   {if $NeedLevel.count > $NeedLevel.own}
 			    <div class="required_block  required_smal_text">
            <a href="#" onclick="return Dialog.info({$requireID})" class="tooltip" data-tooltip-content="Explore:<br />{$LNG.tech.{$requireID}} lvl.  {$NeedLevel.count} ">
-                    <img src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $requireID >=600 && $requireID <= 699}jpg{else}gif{/if}" alt="{$LNG.tech.{$requireID}}">
+                    <img src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$requireID}.{if $requireID >=600 && $requireID <= 699}jpg{else}gif{/if}" alt="{$LNG.tech.{$requireID}}">
                     <div class="text">{$NeedLevel.count}</div>
                 </a>           
         </div>
@@ -106,5 +106,5 @@
         </div><!--/body-->
 {/block}
 {block name="script"}
-<script src="//static.warofgalaxyz.com/media/gamemedia/scripts/game/officier.js"></script>
+<script src="//static.{$my_game_url}/media/gamemedia/scripts/game/officier.js"></script>
 {/block}

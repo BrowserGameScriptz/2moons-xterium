@@ -19,61 +19,61 @@
         
         
                  
-                        <a class="oamlink" href="game.php?page=donation" style="width: 40%;">{$LNG.lm_donation} {if $donation_b != 0}<span style="color:#FC0;float: right;margin-top: -12px;position: absolute;margin-left: -20px;">+{$donation_b}%</span>{/if}<!--<img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/stars.png" class="oamlinkimg">--></a>
+                        <a class="oamlink" href="game.php?page=donation" style="width: 40%;">{$LNG.lm_donation} {if $donation_b != 0}<span style="color:#FC0;float: right;margin-top: -12px;position: absolute;margin-left: -20px;">+{$donation_b}%</span>{/if}<!--<img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/stars.png" class="oamlinkimg">--></a>
     	        
         <a href="game.php?page=premium" class="big_btn premium btn_menu btn_menu_big opremlink " style="width: 40%;">    
-		<img class="left" src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/images/ico-account-premium.png" alt="Premium Account" {if $special_donation_premium > 0}style="margin-left: -8px;"{else}style="margin-left: 0px;"{/if}>  
+		<img class="left" src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/images/ico-account-premium.png" alt="Premium Account" {if $special_donation_premium > 0}style="margin-left: -8px;"{else}style="margin-left: 0px;"{/if}>  
               <span style="color:#FC0;">{$LNG.lm_premium} {if $special_donation_premium > 0}<span style="color:#09C;">+{$special_donation_premium}%</span>{/if}</span> 
-			  {if $special_donation_premium > 0}{else}<img class="right" src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/images/ico-account-premium.png" alt="Premium Account" style="margin-right: 0px;"/>    {/if}       
+			  {if $special_donation_premium > 0}{else}<img class="right" src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/images/ico-account-premium.png" alt="Premium Account" style="margin-right: 0px;"/>    {/if}       
         </a>
         
         <div class="separator"></div> 
 
 		<!-- ricerche  tecnologie-->
         <a class="nuovomenusinistra" href="game.php?page=research" id="munu_research">{$LNG.lm_research}</a>
-		<a class="nuovomenudestra" href="game.php?page=research"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/tech.png" class="imgovernuovo"></a>
+		<a class="nuovomenudestra" href="game.php?page=research"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/tech.png" class="imgovernuovo"></a>
 		
 		<!-- costruzioni risorse-->
         <a class="nuovomenusinistra" href="game.php?page=buildings" id="munu_build">{$LNG.lm_buildings}</a>
-		<a class="nuovomenudestra tooltip" href="game.php?page=resources" id="munu_resources" data-tooltip-content="{$LNG.lm_resources}"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/simulator.png" class="oimgaltro"></a>
+		<a class="nuovomenudestra tooltip" href="game.php?page=resources" id="munu_resources" data-tooltip-content="{$LNG.lm_resources}"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/simulator.png" class="oimgaltro"></a>
 		
 		<!-- flotta hangar -->
 		<a class="nuovomenusinistra" href="game.php?page=shipyard" id="munu_shipyard_fleet">{$LNG.lm_shipshard}</a>
-		<a class="nuovomenudestra tooltip" href="game.php?page=fleetTable" id="munu_fleetable" data-tooltip-content="{$LNG.lm_fleet}"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/hangar.png" class="oimgaltro blink_me"></a>
+		<a class="nuovomenudestra tooltip" href="game.php?page=fleetTable" id="munu_fleetable" data-tooltip-content="{$LNG.lm_fleet}"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/hangar.png" class="oimgaltro blink_me"></a>
 		
 		<!-- difese -->
 		<a class="nuovomenusinistra" href="game.php?page=defense" id="munu_shipyard_defense">{$LNG.lm_defenses}</a>
-		<a class="nuovomenudestra" href="game.php?page=defense"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/shield.png" class="imgovernuovo"></a>
+		<a class="nuovomenudestra" href="game.php?page=defense"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/shield.png" class="imgovernuovo"></a>
 		
 		<!-- ufficiali governatori -->
 		<a class="nuovomenusinistra" href="game.php?page=officier" id="munu_senat">{$LNG.lm_officiers}</a>
-		<a class="nuovomenudestra tooltip" href="game.php?page=gubernators" data-tooltip-content="{$LNG.offi_1}"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/governatori.png" class="oimgaltro"></a>
+		<a class="nuovomenudestra tooltip" href="game.php?page=gubernators" data-tooltip-content="{$LNG.offi_1}"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/governatori.png" class="oimgaltro"></a>
 		
 		<!-- arsenale-->
 		<a class="nuovomenusinistra" href="game.php?page=arsenal">{$LNG.lm_arsenal}</a>
-		<a class="nuovomenudestra" href="game.php?page=arsenal"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/arsenal.png" class="imgovernuovo"></a>
+		<a class="nuovomenudestra" href="game.php?page=arsenal"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/arsenal.png" class="imgovernuovo"></a>
 		
 		
 		<!-- mercato-->
 		<a class="nuovomenusinistra" href="game.php?page=market">{$LNG.lm_market}</a>
-		<a class="nuovomenudestra" href="game.php?page=market"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/market.png" class="imgovernuovo"></a>
+		<a class="nuovomenudestra" href="game.php?page=market"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/market.png" class="imgovernuovo"></a>
 		
 	
 		<!-- accademia-->
 		<a class="nuovomenusinistra" href="game.php?page=academy" id="munu_academy">{$LNG.lm_academy}</a>
-		<a class="nuovomenudestra" href="game.php?page=academy"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/accademy.png" class="imgovernuovo"></a>
+		<a class="nuovomenudestra" href="game.php?page=academy"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/accademy.png" class="imgovernuovo"></a>
 		
 		<!-- galassia note-->
 		<a class="nuovomenusinistra" href="game.php?page=galaxy" id="munu_galaxy">{$LNG.lm_galaxy}</a>
-		<a class="nuovomenudestra" href="game.php?page=galaxy"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/galaxy.png" class="imgovernuovo"></a>
+		<a class="nuovomenudestra" href="game.php?page=galaxy"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/galaxy.png" class="imgovernuovo"></a>
 		
 		<!-- alleanza-->
 		<a class="nuovomenusinistra" href="game.php?page=alliance">{$LNG.lm_alliance}</a>
-		<a class="nuovomenudestra" href="game.php?page=alliance"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/alliance.png" class="imgovernuovo"></a>
+		<a class="nuovomenudestra" href="game.php?page=alliance"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/alliance.png" class="imgovernuovo"></a>
 		
 		<!-- mercenary-->
 		{*<a class="nuovomenusinistra" href="game.php?page=mercenary">Mercenary</a>
-		<a class="nuovomenudestra" href="game.php?page=mercenary"><img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/headhunter.png" class="imgovernuovo"></a>*}
+		<a class="nuovomenudestra" href="game.php?page=mercenary"><img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/headhunter.png" class="imgovernuovo"></a>*}
 		
 		
 		
@@ -99,22 +99,22 @@
 
 		<div class='overviewbuttons'>
       <a href='game.php?page=auctioneer' class='tooltip {if $queryString == "page=auctioneer"}active{/if}' data-tooltip-content="{$LNG.auctioneer_19}">
-        <img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/auction.png"></img>
+        <img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/auction.png"></img>
       </a>
       <a href='game.php?page=auctioneer&mode=inventory' class='tooltip {if $queryString == "page=auctioneer&mode=inventory"}active{/if}' data-tooltip-content='{$LNG.auctioneer_25}'>
-        <img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/items.png" style="height: 14px;"></img>
+        <img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/items.png" style="height: 14px;"></img>
       </a>
       <a href='game.php?page=lotteryam' id="munu_lotteryam" class='tooltip {if $queryString == "page=lotteryam"}active{/if}' data-tooltip-content='{$LNG.lottery_dm_18}'>
-        <img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/lottery.png"></img>
+        <img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/lottery.png"></img>
       </a>
 	   <a href='game.php?page=tourney' class='tooltip {if $queryString == "page=tourney"}active{/if}' data-tooltip-content='{$LNG.tourney_12} {if $tourneyEnd > 0}<sup style="color:green;" class="blink_me">ONLINE</sup>{else}<sup style="color:red;">OFFLINE</sup>{/if}'>
-      <img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/torneo.png"></img>
+      <img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/torneo.png"></img>
       </a>
       <a href='game.php?page=battleSimulator' class='tooltip {if $queryString == "page=battleSimulator"}active{/if}' data-tooltip-content='{$LNG.lm_battlesim}'>
-       <img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/risorse.png"></img>
+       <img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/risorse.png"></img>
       </a>
 	   <a href='game.php?page=achievement' class='tooltip {if $queryString == "page=achievement"}active{/if}' data-tooltip-content='{$LNG.lm_achie}'>
-         <img src="//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/achivements.png"></img>
+         <img src="//static.{$my_game_url}/media/gamemedia/styles/images/iconav/achivements.png"></img>
       </a>
     </div>
 	 <div class="clear"></div>  
@@ -241,8 +241,8 @@
             {/if}
 	 <div style="height:0; overflow:hidden;" loop="false;" id="music">
         <audio id="beepataks" preload="auto">
-            <source src="//static.warofgalaxyz.com/media/gamemedia/sound/sirena.mp3">
-            <source src="//static.warofgalaxyz.com/media/gamemedia/sound/sirena.ogg"> 
+            <source src="//static.{$my_game_url}/media/gamemedia/sound/sirena.mp3">
+            <source src="//static.{$my_game_url}/media/gamemedia/sound/sirena.ogg"> 
         </audio>
         <script type="text/javascript">
             var ataks = "{$totalAttacks}";
@@ -252,7 +252,7 @@
             var rakets = "{$totalRockets}";
 			document.getElementById('beepataks').volume={$sirena};
 			var miniChat		= "{$MiniChat}";
-			var chat_domen_name	= "wog2.warofgalaxyz.com/{$Website2}";
+			var chat_domen_name	= "wog2.{$my_game_url}/{$Website2}";
 			
 			
         </script>

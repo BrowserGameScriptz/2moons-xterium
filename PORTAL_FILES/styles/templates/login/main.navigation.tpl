@@ -7,7 +7,7 @@
 		
 		{if $ShowUser == 0}
 		        <div id="top_main_body">
-            <a class="top_main_big_link" href="//forum.warofgalaxyz.com/" target="_blank">{$LNG.main_nav_1}</a>
+            <a class="top_main_big_link" href="//forum.{$my_game_url}/" target="_blank">{$LNG.main_nav_1}</a>
 
 			
 			<select onChange="window.location.href=this.value" class="sel_uni_top" style="width:80px;float: right;margin-top: 8px;">
@@ -30,7 +30,7 @@
         </div>
             {else}
 			<div id="top_main_body">
-            <a class="top_main_big_link" href="//forum.warofgalaxyz.com/" target="_blank">{$LNG.main_nav_1}</a>
+            <a class="top_main_big_link" href="//forum.{$my_game_url}/" target="_blank">{$LNG.main_nav_1}</a>
             <div class="top_main_separator"></div> 
 			<a class="top_main_mini_link" href="../index.php?page=lobby" style="padding-top:5px;">{$LNG.lobby_25}</a>  
             <div class="top_main_separator"></div>   
@@ -63,7 +63,7 @@
           
 		<div id="header2">
         	<div class="body">
-            	<a href="/" class="logo"><img class="logo" src="//static.warofgalaxyz.com/media/images/xterium_logo.png" width="570" height="222" title="War Of Galaxyz" alt="War Of Galaxyz Logo"></a>
+            	<a href="/" class="logo"><img class="logo" src="//static.{$my_game_url}/media/images/xterium_logo.png" width="570" height="222" title="War Of Galaxyz" alt="War Of Galaxyz Logo"></a>
             	<div class="clear"></div>
             </div>
         	<div class="clear"></div>
@@ -71,7 +71,7 @@
 		{else}
 		<div id="header">
         	<div class="body">
-            	<a href="/" class="logo"><img class="logo" src="//static.warofgalaxyz.com/media/images/xterium_logo.png" title="War Of Galaxyz" alt="War Of Galaxyz Logo"></a>
+            	<a href="/" class="logo"><img class="logo" src="//static.{$my_game_url}/media/images/xterium_logo.png" title="War Of Galaxyz" alt="War Of Galaxyz Logo"></a>
                 <h1>{$LNG.promo_17}</h1>
                 <a href="../index.php?page=register" class="button">{$LNG.promo_18}</a>
             	<div class="clear"></div>
@@ -87,7 +87,7 @@
     <ul>        
         			<li class="active"><a href="/">{$LNG.main_nav_8}</a></li> 
 					<li class=""><a href="../index.php?page=promo">{$LNG.main_nav_9}</a></li> 
-					<li class=""><a href="//forum.warofgalaxyz.com/">{$LNG.main_nav_10}</a></li> 
+					<li class=""><a href="//forum.{$my_game_url}/">{$LNG.main_nav_10}</a></li> 
 					<li class=""><a href="../index.php?page=LostPassword">{$LNG.main_nav_7}</a></li> 
 		        <li class="play"><a {if $ShowUser == 0}href="../index.php?page=register"{else}href="../index.php?page=ingame"{/if}>{$registerLink}</a></li>
     </ul>

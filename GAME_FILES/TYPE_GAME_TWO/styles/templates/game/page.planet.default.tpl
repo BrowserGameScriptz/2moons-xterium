@@ -21,7 +21,7 @@
 				
 				<div id="box_prem_expedition" class="content_box" style="display: block;">
             	<form action="game.php?page=planet&amp;mode=field" method="POST">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/planet_tele.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/planet_tele.jpg">
                 	<input id="type" value="{$fieldes}" type="hidden">
                 <input id="power" value="{$fieldrat}" type="hidden">
                 <input id="kolvo" value="{$kolvo}" type="hidden">
@@ -52,7 +52,7 @@
             <div id="box_teleport" class="content_box" style="height:auto;"> 
             	<div id="box_prem_expedition" class="content_box" style="display: block;">
             	 <form action="game.php?page=planet&amp;mode=coord" method="POST">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/planet_field.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/planet_field.jpg">
                 	<input id="galaxy1" name="galaxy1" value="{$tGalaxy}" type="hidden">
                     <input id="system1" name="system1" value="{$tSystem}" type="hidden">
                     <input id="planet1" name="planet1" value="{$tPlanet}" type="hidden">   
@@ -109,350 +109,350 @@
         <div id="box_planet_image" class="content_box" style="height:auto;">
         	<div style="padding:10px; color:#CCC; line-height:20px;">
             	                <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet01.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet01.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.dschjungelplanet01}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('dschjungelplanet01');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet02.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet02.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.dschjungelplanet02}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('dschjungelplanet02');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet03.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet03.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.dschjungelplanet03}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('dschjungelplanet03');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet04.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet04.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.dschjungelplanet04}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('dschjungelplanet04');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet05.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet05.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.dschjungelplanet05}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('dschjungelplanet05');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet06.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet06.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.dschjungelplanet06}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('dschjungelplanet06');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet07.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet07.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.dschjungelplanet07}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('dschjungelplanet07');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet08.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet08.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.dschjungelplanet08}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('dschjungelplanet08');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet09.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet09.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.dschjungelplanet09}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('dschjungelplanet09');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet10.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/dschjungelplanet10.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.dschjungelplanet10}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('dschjungelplanet10');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/eisplanet01.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/eisplanet01.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.eisplanet01}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('eisplanet01');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/eisplanet02.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/eisplanet02.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.eisplanet02}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('eisplanet02');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/eisplanet03.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/eisplanet03.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.eisplanet03}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('eisplanet03');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/eisplanet04.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/eisplanet04.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.eisplanet04}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('eisplanet04');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/eisplanet05.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/eisplanet05.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.eisplanet05}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('eisplanet05');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/eisplanet06.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/eisplanet06.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.eisplanet06}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('eisplanet06');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/eisplanet07.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/eisplanet07.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.eisplanet07}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('eisplanet07');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/eisplanet08.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/eisplanet08.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.eisplanet08}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('eisplanet08');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/eisplanet09.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/eisplanet09.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.eisplanet09}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('eisplanet09');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/eisplanet10.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/eisplanet10.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.eisplanet10}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('eisplanet10');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/gasplanet01.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/gasplanet01.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.gasplanet01}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('gasplanet01');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/gasplanet02.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/gasplanet02.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.gasplanet02}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('gasplanet02');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/gasplanet03.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/gasplanet03.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.gasplanet03}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('gasplanet03');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/gasplanet04.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/gasplanet04.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.gasplanet04}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('gasplanet04');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/gasplanet05.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/gasplanet05.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.gasplanet05}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('gasplanet05');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/gasplanet06.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/gasplanet06.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.gasplanet06}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('gasplanet06');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/gasplanet07.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/gasplanet07.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.gasplanet07}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('gasplanet07');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/gasplanet08.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/gasplanet08.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.gasplanet08}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('gasplanet08');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/normaltempplanet01.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/normaltempplanet01.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.normaltempplanet01}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('normaltempplanet01');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/normaltempplanet02.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/normaltempplanet02.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.normaltempplanet02}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('normaltempplanet02');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/normaltempplanet03.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/normaltempplanet03.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.normaltempplanet03}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('normaltempplanet03');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/normaltempplanet04.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/normaltempplanet04.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.normaltempplanet04}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('normaltempplanet04');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/normaltempplanet05.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/normaltempplanet05.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.normaltempplanet05}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('normaltempplanet05');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/normaltempplanet06.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/normaltempplanet06.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.normaltempplanet06}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('normaltempplanet06');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/normaltempplanet07.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/normaltempplanet07.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.normaltempplanet07}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('normaltempplanet07');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/trockenplanet01.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/trockenplanet01.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.trockenplanet01}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('trockenplanet01');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/trockenplanet02.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/trockenplanet02.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.trockenplanet02}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('trockenplanet02');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/trockenplanet03.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/trockenplanet03.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.trockenplanet03}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('trockenplanet03');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/trockenplanet04.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/trockenplanet04.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.trockenplanet04}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('trockenplanet04');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/trockenplanet05.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/trockenplanet05.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.trockenplanet05}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('trockenplanet05');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/trockenplanet06.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/trockenplanet06.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.trockenplanet06}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('trockenplanet06');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/trockenplanet07.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/trockenplanet07.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.trockenplanet07}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('trockenplanet07');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/trockenplanet08.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/trockenplanet08.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.trockenplanet08}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('trockenplanet08');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/trockenplanet09.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/trockenplanet09.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.trockenplanet09}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('trockenplanet09');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/trockenplanet10.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/trockenplanet10.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.trockenplanet10}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('trockenplanet10');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wasserplanet01.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wasserplanet01.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wasserplanet01}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wasserplanet01');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wasserplanet02.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wasserplanet02.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wasserplanet02}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wasserplanet02');">{$LNG.planetimage_58}</button>
                 </div>
 								                                <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wasserplanet03.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wasserplanet03.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wasserplanet03}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wasserplanet03');">{$LNG.planetimage_58}</button>
                 </div>
 				
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wasserplanet04.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wasserplanet04.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wasserplanet04}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wasserplanet04');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wasserplanet05.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wasserplanet05.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wasserplanet05}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wasserplanet05');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wasserplanet06.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wasserplanet06.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wasserplanet06}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wasserplanet06');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wasserplanet07.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wasserplanet07.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wasserplanet07}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wasserplanet07');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wasserplanet08.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wasserplanet08.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wasserplanet08}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wasserplanet08');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wasserplanet09.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wasserplanet09.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wasserplanet09}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wasserplanet09');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wuestenplanet01.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wuestenplanet01.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wuestenplanet01}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wuestenplanet01');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wuestenplanet02.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wuestenplanet02.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wuestenplanet02}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wuestenplanet02');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wuestenplanet03.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wuestenplanet03.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wuestenplanet03}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wuestenplanet03');">{$LNG.planetimage_58}</button>
                 </div>
                                 <div class="planetarium_img_block">
-                	<div class="planetarium_img_preview" style="background-image:url(//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/wuestenplanet04.jpg);">
+                	<div class="planetarium_img_preview" style="background-image:url(//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/wuestenplanet04.jpg);">
                     	<span class="planetarium_img_desc tooltip" data-tooltip-content="{$LNG.planet_structure.wuestenplanet04}">?</span>
                     </div>
                     <button class="bottom_band_submit planetarium_img_button" onclick="planetChangeImage('wuestenplanet04');">{$LNG.planetimage_58}</button>
@@ -468,7 +468,7 @@
         </div>
         <div id="box_planet_rename" class="content_box" style="height:auto;">
 			<div id="box_prem_expedition" class="content_box" style="display: block;">
-                	<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/planet_nome.jpg">
+                	<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/planet_nome.jpg">
 					            	               		<div class="content_form">   
  <label for="password">{$LNG.ov_rename_label}: </label>														
                                               <input class="left" name="name" id="name" size="12" maxlength="10" autocomplete="off" type="text" value="{$pName}">                  	
@@ -486,7 +486,7 @@
         </div>
         <div id="box_delete_planet" class="content_box" style="height:auto;">
 		<div id="box_prem_expedition" class="content_box" style="display: block;">
-		<img class="pren_img" alt="" title="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/premium/planet_canc.jpg">
+		<img class="pren_img" alt="" title="" src="//static.{$my_game_url}/media/gamemedia/styles/images/premium/planet_canc.jpg">
         	<div class="content_form">
             <span style="color:#999;font-size: 10px;float: right;">{$ov_security_confirm}</span>
             <input class="left" name="password" id="password" size="25" maxlength="25"  placeholder="{$LNG.ov_password}"autocomplete="off" type="password">

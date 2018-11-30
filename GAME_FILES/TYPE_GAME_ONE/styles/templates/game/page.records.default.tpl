@@ -34,7 +34,7 @@
             <div class="bottom_line_progres" style=""></div>
             <div class="record_img_utits">
                 <a href="#" onclick="return Dialog.info({$elementID})">
-                    <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.gif">
+                    <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.gif">
                 </a>
             </div>
             <div class="record_name_utits">
@@ -74,7 +74,7 @@
             <div class="bottom_line_progres" style=""></div>
             <div class="record_img_utits">
                 <a href="#" onclick="return Dialog.info({$elementID})">
-                    <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.gif">
+                    <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.gif">
                 </a>
             </div>
             <div class="record_name_utits">
@@ -112,7 +112,7 @@
             <div class="bottom_line_progres" style=""></div>
             <div class="record_img_utits">
                 <a href="#" onclick="return Dialog.info({$elementID})">
-                    <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.gif">
+                    <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.gif">
                 </a>
             </div>
             <div class="record_name_utits">
@@ -151,7 +151,7 @@
             <div class="bottom_line_progres" style=""></div>
             <div class="record_img_utits">
                 <a href="#" onclick="return Dialog.info({$elementID})">
-                    <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.gif">
+                    <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/gebaeude/{$elementID}.gif">
                 </a>
             </div>
             <div class="record_name_utits">

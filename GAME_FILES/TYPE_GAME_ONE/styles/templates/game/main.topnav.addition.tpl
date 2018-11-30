@@ -1107,7 +1107,7 @@
 	{if $sawminially == 0 && $total_pointsUse >= 100000} 
 	<script type="text/javascript">
 	$(function() {
-		qtip_modal('{$LNG.alliance_xterium_ivite3}', '<img src="//www.rcicd.org/pub/entity/RC_SubSection/108/img/2.gif" style="width:100%;float:left;" alt="Альянс развития"><p align="center"><font color=#4682B4 size="3">{$LNG.alliance_xterium_ivite2}</p></font> <br><a href="//play.warofgalaxyz.com/game.php?page=alliance&mode=info&id={$xteriumAllyIdAbstra}"><b><p align="center"><font color=#B22222 size="2">>>>{$LNG.alliance_xterium_ivite1}<<<</p></font></a></b>', '{$LNG.facebook_l_4}', 450);
+		qtip_modal('{$LNG.alliance_xterium_ivite3}', '<img src="//www.rcicd.org/pub/entity/RC_SubSection/108/img/2.gif" style="width:100%;float:left;" alt="Альянс развития"><p align="center"><font color=#4682B4 size="3">{$LNG.alliance_xterium_ivite2}</p></font> <br><a href="//play.{$my_game_url}/game.php?page=alliance&mode=info&id={$xteriumAllyIdAbstra}"><b><p align="center"><font color=#B22222 size="2">>>>{$LNG.alliance_xterium_ivite1}<<<</p></font></a></b>', '{$LNG.facebook_l_4}', 450);
 setInterval(function() { AJAX() }, 6000);
 	});
 	</script>

@@ -23,7 +23,7 @@ width: 630px;
 width: 370px;
 float: left;
 height: 312px;
-background: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_eq_status.png) 0px -2px;
+background: url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_eq_status.png) 0px -2px;
 box-shadow: inset 0 0 7px #74a5c2;
 _margin-bottom: 2px;
 }
@@ -45,14 +45,14 @@ _zoom: 1;
 _padding: 0px;
 }
 .commander_bg_s {
-background: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commanderbg_85x85.jpg);
+background: url(//static.{$my_game_url}/media/gamemedia/media/images/commanderbg_85x85.jpg);
 width: 83px;
 height: 83px;
 padding: 1px;
 float: left;
 }
 .commander_race3 .commander2 {
-background: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commanderinfantry_commander_attack.png);
+background: url(//static.{$my_game_url}/media/gamemedia/media/images/commanderinfantry_commander_attack.png);
 }
 .commander_bg_s .commander_s {
 background-position: -33px -10px;
@@ -126,7 +126,7 @@ font-weight: normal;
  .barcolor {
 height: 18px;
 float: left;
-background: url("//static.warofgalaxyz.com/media/gamemedia/media/images/commander/loading_bar.gif") no-repeat;
+background: url("//static.{$my_game_url}/media/gamemedia/media/images/commander/loading_bar.gif") no-repeat;
 margin-top: 1px;
 }
  .bar_box .bar_con {
@@ -213,7 +213,7 @@ line-height: 22px;
 .comm_icon {
 width: 21px;
 height: 21px;
-background: url("//static.warofgalaxyz.com/media/gamemedia/media/images/commander/comm_icon.png") no-repeat;
+background: url("//static.{$my_game_url}/media/gamemedia/media/images/commander/comm_icon.png") no-repeat;
 float:left;
 }
  .points_area .talent_w {
@@ -231,7 +231,7 @@ color: #2ebe23;
 }
  .com_eq {
 margin-left: 1px;
-background: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_eq_box.gif) no-repeat;
+background: url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_eq_box.gif) no-repeat;
 float: left;
 position: relative;
 width: 254px;
@@ -251,7 +251,7 @@ height: 203px;
 width: 97px;
 }
  .race3 .race_body_0 {
-background-image: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/eq_body_1.png);
+background-image: url(//static.{$my_game_url}/media/gamemedia/media/images/commander/eq_body_1.png);
 }
  .slot1 {
 top: 51px;
@@ -285,11 +285,11 @@ margin-left: 5px;
 .item_image .item {
 width: 86px;
 height: 86px;
-background: url("//static.warofgalaxyz.com/media/gamemedia/media/images/commander/none.png") no-repeat;
+background: url("//static.{$my_game_url}/media/gamemedia/media/images/commander/none.png") no-repeat;
 float: left;
 }
 .item_image .real_item246 {
-background: url("//static.warofgalaxyz.com/media/gamemedia/media/images/commander/246_helmet_of_frost.png") no-repeat;
+background: url("//static.{$my_game_url}/media/gamemedia/media/images/commander/246_helmet_of_frost.png") no-repeat;
 }
  .item_image .item {
 position: relative;
@@ -329,7 +329,7 @@ margin: 4px auto;
 display: block;
 }
 .small_item_image .real_item246_s {
-background: url("//static.warofgalaxyz.com/media/gamemedia/media/images/commander/246_helmet_of_frost_s.png") no-repeat;
+background: url("//static.{$my_game_url}/media/gamemedia/media/images/commander/246_helmet_of_frost_s.png") no-repeat;
 }
  .slot2 {
 top: 51px;
@@ -342,41 +342,41 @@ left: 180px;
  .slot6 { top:170px; left:180px; }
  .slot7 { top:247px; left:60px; }
  .slot8 { top:247px; left:139px; }
- .slot1 .eq_img { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/e_slot_1.png) no-repeat; }
- .slot2 .eq_img { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/e_slot_2.png) no-repeat; }
- .slot3 .eq_img { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/e_slot_3.png) no-repeat; }
- .slot4 .eq_img { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/e_slot_4.png) no-repeat; }
- .slot5 .eq_img { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/e_slot_5.png) no-repeat; }
- .slot6 .eq_img { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/e_slot_6.png) no-repeat; }
- .slot7 .eq_img { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/e_slot_7.png) no-repeat; }
- .slot8 .eq_img { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/e_slot_7.png) no-repeat; }
+ .slot1 .eq_img { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/e_slot_1.png) no-repeat; }
+ .slot2 .eq_img { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/e_slot_2.png) no-repeat; }
+ .slot3 .eq_img { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/e_slot_3.png) no-repeat; }
+ .slot4 .eq_img { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/e_slot_4.png) no-repeat; }
+ .slot5 .eq_img { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/e_slot_5.png) no-repeat; }
+ .slot6 .eq_img { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/e_slot_6.png) no-repeat; }
+ .slot7 .eq_img { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/e_slot_7.png) no-repeat; }
+ .slot8 .eq_img { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/e_slot_7.png) no-repeat; }
  .com_eq .eq_slot .small_item_image { margin:10px 0px 0px 10px; }
  .race_eq_body { position:absolute; top:41px; left:78px; height:203px; width:97px; }
- .race1 .race_body_0 { background-image: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/eq_body_6.png); }
- .race1 .race_body_1 { background-image: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/eq_body_5.png); }
- .race2 .race_body_0 { background-image: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/eq_body_3.png); }
- .race2 .race_body_1 { background-image: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/eq_body_4.png); }
- .race3 .race_body_0 { background-image: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/eq_body_1.png); }
- .race3 .race_body_1 { background-image: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/eq_body_2.png); }
- .com_storage { width:626px; height:126px;  background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_storage.gif) no-repeat; position:relative; _margin-top:3px; float:left; }
+ .race1 .race_body_0 { background-image: url(//static.{$my_game_url}/media/gamemedia/media/images/commander/eq_body_6.png); }
+ .race1 .race_body_1 { background-image: url(//static.{$my_game_url}/media/gamemedia/media/images/commander/eq_body_5.png); }
+ .race2 .race_body_0 { background-image: url(//static.{$my_game_url}/media/gamemedia/media/images/commander/eq_body_3.png); }
+ .race2 .race_body_1 { background-image: url(//static.{$my_game_url}/media/gamemedia/media/images/commander/eq_body_4.png); }
+ .race3 .race_body_0 { background-image: url(//static.{$my_game_url}/media/gamemedia/media/images/commander/eq_body_1.png); }
+ .race3 .race_body_1 { background-image: url(//static.{$my_game_url}/media/gamemedia/media/images/commander/eq_body_2.png); }
+ .com_storage { width:626px; height:126px;  background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_storage.gif) no-repeat; position:relative; _margin-top:3px; float:left; }
  .active_item { height:105px; width:90px; text-align:center; position:absolute; top:12px; left:11px; }
  .active_item .item_image { margin:0px auto; }
  .active_item a.dis_link { text-decoration:underline; }
  .active_item a.dis_link:hover { text-decoration:none; }
  .active_item .item_image { margin-left:2px; }
- .com_storage .active_item .item_image .empty_sl1 { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_storage_empty_1.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_1.png')}
- .com_storage .active_item .item_image .empty_sl2 { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_storage_empty_2.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_2.png')}
- .com_storage .active_item .item_image .empty_sl3 { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_storage_empty_3.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_3.png')}
- .com_storage .active_item .item_image .empty_sl4 { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_storage_empty_4.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_4.png')}
- .com_storage .active_item .item_image .empty_sl5 { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_storage_empty_5.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_5.png')}
- .com_storage .active_item .item_image .empty_sl6 { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_storage_empty_6.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_6.png')}
- .com_storage .active_item .item_image .empty_sl7 { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_storage_empty_7.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_7.png')}
- .com_storage .active_item .item_image .empty_sl8 { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_storage_empty_7.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_7.png')}
+ .com_storage .active_item .item_image .empty_sl1 { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_storage_empty_1.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_1.png')}
+ .com_storage .active_item .item_image .empty_sl2 { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_storage_empty_2.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_2.png')}
+ .com_storage .active_item .item_image .empty_sl3 { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_storage_empty_3.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_3.png')}
+ .com_storage .active_item .item_image .empty_sl4 { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_storage_empty_4.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_4.png')}
+ .com_storage .active_item .item_image .empty_sl5 { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_storage_empty_5.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_5.png')}
+ .com_storage .active_item .item_image .empty_sl6 { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_storage_empty_6.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_6.png')}
+ .com_storage .active_item .item_image .empty_sl7 { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_storage_empty_7.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_7.png')}
+ .com_storage .active_item .item_image .empty_sl8 { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_storage_empty_7.png); background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty_7.png')}
  .storage_item_list { padding-left:125px; line-height:24px; font-weight:bold; }
  .sto_title { padding-bottom:5px; }
  .item_li { padding-left:2px; float:left; }
  .com_storage .item_image .item { background-position:0px 6px; }
- .com_storage .storage_item_list .item_image .empty { background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_storage_empty.png) no-repeat; background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty.png')}
+ .com_storage .storage_item_list .item_image .empty { background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_storage_empty.png) no-repeat; background:none\9;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/com_storage_empty.png')}
  .com_storage .page_btn { position:absolute; top:3px; right:32px; }
  .com_storage .page_label { float:left; line-height:22px; margin-right:5px; }
  .com_storage .arrow_btn2 { float:left; margin-left:2px; }
@@ -392,7 +392,7 @@ left: 180px;
 .equip_popup_box .requir_area { clear:both; padding:2px 10px 8px; }
 .equip_popup_box .requir_area .req_need { white-space:nowrap; }
 .equip_popup_box .confirm_tips { text-align:center;  padding:10px 0px 13px; clear:both; }
-.equip_popup_box .eq_com_arrow { width:13px; height:26px; background:url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_eq_arrow.gif) no-repeat; float:left; margin:60px 12px 20px 13px; }
+.equip_popup_box .eq_com_arrow { width:13px; height:26px; background:url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_eq_arrow.gif) no-repeat; float:left; margin:60px 12px 20px 13px; }
 .equip_popup_box .eq_exist { background:#021521; padding:3px 10px; }
 .equip_popup_box .eq_current { color:#fff; }
 .equip_popup_box .eq_new { color:#2ebe23; }
@@ -406,13 +406,13 @@ height: 56px;
  margin: 0px auto;
 width: 20px;
 height: 20px;
-background: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/plus_btn.gif) no-repeat;
+background: url(//static.{$my_game_url}/media/gamemedia/media/images/commander/plus_btn.gif) no-repeat;
 }
 
 .com_storage {
 width: 626px;
 height: 126px;
-background: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/com_storage.gif) no-repeat;
+background: url(//static.{$my_game_url}/media/gamemedia/media/images/commander/com_storage.gif) no-repeat;
 position: relative;
 _margin-top: 3px;
 float: left;
@@ -460,7 +460,7 @@ margin-left: 2px;
 .arrow_btn2 {
 width: 22px;
 height: 22px;
-background: url(//static.warofgalaxyz.com/media/gamemedia/media/images/commander/arrow_btn_2.gif) no-repeat;
+background: url(//static.{$my_game_url}/media/gamemedia/media/images/commander/arrow_btn_2.gif) no-repeat;
 }
 .arrow_btn2_left {
 background-position: 0px 0px;

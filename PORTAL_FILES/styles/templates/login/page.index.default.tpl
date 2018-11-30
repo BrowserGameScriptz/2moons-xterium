@@ -9,7 +9,7 @@
     {foreach $AllTopNews as $NewsRow}      
     <div class="news">
         <a href="{$NewsRow.forum}" class="img_news">
-                                <img src="//static.warofgalaxyz.com/media/gamemedia/media/img/news/{$NewsRow.catId}.jpg" style="width:100%;" alt="{$NewsRow.title} ">
+                                <img src="//static.{$my_game_url}/media/gamemedia/media/img/news/{$NewsRow.catId}.jpg" style="width:100%;" alt="{$NewsRow.title} ">
                     </a>
         <a href="../index.php?page=news&id={$NewsRow.id}">{$NewsRow.title} </a>
         <div class="news_information"><p>{$NewsRow.text}</p></div>
@@ -38,7 +38,7 @@
       {foreach $AllNews as $NewsRow}                 
     <div class="latest_articles_item">        
       	<a href="../index.php?page=news&id={$NewsRow.id}" class="img_latest_articles">
-			                    <img src="//static.warofgalaxyz.com/media/gamemedia/media/img/news/{$NewsRow.catId}.jpg" width="236px" height="135px" alt="{$NewsRow.title}  ">
+			                    <img src="//static.{$my_game_url}/media/gamemedia/media/img/news/{$NewsRow.catId}.jpg" width="236px" height="135px" alt="{$NewsRow.title}  ">
                     </a>
         <div class="left">
         	<a href="../index.php?page=news&id={$NewsRow.id}">{$NewsRow.title}  </a>

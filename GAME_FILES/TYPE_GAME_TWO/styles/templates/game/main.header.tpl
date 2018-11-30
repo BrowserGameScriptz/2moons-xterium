@@ -29,14 +29,14 @@
 		<meta name="WOG-planet-coordinates" content="{$planetGalaxy}:{$planetSystem}:{$planetPlanet}"/>
 		<meta name="WOG-planet-type" content="{$metal_planetty}"/>
 	{/if}
-	<link rel="stylesheet" type="text/css" href="//static.warofgalaxyz.com/media/gamemedia/styles/css/boilerplate.css?{$REV}">
-	<link rel="stylesheet" type="text/css" href="//static.warofgalaxyz.com/media/gamemedia/styles/css/jquery.css?{$REV}">
-  	<link rel="stylesheet" type="text/css" href="//static.warofgalaxyz.com/media/gamemedia/styles/css/jquery.fancybox.css?{$REV}">
-	<link rel="stylesheet" type="text/css" href="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/formate.css?{$REV}">
-    <link rel="stylesheet" type="text/css" href="//static.warofgalaxyz.com/media/gamemedia/styles/css/ingame.css?{$REV}">
-    <link rel="stylesheet" type="text/css" href="//static.warofgalaxyz.com/media/gamemedia/styles/css/style.css?{$REV}">
-	<link rel="stylesheet" type="text/css" href="//static.warofgalaxyz.com/media/gamemedia/styles/css/chat.css?{$REV}">
-    <link rel="stylesheet" type="text/css" href="//static.warofgalaxyz.com/media/gamemedia/styles/css/responsive.css?{$REV}">
+	<link rel="stylesheet" type="text/css" href="//static.{$my_game_url}/media/gamemedia/styles/css/boilerplate.css?{$REV}">
+	<link rel="stylesheet" type="text/css" href="//static.{$my_game_url}/media/gamemedia/styles/css/jquery.css?{$REV}">
+  	<link rel="stylesheet" type="text/css" href="//static.{$my_game_url}/media/gamemedia/styles/css/jquery.fancybox.css?{$REV}">
+	<link rel="stylesheet" type="text/css" href="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/formate.css?{$REV}">
+    <link rel="stylesheet" type="text/css" href="//static.{$my_game_url}/media/gamemedia/styles/css/ingame.css?{$REV}">
+    <link rel="stylesheet" type="text/css" href="//static.{$my_game_url}/media/gamemedia/styles/css/style.css?{$REV}">
+	<link rel="stylesheet" type="text/css" href="//static.{$my_game_url}/media/gamemedia/styles/css/chat.css?{$REV}">
+    <link rel="stylesheet" type="text/css" href="//static.{$my_game_url}/media/gamemedia/styles/css/responsive.css?{$REV}">
 	<link rel="shortcut icon" href="./favicon.png" type="image/x-icon">
     <!--ij-->
 
@@ -64,19 +64,19 @@
 			serverTime.setSeconds(serverTime.getSeconds()+1);
 		}, 1000);
 	</script>
-	<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/base/jquery.js?{$REV}"></script>
-	<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/base/jquery.ui.js?{$REV}"></script>
-	<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/base/jquery.cookie.js?{$REV}"></script>
-    <script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/base/jquery.fancybox.js?{$REV}"></script>
-	<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/base/tooltip.js?{$REV}"></script>
-	<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/framework/keypress-2.1.4.min.js?{$REV}"></script>
-	<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/game/base.js?{$REV}"></script>
-	<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/game/humanize.min.js?{$REV}"></script>
-    <script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/game/overview.js?{$REV}"></script>
+	<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/base/jquery.js?{$REV}"></script>
+	<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/base/jquery.ui.js?{$REV}"></script>
+	<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/base/jquery.cookie.js?{$REV}"></script>
+    <script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/base/jquery.fancybox.js?{$REV}"></script>
+	<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/base/tooltip.js?{$REV}"></script>
+	<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/framework/keypress-2.1.4.min.js?{$REV}"></script>
+	<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/game/base.js?{$REV}"></script>
+	<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/game/humanize.min.js?{$REV}"></script>
+    <script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/game/overview.js?{$REV}"></script>
 	{*<script type="text/javascript">
     var adblock = true;
 	</script>
-    <script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/game/ads.js?{$REV}"></script>
+    <script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/game/ads.js?{$REV}"></script>
 	<script type="text/javascript">
 		if(adblock) {
 			 adBlockDetected();
@@ -84,13 +84,13 @@
 			adBlockNotDetected();
 		}
 	</script>*}
-	<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/game/qtip.js?{$REV}"></script>
-	<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/game/topnav.js?{$REV}"></script>
-	<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/game/json.js?{$REV}"></script>
-	<script charset="UTF-8" type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/media/js/alertify.min.js?{$REV}"></script>
+	<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/game/qtip.js?{$REV}"></script>
+	<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/game/topnav.js?{$REV}"></script>
+	<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/game/json.js?{$REV}"></script>
+	<script charset="UTF-8" type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/media/js/alertify.min.js?{$REV}"></script>
 
 	{foreach item=scriptname from=$scripts}
-	<script type="text/javascript" src="//static.warofgalaxyz.com/media/gamemedia/scripts/game/{$scriptname}.js?v={$REV}"></script>
+	<script type="text/javascript" src="//static.{$my_game_url}/media/gamemedia/scripts/game/{$scriptname}.js?v={$REV}"></script>
 	{/foreach}
 	{block name="script"}{/block}
 		

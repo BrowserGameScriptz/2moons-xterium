@@ -72,14 +72,14 @@
         </tr>
 	</tbody></table>
     <div class="gray_stripe gray_stripe_big"> 
-    	<img alt="Paypal" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/lato_paypal.png" style="float:left;"> 
+    	<img alt="Paypal" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/lato_paypal.png" style="float:left;"> 
         <div class="img_donat_sys" style="margin-left: 70px;">
-        	<img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/PayPal.png">            
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/Mastercard.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/Visa.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/PostePay.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/Maestro.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/American-Express.png">           
+        	<img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/PayPal.png">            
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/Mastercard.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/Visa.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/PostePay.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/Maestro.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/American-Express.png">           
             
         </div>
 		<input name="process" class="btn_big_blue" value="{$LNG.donation_checkout}" type="submit" style="float: right;">
@@ -150,14 +150,14 @@
         </tr>
 	</tbody></table>
     <div class="gray_stripe gray_stripe_big"> 
-    <img alt="Xsolla" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/lato_xsolla.png" style="float:left;"> 
+    <img alt="Xsolla" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/lato_xsolla.png" style="float:left;"> 
         <div class="img_donat_sys" style="margin-left: 70px;">
-		    <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/sms.png">
-        	<img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/Amazon.png">            
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/skrill.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/WebMoney.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/Payza.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/Bitcoin.png">
+		    <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/sms.png">
+        	<img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/Amazon.png">            
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/skrill.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/WebMoney.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/Payza.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/Bitcoin.png">
 
         </div>
 <input class="btn_big_blue" value="{$LNG.donation_checkout}" type="submit" style="float:right;">
@@ -184,12 +184,12 @@
     <div class="gray_stripe gray_stripe_big"> 
     <img alt="Xsolla" src="https://www.givta.com/assets/images/icons/voucher_icon.png" style="float:left;"> 
         <div class="img_donat_sys" style="margin-left: 70px;">
-		    <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/sms.png">
-        	<img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/Amazon.png">            
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/skrill.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/WebMoney.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/Payza.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/Bitcoin.png">
+		    <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/sms.png">
+        	<img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/Amazon.png">            
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/skrill.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/WebMoney.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/Payza.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/Bitcoin.png">
 
         </div>
 <input class="btn_big_blue" value="Validate the code" type="submit" style="float:right;">
@@ -260,14 +260,14 @@
         </tr>
 	</tbody></table>
     <div class="gray_stripe gray_stripe_big"> 
-    <img alt="Xsolla" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/paysafecard-logo.png" style="float:left;"> 
+    <img alt="Xsolla" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/paysafecard-logo.png" style="float:left;"> 
         <div class="img_donat_sys" style="margin-left: 70px;">
-		    <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/sms.png">
-        	<img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/Amazon.png">            
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/skrill.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/WebMoney.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/Payza.png">
-            <img alt="" src="//static.warofgalaxyz.com/media/gamemedia/styles/images/icons/Bitcoin.png">
+		    <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/sms.png">
+        	<img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/Amazon.png">            
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/skrill.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/WebMoney.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/Payza.png">
+            <img alt="" src="//static.{$my_game_url}/media/gamemedia/styles/images/icons/Bitcoin.png">
 
         </div>
 <input class="btn_big_blue" value="{$LNG.donation_checkout}" type="submit" style="float:right;">

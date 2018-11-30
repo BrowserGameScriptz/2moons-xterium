@@ -14,7 +14,7 @@
 
 	<div id="ach_level" class="ach_content xdock1"> 
                 	    <div class="ach_next_info_line" style="width:2.2774900518497E+16%;"></div>
-    <div class="ach_next_info tooltip xdock2" data-tooltip-content="{$LNG.over_referal_more}"><a href="https://forum.warofgalaxyz.com/topic/7-tutorial-wog-dock/" target="_blank">?</a></div>
+    <div class="ach_next_info tooltip xdock2" data-tooltip-content="{$LNG.over_referal_more}"><a href="https://forum.{$my_game_url}/topic/7-tutorial-wog-dock/" target="_blank">?</a></div>
 								   
                 	<div class="ach_img">
                     	<a href="#" onclick="return Dialog.info(7)"><img src="styles/theme/gow/gebaeude/7.gif"></a>

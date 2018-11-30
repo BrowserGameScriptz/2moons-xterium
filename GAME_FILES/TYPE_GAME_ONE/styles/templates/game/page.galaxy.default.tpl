@@ -98,7 +98,7 @@
 		<div class="gal_ally_name"></div>
 		{if $colonyship >= 1 && $galaxy <= 6}
 		 <div class="gal_player_cont" style="float:right">
-           <a class="dali btn_galassia" href="game.php?page=fleetTable&amp;galaxy={$galaxy}&amp;system={$system}&amp;planet={$planet}&amp;planettype=1&amp;target_mission=7" title="{$LNG.type_mission.7}" style="padding: 0px;padding-left: 20px;background: url(//static.warofgalaxyz.com/media/gamemedia/styles/images/iconav/coloni.png) left no-repeat;background-position: 5px 6px;width: 63%;height: 20px;line-height: 20px;text-align: center;margin-top: 4px;color: rgba(92, 166, 170, 0.7);">{$LNG.type_mission.7}</a>
+           <a class="dali btn_galassia" href="game.php?page=fleetTable&amp;galaxy={$galaxy}&amp;system={$system}&amp;planet={$planet}&amp;planettype=1&amp;target_mission=7" title="{$LNG.type_mission.7}" style="padding: 0px;padding-left: 20px;background: url(//static.{$my_game_url}/media/gamemedia/styles/images/iconav/coloni.png) left no-repeat;background-position: 5px 6px;width: 63%;height: 20px;line-height: 20px;text-align: center;margin-top: 4px;color: rgba(92, 166, 170, 0.7);">{$LNG.type_mission.7}</a>
    </div>  
 		
 		{/if}		
@@ -128,7 +128,7 @@
             	<tr> 
                 	<th colspan='2'>{$LNG.ov_planet} {$currentPlanet.planet.name} [{$galaxy}:{$system}:{$planet}]</th>
                 </tr><tr>
-            	<td class='tooltip_class_td_img'><img src='//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/small/s_{$currentPlanet.planet.image}.png' /></td>
+            	<td class='tooltip_class_td_img'><img src='//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/small/s_{$currentPlanet.planet.image}.png' /></td>
             	<td>
 {if $currentPlanet.missions.6}<a class='tooltip_class_a_btn' style='height: 17px;line-height: 17px;'{if $currentPlanet.action.outlaw == 1}onclick='checkOutlaw()'{else}href='javascript:doit(6,{$currentPlanet.planet.id});'{/if}><img src='styles/images/iconav/over.png' style='float: left;margin-left: 5px;margin-top: 2px;'>{$LNG.type_mission.6}</a><br />	{/if}
 {if $currentPlanet.user.isgal6mod == 1}<a class='tooltip_class_a_btn' style='height: 17px;line-height: 17px;' href='javascript:OpenPopup(&quot;?page=phalanx&amp;galaxy={$galaxy}&amp;system={$system}&amp;planet={$planet}&amp;planettype=1&quot;, &quot;&quot;, 640, 510);'>Phalanx (10.000 DM)</a><br />{/if}	
@@ -143,7 +143,7 @@
 			
 							</td>
 		</tr></table>">
-		<img {if $currentPlanet.planet.isAlliancePlanet != 0}style="border:1px solid #990;" {/if}src="//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/small/s_{$currentPlanet.planet.image}.png" alt="">
+		<img {if $currentPlanet.planet.isAlliancePlanet != 0}style="border:1px solid #990;" {/if}src="//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/small/s_{$currentPlanet.planet.image}.png" alt="">
         		</span>
         <div class="gal_planet_name"{if $currentPlanet.planet.isAlliancePlanet != 0} style="color:#990; font-weight:bold;"{/if}>{$currentPlanet.planet.name} {$currentPlanet.lastActivity}</div>
 
@@ -154,7 +154,7 @@
             	<tr>
                 	<th colspan='2'>{$LNG.gl_moon} {$currentPlanet.moon.name} [{$galaxy}:{$system}:{$planet}]</th>
                	</tr><tr>                
-                	<td rowspan='4' class='tooltip_class_td_img'><img src='//static.warofgalaxyz.com/media/gamemedia/styles/theme/gow/planeten/moon.png' /></td>
+                	<td rowspan='4' class='tooltip_class_td_img'><img src='//static.{$my_game_url}/media/gamemedia/styles/theme/gow/planeten/moon.png' /></td>
                 	<th>{$LNG.gl_features}</th>
                 </tr><tr>
                 	<td class='tooltip_class_table_text_left'><span>{$LNG.gl_diameter}</span>: {$currentPlanet.moon.diameter|number}<br />

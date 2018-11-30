@@ -50,7 +50,7 @@
     margin: auto;
     float: none;margin-bottom: 10px;
 ">
-                    	<img alt="Peaceful" src="https://play.warofgalaxyz.com/styles/images/find-arsenal.jpg">
+                    	<img alt="Peaceful" src="https://play.{$my_game_url}/styles/images/find-arsenal.jpg">
                     </div>
                   
   <div class="left_part" style="width: 33.3%;float: left;">
@@ -60,7 +60,7 @@
                 	<img alt="" src="http://icons.iconarchive.com/icons/umar123/build/48/0041-Medal-Gold-icon.png">
             </div>
            
-					   <div class="record_name_utits" style="line-height: 40px;color: #a52d29;float: none;width: 135px;">100€<img src="https://play.warofgalaxyz.com/styles/images/atm.gif" style="
+					   <div class="record_name_utits" style="line-height: 40px;color: #a52d29;float: none;width: 135px;">100€<img src="https://play.{$my_game_url}/styles/images/atm.gif" style="
     height: 10px;
     width: 10px;
     border-radius: 5px;
@@ -83,7 +83,7 @@
                <div class="record_img_utits" style="padding: 5px;">        
                 	<img alt="" src="http://icons.iconarchive.com/icons/umar123/build/48/0040-Medal-Silver-icon.png">
             </div>
-            <div class="record_name_utits" style="line-height: 40px;color: #a52d29;float: none;width: 135px;">90€<img src="https://play.warofgalaxyz.com/styles/images/atm.gif" style="
+            <div class="record_name_utits" style="line-height: 40px;color: #a52d29;float: none;width: 135px;">90€<img src="https://play.{$my_game_url}/styles/images/atm.gif" style="
     height: 10px;
     width: 10px;
     border-radius: 5px;
@@ -103,7 +103,7 @@
                <div class="record_img_utits" style="padding: 5px;">        
                 	<img alt="" src="http://icons.iconarchive.com/icons/umar123/build/48/0039-Medal-Bronze-icon.png">
             </div>
-            <div class="record_name_utits" style="line-height: 40px;color: #a52d29;float: none;width: 135px;">80€<img src="https://play.warofgalaxyz.com/styles/images/atm.gif" style="
+            <div class="record_name_utits" style="line-height: 40px;color: #a52d29;float: none;width: 135px;">80€<img src="https://play.{$my_game_url}/styles/images/atm.gif" style="
     height: 10px;
     width: 10px;
     border-radius: 5px;
