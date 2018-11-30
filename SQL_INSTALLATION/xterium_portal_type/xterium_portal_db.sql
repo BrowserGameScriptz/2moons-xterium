@@ -352,15 +352,24 @@ CREATE TABLE `uni1_config` (
   `cronBot` int(11) UNSIGNED NOT NULL DEFAULT '0',
   `usersOnline` int(11) UNSIGNED NOT NULL DEFAULT '0',
   `usersOnline2` int(11) UNSIGNED NOT NULL DEFAULT '0',
+<<<<<<< HEAD
   `domain_name` text NOT NULL,
+=======
+  `domain_name` varchar(255) NOT NULL DEFAULT ''
+>>>>>>> 6e673989124fd327980808a5bf6e8755fd310967
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 --
 -- Déchargement des données de la table `uni1_config`
 --
 
+<<<<<<< HEAD
 INSERT INTO `uni1_config` (`uni`, `VERSION`, `sql_revision`, `users_amount`, `uni_name`, `game_name`, `game_disable`, `close_reason`, `forum_url`, `adm_attack`, `debug`, `lang`, `reg_closed`, `OverviewNewsFrame`, `OverviewNewsText`, `mail_active`, `mail_use`, `smtp_host`, `smtp_port`, `smtp_user`, `smtp_pass`, `smtp_ssl`, `smtp_sendmail`, `smail_path`, `user_valid`, `moduls`, `ttf_file`, `del_oldstuff`, `del_user_manually`, `del_user_automatic`, `del_user_sendmail`, `sendmail_inactive`, `silo_factor`, `timezone`, `dst`, `energySpeed`, `disclamerAddress`, `disclamerPhone`, `disclamerMail`, `disclamerNotice`, `darkmatter_reduc`, `cronInstant`, `cronInstantStep`, `cronBot`, `usersOnline`, `usersOnline2`, `domain_name`) VALUES
 (1, '1.7.git', 0, 2887, '#WOG', 'War Of Galaxyz', 1, '', 'https://forum.warofgalaxyz.com', 1, 0, 'en', 0, 1, 'We are activly looking for membres being able to translate corectly some parts of the game in their language (deutsche, spanish, turkish, polish, portugues (currently closed))\r\n<font color=\"green\">We are looking for beta testers speaking english and one of the other ingame languages, contact me via skype @ xterium.support </font>', 1, 0, 'mail.warofgalaxyz.com', 465, 'info@warofgalaxyz.com', 'aOqj$29HG3ipangk', '', 'info@warofgalaxyz.com', '/usr/sbin/sendmail', 0, '1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1', 'styles/resource/fonts/DroidSansMono.ttf', 3, 7, 30, 21, 1, 1, 'Europe/Brussels', '0', 1, '', '', '', '', 0, 1466465402, 1, 1466544301, 11, 12, 'my_domain_url.com');
+=======
+INSERT INTO `uni1_config` (`uni`, `VERSION`, `sql_revision`, `users_amount`, `uni_name`, `game_name`, `game_disable`, `close_reason`, `forum_url`, `adm_attack`, `debug`, `lang`, `reg_closed`, `OverviewNewsFrame`, `OverviewNewsText`, `mail_active`, `mail_use`, `smtp_host`, `smtp_port`, `smtp_user`, `smtp_pass`, `smtp_ssl`, `smtp_sendmail`, `smail_path`, `user_valid`, `moduls`, `ttf_file`, `del_oldstuff`, `del_user_manually`, `del_user_automatic`, `del_user_sendmail`, `sendmail_inactive`, `silo_factor`, `timezone`, `dst`, `energySpeed`, `disclamerAddress`, `disclamerPhone`, `disclamerMail`, `disclamerNotice`, `darkmatter_reduc`, `cronInstant`, `cronInstantStep`, `cronBot`, `usersOnline`, `usersOnline2`) VALUES
+(1, '1.7.git', 0, 2887, '#WOG', 'War Of Galaxyz', 1, '', 'https://forum.warofgalaxyz.com', 1, 0, 'en', 0, 1, 'We are activly looking for membres being able to translate corectly some parts of the game in their language (deutsche, spanish, turkish, polish, portugues (currently closed))\r\n<font color=\"green\">We are looking for beta testers speaking english and one of the other ingame languages, contact me via skype @ xterium.support </font>', 1, 0, 'mail.warofgalaxyz.com', 465, 'info@warofgalaxyz.com', 'aOqj$29HG3ipangk', '', 'info@warofgalaxyz.com', '/usr/sbin/sendmail', 0, '1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1', 'styles/resource/fonts/DroidSansMono.ttf', 3, 7, 30, 21, 1, 1, 'Europe/Brussels', '0', 1, '', '', '', '', 0, 1466465402, 1, 1466544301, 11, 12, 'my_game_url.com');
+>>>>>>> 6e673989124fd327980808a5bf6e8755fd310967
 
 -- --------------------------------------------------------
 
