@@ -141,7 +141,7 @@ abstract class AbstractLoginPage
 			'languages'				=> Language::getAllowedLangs(false),
 			'ShowMode'				=> $ShowMode,
 			'choosen_lang'			=> $LNG['choosen_lang'],
-			'my_game_url'			=> 'MYGAMEURL.COM'; //without https or www
+			'my_game_url'			=> $config->domain_name, //without https or www
 		));
 	}
 	

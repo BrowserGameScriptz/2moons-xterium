@@ -44,9 +44,9 @@ $page		= str_replace(array('_', '\\', '/', '.', "\0"), '', $page);
 $pageClass	= 'Show'.ucfirst($page).'Page';
 
 if($page != "vertify" && !empty($code))
-	header('Location: https://www.warofgalaxyz.com/index.php?code='.$code);
+	header('Location: https://www.'.config::get()->domain_name.'/index.php?code='.$code);
 elseif($page != "vertify")
-	header('Location: https://www.warofgalaxyz.com/');
+	header('Location: https://www.'.config::get()->domain_name.'/');
 	
 $path		= 'includes/pages/login/'.$pageClass.'.class.php';
 

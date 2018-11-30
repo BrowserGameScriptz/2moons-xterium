@@ -1911,7 +1911,7 @@ abstract class AbstractGamePage
 			'planetGalaxy'		=> $PLANET['galaxy'],
 			'planetSystem'		=> $PLANET['system'],
 			'planetPlanet'		=> $PLANET['planet'],
-			'my_game_url'		=> 'MYGAMEURL.COM'; //without https or www
+			'my_game_url'		=> $config->domain_name //without https or www
 		));
 		
 		$MemoryUsage = round((memory_get_usage()/1048576));

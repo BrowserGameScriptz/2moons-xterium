@@ -76,7 +76,7 @@ class ShowIngamePage extends AbstractLoginPage
 			if($universe == "wog")
 				$universe = "play";
 			
-			header('Location: https://'.$universe.'.warofgalaxyz.com/check.php?referralID='.$AccountInf['ref_id'].'&email='.$AccountInf['email'].'&username='.$AccountInf['username'].'&lang='.$AccountInf['lang'].'&userId='.$AccountInf['id'].'&encodingplayer='.$AccountInf['encodage'].'&password='.$AccountInf['password'].''); 
+			header('Location: https://'.$universe.'.'.$config->domain_name.'/check.php?referralID='.$AccountInf['ref_id'].'&email='.$AccountInf['email'].'&username='.$AccountInf['username'].'&lang='.$AccountInf['lang'].'&userId='.$AccountInf['id'].'&encodingplayer='.$AccountInf['encodage'].'&password='.$AccountInf['password'].''); 
 			
 		}
 	}
