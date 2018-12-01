@@ -1101,7 +1101,7 @@ CREATE TABLE `uni1_config` (
   `expeFleetBonus` int(11) UNSIGNED NOT NULL DEFAULT '0',
   `auctionerItems` tinyint(3) UNSIGNED NOT NULL DEFAULT '3',
   `arsenalHostil` int(11) UNSIGNED NOT NULL DEFAULT '0',
-  `domain_name` text NOT NULL,
+  `domain_name` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --

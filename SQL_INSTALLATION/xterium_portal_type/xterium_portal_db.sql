@@ -352,7 +352,7 @@ CREATE TABLE `uni1_config` (
   `cronBot` int(11) UNSIGNED NOT NULL DEFAULT '0',
   `usersOnline` int(11) UNSIGNED NOT NULL DEFAULT '0',
   `usersOnline2` int(11) UNSIGNED NOT NULL DEFAULT '0',
-  `domain_name` text NOT NULL,
+  `domain_name` text NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 --
